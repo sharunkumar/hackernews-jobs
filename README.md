@@ -4,7 +4,6 @@
 
 | Title | Apply |
 |-------|-----|
-| Motion (YC W20) is hiring our first customer success manager | [Apply](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn) |
 | Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video | [Apply](https://www.sievedata.com/) |
 | Roame (YC S23) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer) |
 | SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu) |
