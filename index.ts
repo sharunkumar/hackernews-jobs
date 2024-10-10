@@ -75,6 +75,8 @@ ${removedJobsCommitMessage}
 
 const commitChanges = async () => {
 	try {
+		await $`git config user.name 'github-actions[bot]'`;
+		await $`git config user.email 'github-actions[bot]@users.noreply.github.com'`;
 		await $`git add ${readme}`;
 		await $`git commit -m ${commitMessage}`;
 		await $`git push`;
