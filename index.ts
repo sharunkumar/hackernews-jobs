@@ -7,17 +7,12 @@ const jobstoriesdata = await Promise.all((await jobstories.json() as number[]).m
   return jobdata.json()
 }))
 
-const generateMarkdown = (data: any[]) => {
-  let markdown = '|-------|-----|\n';
-  data.forEach((job) => {
-    if (job.title && job.url) {
-      markdown += `| ${job.title} | [Apply](${job.url}) |\n`;
-    }
-  });
+const markdownContent = jobstoriesdata.reduce((markdown, job) => {
+  if (job.title && job.url) {
+    return markdown + `| ${job.title} | [Apply](${job.url}) |\n`;
+  }
   return markdown;
-};
-
-const markdownContent = generateMarkdown(jobstoriesdata);
+}, '| Title | Apply |\n|-------|-----|\n');
 
 // Read the existing README.md file
 const readmePath = 'README.md';

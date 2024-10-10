@@ -2,6 +2,7 @@
 
 <!-- table start -->
 
+| Title | Apply |
 |-------|-----|
 | Motion (YC W20) is hiring our first customer success manager | [Apply](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn) |
 | Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video | [Apply](https://www.sievedata.com/) |
