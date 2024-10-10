@@ -1,3 +1,5 @@
+import { $ } from "bun";
+
 const jobstories = await fetch(
 	"https://hacker-news.firebaseio.com/v0/jobstories.json",
 );
@@ -18,18 +20,65 @@ const markdownContent = jobstoriesdata.reduce((markdown, job) => {
 	return markdown;
 }, "| Title | Apply |\n|-------|-----|\n");
 
-const readmeFile = Bun.file("README.md");
+const readme = "README.md";
+
+const readmeFile = Bun.file(readme);
 const readmeContent = await readmeFile.text();
 
-// Replace the content between the comments
 const startComment = "<!-- table start -->";
 const endComment = "<!-- table end -->";
-const regex = new RegExp(`${startComment}[\\s\\S]*${endComment}`);
+const regex = new RegExp(`${startComment}[\\s\\S]*${endComment}`, "g");
+
+// Extract existing job content
+const existingContent = readmeContent.match(regex)?.[0] || "";
+const existingJobs = existingContent
+	.split("\n")
+	.filter((line) => line.startsWith("|") && !line.startsWith("| Title"))
+	.flatMap((line) => {
+		const [, title] = line.match(/\| (.*?) \|/) || [];
+		return title?.trim() ?? [];
+	});
+
+// Compare existing jobs with new jobs
+const newJobs = jobstoriesdata.flatMap((job) =>
+	job.title && job.url ? job.title : [],
+);
+
+const addedJobs = newJobs.filter((job) => !existingJobs.includes(job));
+const removedJobs = existingJobs.filter((job) => !newJobs.includes(job));
+
 const updatedContent = readmeContent.replace(
 	regex,
 	`${startComment}\n\n${markdownContent}\n${endComment}`,
 );
 
-readmeFile.writer().write(updatedContent);
+Bun.write(readme, updatedContent);
 
-console.log("README.md has been updated with the latest job stories.");
+console.log(`${readme} has been updated with the latest job stories.`);
+
+const addedJobsCommitMessage = addedJobs.reduce(
+	(message, job) => (message ? `${message}\n${job}` : `Added jobs:\n${job}`),
+	"",
+);
+
+const removedJobsCommitMessage = removedJobs.reduce(
+	(message, job) => (message ? `${message}\n${job}` : `Removed jobs:\n${job}`),
+	"",
+);
+
+const commitMessage = `Update Jobs
+
+${addedJobsCommitMessage}
+
+${removedJobsCommitMessage}
+`.trim();
+
+const commitChanges = async () => {
+	try {
+		await $`git add ${readme}`;
+		await $`git commit -m ${commitMessage}`;
+		await $`git push`;
+	} catch (_error) {}
+};
+
+await commitChanges();
