@@ -1,5 +1,15 @@
 import { $ } from "bun";
 
+const commitChanges = async (readme: string, commitMessage: string) => {
+	try {
+		await $`git config user.name 'github-actions[bot]'`;
+		await $`git config user.email 'github-actions[bot]@users.noreply.github.com'`;
+		await $`git add ${readme}`;
+		await $`git commit -m ${commitMessage}`;
+		await $`git push`;
+	} catch (_error) {}
+};
+
 const jobstories = await fetch(
 	"https://hacker-news.firebaseio.com/v0/jobstories.json",
 );
@@ -66,21 +76,12 @@ const removedJobsCommitMessage = removedJobs.reduce(
 	"",
 );
 
-const commitMessage = `Update Jobs
+await commitChanges(
+	readme,
+	`Update Jobs
 
 ${addedJobsCommitMessage}
 
 ${removedJobsCommitMessage}
-`.trim();
-
-const commitChanges = async () => {
-	try {
-		await $`git config user.name 'github-actions[bot]'`;
-		await $`git config user.email 'github-actions[bot]@users.noreply.github.com'`;
-		await $`git add ${readme}`;
-		await $`git commit -m ${commitMessage}`;
-		await $`git push`;
-	} catch (_error) {}
-};
-
-await commitChanges();
+`.trim(),
+);
