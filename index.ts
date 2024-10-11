@@ -67,12 +67,14 @@ Bun.write(readme, updatedContent);
 console.log(`${readme} has been updated with the latest job stories.`);
 
 const addedJobsCommitMessage = addedJobs.reduce(
-	(message, job) => (message ? `${message}\n${job}` : `Added jobs:\n${job}`),
+	(message, job) =>
+		message ? `${message}\n - ${job}` : `Added jobs:\n - ${job}`,
 	"",
 );
 
 const removedJobsCommitMessage = removedJobs.reduce(
-	(message, job) => (message ? `${message}\n${job}` : `Removed jobs:\n${job}`),
+	(message, job) =>
+		message ? `${message}\n - ${job}` : `Removed jobs:\n - ${job}`,
 	"",
 );
 
