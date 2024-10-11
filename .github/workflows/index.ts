@@ -30,7 +30,7 @@ const markdownContent = jobstoriesdata.reduce((markdown, job) => {
 	return markdown;
 }, "| Title | Apply |\n|-------|-----|\n");
 
-const readme = "README.md";
+const readme = "../../README.md";
 
 const readmeFile = Bun.file(readme);
 const readmeContent = await readmeFile.text();
