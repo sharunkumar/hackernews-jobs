@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hamming AI (YC S24) Is Hiring a Product Engineer | [Apply](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer) |
 | Motion (YC W20) is hiring our first customer success manager | [Apply](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn) |
 | Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video | [Apply](https://www.sievedata.com/) |
 | Roame (YC S23) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer) |
@@ -30,6 +31,5 @@
 | NewsCatcher News API (YC S22) Is Hiring | [Apply](https://www.newscatcherapi.com/careers) |
 | Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x) |
 | Infisical (YC W23) Is Hiring Developers Who Love Writing | [Apply](https://www.ycombinator.com/companies/infisical/jobs/snlbWtr-technical-content-marketer) |
-| Icon (real creators, AI ads) is hiring founding engineers/ex-founders (NYC) | [Apply](https://icon.me/careers) |
 
 <!-- table end -->
