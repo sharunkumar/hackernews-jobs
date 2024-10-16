@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
 | IcePanel (YC W23) is hiring full stack engineers in Vancouver | [Apply](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer) |
 | Hamming AI (YC S24) Is Hiring a Product Engineer | [Apply](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer) |
 | Motion (YC W20) is hiring our first customer success manager | [Apply](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn) |
@@ -30,6 +31,5 @@
 | Emerge Tools (YC W21) is hiring a senior front end engineer | [Apply](https://www.emergetools.com/careers/jobs/senior-frontend-engineer) |
 | Verdn (YC W22) is hiring software engineers to build next-gen donation APIs | [Apply](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer) |
 | NewsCatcher News API (YC S22) Is Hiring | [Apply](https://www.newscatcherapi.com/careers) |
-| Typewise (YC S22) Is Hiring a Senior AI Back End Engineer (Python, Europe) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/NH0WiMZ-senior-backend-engineer-f-m-x) |
 
 <!-- table end -->
