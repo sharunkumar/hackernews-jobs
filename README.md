@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js) | [Apply](https://www.ycombinator.com/companies/optery/jobs) |
 | Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure | [Apply](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure) |
 | Artie (YC S23) Is Hiring Founding BDRs | [Apply](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr) |
 | Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
@@ -31,6 +32,5 @@
 | Hatchet (YC W24) is hiring a developer-focused product engineer | [Apply](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer) |
 | Devyce (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/devyce/jobs/07JsyBp-senior-business-development-manager) |
 | Emerge Tools (YC W21) is hiring a senior front end engineer | [Apply](https://www.emergetools.com/careers/jobs/senior-frontend-engineer) |
-| Verdn (YC W22) is hiring software engineers to build next-gen donation APIs | [Apply](https://www.ycombinator.com/companies/verdn/jobs/aGevsKd-full-stack-engineer) |
 
 <!-- table end -->
