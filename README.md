@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Distro (YC S24) Is Hiring a Tech Lead | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead) |
+| Distro (YC S24) is hiring a tech lead | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead) |
 | Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js) | [Apply](https://www.ycombinator.com/companies/optery/jobs) |
 | Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure | [Apply](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure) |
 | Artie (YC S23) Is Hiring Founding BDRs | [Apply](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr) |
