@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Jiga (YC W21) Is Hiring FS Engineer (React/Mongo/Node) | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
+| Jiga (YC W21) Is Hiring a Full Stack Engineer (React/Mongo/Node) | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Distro (YC S24) is hiring a tech lead | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead) |
 | Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js) | [Apply](https://www.ycombinator.com/companies/optery/jobs) |
 | Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure | [Apply](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure) |
