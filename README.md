@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE | [Apply](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts) |
 | Jiga (YC W21) Is Hiring a Full Stack Engineer (React/Mongo/Node) | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Distro (YC S24) is hiring a tech lead | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead) |
 | Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js) | [Apply](https://www.ycombinator.com/companies/optery/jobs) |
@@ -30,7 +31,5 @@
 | Mux (YC W16) is hiring a video engineer | [Apply](https://www.mux.com/jobs?job=video) |
 | Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer) |
 | Trayd (YC S23) Is Hiring | [Apply](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9) |
-| Distro (YC S24) Is Hiring a Senior Software Engineer | [Apply](https://www.ycombinator.com/companies/distro/jobs/nZB8oET-senior-software-engineer) |
-| Hatchet (YC W24) is hiring a developer-focused product engineer | [Apply](https://www.ycombinator.com/companies/hatchet-2/jobs/eopXhc4-product-engineer) |
 
 <!-- table end -->
