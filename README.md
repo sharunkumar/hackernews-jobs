@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sei AI (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai) |
 | Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE | [Apply](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts) |
 | Jiga (YC W21) Is Hiring a Full Stack Engineer (React/Mongo/Node) | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Distro (YC S24) is hiring a tech lead | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead) |
