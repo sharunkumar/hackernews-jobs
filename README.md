@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers | [Apply](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer) |
 | Sei AI (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai) |
 | Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE | [Apply](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts) |
 | Jiga (YC W21) Is Hiring a Full Stack Engineer (React/Mongo/Node) | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
@@ -31,6 +32,5 @@
 | Nowadays (YC S23) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/nowadays) |
 | Mux (YC W16) is hiring a video engineer | [Apply](https://www.mux.com/jobs?job=video) |
 | Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer) |
-| Trayd (YC S23) Is Hiring | [Apply](https://buildtrayd.notion.site/Part-time-Product-Designer-20-hrs-week-2c30587405df4edc9f24f714922105d9) |
 
 <!-- table end -->
