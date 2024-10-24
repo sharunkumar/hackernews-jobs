@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| CodeCrafters (YC S22) is hiring a full-stack engineer | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product) |
 | NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers | [Apply](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer) |
 | Sei AI (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai) |
 | Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE | [Apply](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts) |
@@ -31,6 +32,5 @@
 | Gym Class (YC W22) – Hiring First Mobile Game Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal) |
 | Nowadays (YC S23) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/nowadays) |
 | Mux (YC W16) is hiring a video engineer | [Apply](https://www.mux.com/jobs?job=video) |
-| Activeloop (YC S18) hiring an AI search engineer to ship fast, accurate search | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/RQYMSP1-ai-search-engineer) |
 
 <!-- table end -->
