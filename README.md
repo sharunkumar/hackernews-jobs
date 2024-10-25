@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Vapi (YC W21) is hiring a founding infra engineer to handle scale | [Apply](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure) |
 | Viva Labs (YC W22) is hiring a video/image AI research lead | [Apply](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6) |
 | CodeCrafters (YC S22) is hiring a full-stack engineer | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product) |
@@ -31,6 +32,5 @@
 | RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 | PropelAuth (YC W22) is hiring engineers who love to write | [Apply](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator) |
 | Versable (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/versable/jobs/LeJtyhJ-senior-engineer) |
-| Gym Class (YC W22) – Hiring First Mobile Game Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal) |
 
 <!-- table end -->
