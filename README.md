@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Instant (YC S22) Is Hiring a Founding Engineer to Build a Modern Firebase | [Apply](https://www.instantdb.com/hiring) |
 | Vapi (YC W21) is hiring a founding infra engineer to handle scale | [Apply](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure) |
 | Viva Labs (YC W22) is hiring a video/image AI research lead | [Apply](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6) |
