@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Viva Labs (YC W22) is hiring a video/image AI research lead | [Apply](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6) |
 | CodeCrafters (YC S22) is hiring a full-stack engineer | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product) |
 | NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers | [Apply](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer) |
@@ -31,6 +32,5 @@
 | PropelAuth (YC W22) is hiring engineers who love to write | [Apply](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator) |
 | Versable (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/versable/jobs/LeJtyhJ-senior-engineer) |
 | Gym Class (YC W22) – Hiring First Mobile Game Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-senior-staff-principal) |
-| Nowadays (YC S23) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/nowadays) |
 
 <!-- table end -->
