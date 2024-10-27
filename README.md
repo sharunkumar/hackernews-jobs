@@ -32,6 +32,5 @@
 | Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer) |
 | RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 | PropelAuth (YC W22) is hiring engineers who love to write | [Apply](https://www.ycombinator.com/companies/propelauth/jobs/pLMnFlZ-technical-content-creator) |
-| Versable (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/versable/jobs/LeJtyhJ-senior-engineer) |
 
 <!-- table end -->
