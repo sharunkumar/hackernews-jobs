@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer) |
 | Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF) | [Apply](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer) |
 | Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
 | Hyperbound (YC S23) is hiring a 4th founding full-stack engineer | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer) |
@@ -31,6 +32,5 @@
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | UpCodes (YC S17) is hiring recruiters to build out remote team | [Apply](https://up.codes/careers?utm_source=HN) |
 | Trellis (YC W24) is hiring eng to build AI workflows for unstructured data | [Apply](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra) |
-| Supabase (YC S20) Is Hiring a Product Marketer (Remote) | [Apply](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16) |
 
 <!-- table end -->
