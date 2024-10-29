@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
 | Hyperbound (YC S23) is hiring a 4th founding full-stack engineer | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer) |
 | Instant (YC S22) is hiring a founding engineer to build a modern Firebase | [Apply](https://www.instantdb.com/hiring) |
 | Vapi (YC W21) is hiring a founding infra engineer to handle scale | [Apply](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure) |
@@ -31,6 +32,5 @@
 | Trellis (YC W24) is hiring eng to build AI workflows for unstructured data | [Apply](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra) |
 | Supabase (YC S20) Is Hiring a Product Marketer (Remote) | [Apply](https://jobs.ashbyhq.com/supabase/8d022981-842c-40b1-bb04-3a42632bac16) |
 | Continue (YC S23) Is Hiring a Developer Relations Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/il3YrJC-developer-relations-engineer) |
-| RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 
 <!-- table end -->
