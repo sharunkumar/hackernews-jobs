@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infisical (YC W23) Is Hiring Full Stack Engineers (Remote or in SF) | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote) |
 | Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote) | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer) |
 | Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF) | [Apply](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer) |
@@ -31,6 +32,5 @@
 | SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu) |
 | Substack (YC W18) Is Hiring Machine Learning Engineers | [Apply](https://grnh.se/d034f1ba5us) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
-| UpCodes (YC S17) is hiring recruiters to build out remote team | [Apply](https://up.codes/careers?utm_source=HN) |
 
 <!-- table end -->
