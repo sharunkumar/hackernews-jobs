@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Lago (Open-Source Usage Based Billing) Is Hiring for Post-Sales Roles (EU) | [Apply](https://www.ycombinator.com/companies/lago/jobs/ndrGaKe-solutions-engineer-post-sales) |
+| Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote) | [Apply](https://www.clipboardhealth.com/engineering) |
 | Infisical (YC W23) is hiring full stack engineers (remote or in SF) | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote) |
 | Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote) | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer) |
@@ -30,7 +32,5 @@
 | Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video | [Apply](https://www.sievedata.com/) |
 | Roame (YC S23) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer) |
 | SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/xjv10eq-site-reliability-engineer-remote-india-eu) |
-| Substack (YC W18) Is Hiring Machine Learning Engineers | [Apply](https://grnh.se/d034f1ba5us) |
-| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 
 <!-- table end -->
