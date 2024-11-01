@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Activeloop (YC S18) Seeks Python Back End Engineers to Build the Database for AI | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer) |
+| Activeloop (YC S18) seeks Python back end engineers to build a database for AI | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer) |
 | Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote) | [Apply](https://www.clipboardhealth.com/engineering) |
 | Infisical (YC W23) is hiring full stack engineers (remote or in SF) | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote) |
 | Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote) | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
