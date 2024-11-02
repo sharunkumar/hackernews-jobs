@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai) |
 | Pythagora (GPT Pilot) (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world) |
 | Activeloop (YC S18) seeks Python back end engineers to build a database for AI | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer) |
 | Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote) | [Apply](https://www.clipboardhealth.com/engineering) |
@@ -31,6 +32,5 @@
 | Hamming AI (YC S24) Is Hiring a Product Engineer | [Apply](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer) |
 | Motion (YC W20) is hiring our first customer success manager | [Apply](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn) |
 | Sieve (YC W22) Is Hiring Engineers to Build AI Infrastructure for Video | [Apply](https://www.sievedata.com/) |
-| Roame (YC S23) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/J6cqHa6-lead-full-stack-engineer) |
 
 <!-- table end -->
