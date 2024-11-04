@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| PropelAuth (YC W22) is hiring Fullstack and Rust engineers | [Apply](https://www.ycombinator.com/companies/propelauth/jobs) |
 | Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai) |
 | Pythagora (GPT Pilot) (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world) |
 | Activeloop (YC S18) seeks Python back end engineers to build a database for AI | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer) |
