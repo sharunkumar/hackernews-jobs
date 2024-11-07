@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js) | [Apply](https://www.workatastartup.com/companies/optery) |
 | Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF) | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer) |
 | PropelAuth (YC W22) is hiring Fullstack and Rust engineers | [Apply](https://www.ycombinator.com/companies/propelauth/jobs) |
 | Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai) |
@@ -31,6 +32,5 @@
 | Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
 | IcePanel (YC W23) is hiring full stack engineers in Vancouver | [Apply](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer) |
 | Hamming AI (YC S24) Is Hiring a Product Engineer | [Apply](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer) |
-| Motion (YC W20) is hiring our first customer success manager | [Apply](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn) |
 
 <!-- table end -->
