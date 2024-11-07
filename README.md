@@ -26,11 +26,11 @@
 | Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE | [Apply](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts) |
 | Jiga (YC W21) Is Hiring a Full Stack Engineer (React/Mongo/Node) | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Distro (YC S24) is hiring a tech lead | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead) |
-| Optery (YC W22) Is Hiring Product Manager and Full Stack Developer (Node.js) | [Apply](https://www.ycombinator.com/companies/optery/jobs) |
 | Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure | [Apply](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure) |
 | Artie (YC S23) Is Hiring Founding BDRs | [Apply](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr) |
 | Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
 | IcePanel (YC W23) is hiring full stack engineers in Vancouver | [Apply](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer) |
 | Hamming AI (YC S24) Is Hiring a Product Engineer | [Apply](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer) |
+| Motion (YC W20) is hiring our first customer success manager | [Apply](https://jobs.ashbyhq.com/motion/f1a2ebd8-c390-4d23-89e7-519979f4630b?utm_source=hn) |
 
 <!-- table end -->
