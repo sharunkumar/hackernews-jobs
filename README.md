@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Aviator (YC S21) Is hiring engineers to build a DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack) |
 | Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js) | [Apply](https://www.workatastartup.com/companies/optery) |
 | Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF) | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer) |
 | PropelAuth (YC W22) is hiring Fullstack and Rust engineers | [Apply](https://www.ycombinator.com/companies/propelauth/jobs) |
@@ -31,6 +32,5 @@
 | Artie (YC S23) Is Hiring Founding BDRs | [Apply](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr) |
 | Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
 | IcePanel (YC W23) is hiring full stack engineers in Vancouver | [Apply](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer) |
-| Hamming AI (YC S24) Is Hiring a Product Engineer | [Apply](https://www.ycombinator.com/companies/hamming-ai/jobs/XTCQPuO-product-engineer) |
 
 <!-- table end -->
