@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory | [Apply](https://www.getzep.com/careers) |
 | Aviator (YC S21) Is hiring engineers to build a DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack) |
 | Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js) | [Apply](https://www.workatastartup.com/companies/optery) |
 | Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF) | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer) |
@@ -31,6 +32,5 @@
 | Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure | [Apply](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure) |
 | Artie (YC S23) Is Hiring Founding BDRs | [Apply](https://www.ycombinator.com/companies/artie/jobs/7nZZhlU-founding-bdr) |
 | Zep AI (YC W24) Is Hiring AI Engineers and Dev Advocates | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
-| IcePanel (YC W23) is hiring full stack engineers in Vancouver | [Apply](https://www.ycombinator.com/companies/icepanel/jobs/rTmu6sL-senior-full-stack-software-engineer) |
 
 <!-- table end -->
