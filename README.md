@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (YC W23) is hiring remotely for open-source product integrations | [Apply](https://nango.dev/jobs) |
 | Haven (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer) |
 | Trellis (YC W24) is hiring eng to turn documents into database | [Apply](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra) |
 | Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory | [Apply](https://www.getzep.com/careers) |
@@ -31,6 +32,5 @@
 | Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE | [Apply](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts) |
 | Jiga (YC W21) Is Hiring a Full Stack Engineer (React/Mongo/Node) | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Distro (YC S24) is hiring a tech lead | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead) |
-| Reflex (YC W23) Hiring Senior/Staff Engineer – Infrastructure | [Apply](https://www.ycombinator.com/companies/reflex/jobs/uBt9ZNP-senior-staff-engineer-infrastructure) |
 
 <!-- table end -->
