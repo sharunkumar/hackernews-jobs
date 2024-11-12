@@ -31,6 +31,5 @@
 | CodeCrafters (YC S22) is hiring a full-stack engineer | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product) |
 | NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers | [Apply](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer) |
 | Sei AI (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/gTP6gPx-software-engineer-typescript-gen-ai) |
-| Cosine (YC W23) Hiring JavaScript/TS Dev to Build AI SWE | [Apply](https://www.ycombinator.com/companies/cosine/jobs/BtJNDIi-product-engineer-fullstack-js-ts) |
 
 <!-- table end -->
