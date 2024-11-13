@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Patterns (YC S21) Is Hiring to Transform Business Finance and Credit | [Apply](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166) |
 | Hadrius (YC W23) is hiring engineers looking to grow into future founders | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer) |
 | TaxGPT (YC S24) Is Hiring Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused) |
 | Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal) |
@@ -30,6 +31,5 @@
 | Viva Labs (YC W22) is hiring a video/image AI research lead | [Apply](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6) |
 | CodeCrafters (YC S22) is hiring a full-stack engineer | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/U31ttcu-software-engineer-product) |
-| NewsCatcher (YC S22) Is Hiring Web Scraping/Crawling Engineers | [Apply](https://www.newscatcherapi.com/career/web-crawling-scraping-engineer) |
 
 <!-- table end -->
