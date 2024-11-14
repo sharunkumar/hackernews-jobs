@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| MindsDB (YC W20) Is Hiring an Operations Analyst | [Apply](https://grnh.se/e9445a887us) |
 | Reflex (YC W23) Is Hiring Software Engineers (San Francisco) | [Apply](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer) |
 | Patterns (YC S21) Is Hiring to Transform Business Finance and Credit | [Apply](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166) |
 | Hadrius (YC W23) is hiring engineers looking to grow into future founders | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer) |
@@ -30,6 +31,5 @@
 | Instant (YC S22) is hiring a founding engineer to build a modern Firebase | [Apply](https://www.instantdb.com/hiring) |
 | Vapi (YC W21) is hiring a founding infra engineer to handle scale | [Apply](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure) |
 | Viva Labs (YC W22) is hiring a video/image AI research lead | [Apply](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead) |
-| Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/?ashby_jid=1d4b2de4-e9a2-4e1b-9fcb-661e678ad7c6) |
 
 <!-- table end -->
