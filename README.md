@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer) |
 | MindsDB (YC W20) Is Hiring an Operations Analyst | [Apply](https://grnh.se/e9445a887us) |
 | Reflex (YC W23) Is Hiring Software Engineers (San Francisco) | [Apply](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer) |
 | Patterns (YC S21) Is Hiring to Transform Business Finance and Credit | [Apply](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166) |
@@ -30,6 +31,5 @@
 | Hyperbound (YC S23) is hiring a 4th founding full-stack engineer | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer) |
 | Instant (YC S22) is hiring a founding engineer to build a modern Firebase | [Apply](https://www.instantdb.com/hiring) |
 | Vapi (YC W21) is hiring a founding infra engineer to handle scale | [Apply](https://www.ycombinator.com/companies/vapi/jobs/BnVHTaQ-founding-senior-engineer-infrastructure) |
-| Viva Labs (YC W22) is hiring a video/image AI research lead | [Apply](https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead) |
 
 <!-- table end -->
