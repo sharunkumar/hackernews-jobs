@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Modern Treasury (YC S18) Is Hiring a Product Designer | [Apply](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd) |
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer) |
 | MindsDB (YC W20) Is Hiring an Operations Analyst | [Apply](https://grnh.se/e9445a887us) |
@@ -30,6 +31,5 @@
 | Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF) | [Apply](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer) |
 | Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
 | Hyperbound (YC S23) is hiring a 4th founding full-stack engineer | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer) |
-| Instant (YC S22) is hiring a founding engineer to build a modern Firebase | [Apply](https://www.instantdb.com/hiring) |
 
 <!-- table end -->
