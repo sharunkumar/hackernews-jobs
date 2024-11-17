@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
+| PermitFlow (YC W22) is hiring senior/staff engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Modern Treasury (YC S18) Is Hiring a Product Designer | [Apply](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd) |
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer) |
 | MindsDB (YC W20) Is Hiring an Operations Analyst | [Apply](https://grnh.se/e9445a887us) |
