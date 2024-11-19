@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley | [Apply](https://www.justpaid.ai/careers#roles) |
 | Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling | [Apply](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling) |
 | PermitFlow (YC W22) is hiring senior/staff engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Modern Treasury (YC S18) Is Hiring a Product Designer | [Apply](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd) |
@@ -30,6 +31,5 @@
 | Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote) | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer) |
 | Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF) | [Apply](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer) |
-| Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
 
 <!-- table end -->
