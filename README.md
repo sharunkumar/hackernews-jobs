@@ -31,6 +31,5 @@
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer) |
 | Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF) | [Apply](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer) |
 | Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
-| Hyperbound (YC S23) is hiring a 4th founding full-stack engineer | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/8itS1HR-founding-full-stack-engineer-4th-engineer) |
 
 <!-- table end -->
