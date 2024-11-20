@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must) |
 | TigerEye (YC S22) Is Hiring a Full Stack Engineer | [Apply](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b) |
 | Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley | [Apply](https://www.justpaid.ai/careers#roles) |
@@ -29,7 +30,5 @@
 | Pythagora (GPT Pilot) (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world) |
 | Activeloop (YC S18) seeks Python back end engineers to build a database for AI | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer) |
 | Clipboard Health (YC W17) is hiring engineers to scale healthcare (remote) | [Apply](https://www.clipboardhealth.com/engineering) |
-| Infisical (YC W23) is hiring full stack engineers (remote or in SF) | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote) |
-| Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote) | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 
 <!-- table end -->
