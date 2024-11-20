@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| TigerEye (YC S22) Is Hiring a Full Stack Engineer | [Apply](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b) |
 | Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley | [Apply](https://www.justpaid.ai/careers#roles) |
 | Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling | [Apply](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling) |
 | PermitFlow (YC W22) is hiring senior/staff engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
@@ -30,6 +31,5 @@
 | Infisical (YC W23) is hiring full stack engineers (remote or in SF) | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vh2CVJc-full-stack-engineer-remote) |
 | Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote) | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/U0mh0Bf-software-engineer) |
-| Reworkd (YC S23) Is Hiring a Customer Success Engineer (In Person SF) | [Apply](https://www.ycombinator.com/companies/reworkd/jobs/KAy2JN4-customer-success-engineer) |
 
 <!-- table end -->
