@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Distro (YC S24) Is Hiring a Head of Marketing (B2B) | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b) |
 | Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must) |
 | TigerEye (YC S22) Is Hiring a Full Stack Engineer | [Apply](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b) |
@@ -28,6 +29,5 @@
 | PropelAuth (YC W22) is hiring Fullstack and Rust engineers | [Apply](https://www.ycombinator.com/companies/propelauth/jobs) |
 | Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai) |
 | Pythagora (GPT Pilot) (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world) |
-| Activeloop (YC S18) seeks Python back end engineers to build a database for AI | [Apply](https://www.ycombinator.com/companies/activeloop/jobs/kCU6ZNq-python-backend-engineer) |
 
 <!-- table end -->
