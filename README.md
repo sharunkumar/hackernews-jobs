@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End) | [Apply](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b) |
 | Distro (YC S24) Is Hiring a Head of Marketing (B2B) | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b) |
 | Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must) |
@@ -28,6 +29,5 @@
 | Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF) | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer) |
 | PropelAuth (YC W22) is hiring Fullstack and Rust engineers | [Apply](https://www.ycombinator.com/companies/propelauth/jobs) |
 | Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/nGeV93o-data-scientist-ai) |
-| Pythagora (GPT Pilot) (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pythagora-gpt-pilot/jobs/CNr5q8B-ux-designer-wanted-to-design-a-new-user-experience-for-developers-in-the-ai-world) |
 
 <!-- table end -->
