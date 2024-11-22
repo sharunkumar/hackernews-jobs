@@ -29,6 +29,5 @@
 | Trellis (YC W24) is hiring eng to turn documents into database | [Apply](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra) |
 | Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory | [Apply](https://www.getzep.com/careers) |
 | Aviator (YC S21) Is hiring engineers to build a DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack) |
-| Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js) | [Apply](https://www.workatastartup.com/companies/optery) |
 
 <!-- table end -->
