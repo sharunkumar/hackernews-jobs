@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Fern Is Hiring Software Engineers in Brooklyn | [Apply](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer) |
+| Windmill hiring Senior Frontend (Svelte) Engineer in Paris | [Apply](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer) |
 | Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
 | Handle.com (YC W19) Is Hiring | [Apply](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant) |
 | Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End) | [Apply](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b) |
@@ -28,7 +30,5 @@
 | Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory | [Apply](https://www.getzep.com/careers) |
 | Aviator (YC S21) Is hiring engineers to build a DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack) |
 | Optery (YC W22) Is Hiring Product Managers and Full Stack Developer (Node.js) | [Apply](https://www.workatastartup.com/companies/optery) |
-| Tamarind Bio (YC W24) is hiring a founding engineer to scale bioML infra (SF) | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/OEkMxsJ-founding-software-engineer) |
-| PropelAuth (YC W22) is hiring Fullstack and Rust engineers | [Apply](https://www.ycombinator.com/companies/propelauth/jobs) |
 
 <!-- table end -->
