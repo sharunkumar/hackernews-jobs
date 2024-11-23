@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Alloy Automation (YC W20) Is Hiring | [Apply](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager) |
 | Fern Is Hiring Software Engineers in Brooklyn | [Apply](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer) |
 | Windmill hiring Senior Frontend (Svelte) Engineer in Paris | [Apply](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer) |
 | Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
@@ -28,6 +29,5 @@
 | Haven (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer) |
 | Trellis (YC W24) is hiring eng to turn documents into database | [Apply](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra) |
 | Zep AI (YC W24) Is Hiring DevRel / Community Managers to Build Agent Memory | [Apply](https://www.getzep.com/careers) |
-| Aviator (YC S21) Is hiring engineers to build a DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs/2fmcI6d-software-engineer-fullstack) |
 
 <!-- table end -->
