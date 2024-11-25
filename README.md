@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Jiga (YC W21) Is Hiring Operations Coordinator | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator) |
 | Alloy Automation (YC W20) Is Hiring | [Apply](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager) |
 | Fern Is Hiring Software Engineers in Brooklyn | [Apply](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer) |
@@ -28,6 +29,5 @@
 | Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal) |
 | Nango (YC W23) is hiring remotely for open-source product integrations | [Apply](https://nango.dev/jobs) |
 | Haven (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer) |
-| Trellis (YC W24) is hiring eng to turn documents into database | [Apply](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra) |
 
 <!-- table end -->
