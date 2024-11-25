@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Replit (YC W18) Is Hiring Software Engineers in the Bay Area | [Apply](https://replit.com/careers) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Jiga (YC W21) Is Hiring Operations Coordinator | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator) |
 | Alloy Automation (YC W20) Is Hiring | [Apply](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager) |
@@ -28,6 +29,5 @@
 | TaxGPT (YC S24) Is Hiring Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused) |
 | Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal) |
 | Nango (YC W23) is hiring remotely for open-source product integrations | [Apply](https://nango.dev/jobs) |
-| Haven (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/haven-2/jobs/MUGkU8h-founding-engineer) |
 
 <!-- table end -->
