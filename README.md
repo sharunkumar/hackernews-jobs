@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf) |
 | AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search | [Apply](https://www.workatastartup.com/jobs/68254) |
 | SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote) |
 | Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer) |
