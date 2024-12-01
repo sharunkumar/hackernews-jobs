@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search | [Apply](https://www.workatastartup.com/jobs/68254) |
+| SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote) |
 | Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 | Replit (YC W18) Is Hiring Software Engineers in the Bay Area | [Apply](https://replit.com/careers) |
@@ -28,6 +30,5 @@
 | Reflex (YC W23) Is Hiring Software Engineers (San Francisco) | [Apply](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer) |
 | Patterns (YC S21) Is Hiring to Transform Business Finance and Credit | [Apply](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166) |
 | Hadrius (YC W23) is hiring engineers looking to grow into future founders | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer) |
-| TaxGPT (YC S24) Is Hiring Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused) |
 
 <!-- table end -->
