@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 | Replit (YC W18) Is Hiring Software Engineers in the Bay Area | [Apply](https://replit.com/careers) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
@@ -28,6 +29,5 @@
 | Patterns (YC S21) Is Hiring to Transform Business Finance and Credit | [Apply](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166) |
 | Hadrius (YC W23) is hiring engineers looking to grow into future founders | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer) |
 | TaxGPT (YC S24) Is Hiring Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/taxgpt/jobs/VqOr5LP-staff-software-engineer-gen-ai-focused) |
-| Gym Class VR (YC W22) Is Hiring Mobile Gameplay Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/BigNKT1-mobile-game-engineer-staff-principal) |
 
 <!-- table end -->
