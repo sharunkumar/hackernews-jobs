@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe | [Apply](https://www.workatastartup.com/jobs/60210) |
+| Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf) |
 | AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search | [Apply](https://www.workatastartup.com/jobs/68254) |
 | SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote) |
@@ -29,7 +31,5 @@
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer) |
 | MindsDB (YC W20) Is Hiring an Operations Analyst | [Apply](https://grnh.se/e9445a887us) |
 | Reflex (YC W23) Is Hiring Software Engineers (San Francisco) | [Apply](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer) |
-| Patterns (YC S21) Is Hiring to Transform Business Finance and Credit | [Apply](https://patterns-ai.notion.site/Patterns-S21-is-Hiring-to-Transform-Business-Finance-and-Credit-13d50d51405d803d8f04c4272725f166) |
-| Hadrius (YC W23) is hiring engineers looking to grow into future founders | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/7pxGZTl-founding-engineer) |
 
 <!-- table end -->
