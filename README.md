@@ -30,6 +30,5 @@
 | Modern Treasury (YC S18) Is Hiring a Product Designer | [Apply](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd) |
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/rPuRKf1-software-engineer) |
 | MindsDB (YC W20) Is Hiring an Operations Analyst | [Apply](https://grnh.se/e9445a887us) |
-| Reflex (YC W23) Is Hiring Software Engineers (San Francisco) | [Apply](https://www.ycombinator.com/companies/reflex/jobs/wz4GHux-software-engineer) |
 
 <!-- table end -->
