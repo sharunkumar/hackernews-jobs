@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ashby (YC W19) Is Hiring Principal Platform Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0) |
 | Openlayer (YC S21) is looking for top-tier design engineers | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer) |
 | Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe | [Apply](https://www.workatastartup.com/jobs/60210) |
 | Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
@@ -28,6 +29,5 @@
 | Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley | [Apply](https://www.justpaid.ai/careers#roles) |
 | Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling | [Apply](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling) |
 | PermitFlow (YC W22) is hiring senior/staff engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
-| Modern Treasury (YC S18) Is Hiring a Product Designer | [Apply](https://jobs.ashbyhq.com/moderntreasury/269a944a-64e6-4dd1-b539-c9d5828ef0fe?utm_source=yYPEbOqnBd) |
 
 <!-- table end -->
