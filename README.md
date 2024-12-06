@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Zep AI (YC W24) Is Hiring a Dev Advocate | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate) |
 | Humanloop (YC S20) Is Hiring Product Engineers in London and SF | [Apply](https://humanloop.com) |
 | Ashby (YC W19) Is Hiring Principal Platform Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0) |
 | Openlayer (YC S21) is looking for top-tier design engineers | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer) |
@@ -28,6 +29,5 @@
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must) |
 | TigerEye (YC S22) Is Hiring a Full Stack Engineer | [Apply](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b) |
 | Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley | [Apply](https://www.justpaid.ai/careers#roles) |
-| Trieve (YC W24) Is Hiring a software engineer to build OpenAPI tooling | [Apply](https://www.ycombinator.com/companies/trieve/jobs/arKjyiM-software-engineer-openapi-tooling) |
 
 <!-- table end -->
