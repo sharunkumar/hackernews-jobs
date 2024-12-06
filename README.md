@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 | Zep AI (YC W24) Is Hiring a Dev Advocate | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate) |
 | Humanloop (YC S20) Is Hiring Product Engineers in London and SF | [Apply](https://humanloop.com) |
 | Ashby (YC W19) Is Hiring Principal Platform Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0) |
@@ -28,6 +29,5 @@
 | Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must) |
 | TigerEye (YC S22) Is Hiring a Full Stack Engineer | [Apply](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b) |
-| Justpaid.ai (YC W23) Is Hiring Software Engineers in Silicon Valley | [Apply](https://www.justpaid.ai/careers#roles) |
 
 <!-- table end -->
