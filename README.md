@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance) |
 | RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 | Zep AI (YC W24) Is Hiring a Dev Advocate | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate) |
 | Humanloop (YC S20) Is Hiring Product Engineers in London and SF | [Apply](https://humanloop.com) |
@@ -28,6 +29,5 @@
 | Distro (YC S24) Is Hiring a Head of Marketing (B2B) | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b) |
 | Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/C65u6ox-product-manager-insurance-insurance-background-must) |
-| TigerEye (YC S22) Is Hiring a Full Stack Engineer | [Apply](https://jobs.ashbyhq.com/TigerEye/05e5cea7-5351-49e6-8e96-adda8281ec0b) |
 
 <!-- table end -->
