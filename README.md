@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms | [Apply](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer) |
 | Distro (YC S24) is seeking a Head of Engineering in the Bay Area | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering) |
 | Laylo (YC S20) Is Hiring an Account Manager in EU/UK | [Apply](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance) |
