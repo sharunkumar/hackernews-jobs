@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Seeking Head of Engineering in the Bay Area (Distro S24) | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering) |
 | Laylo (YC S20) Is Hiring an Account Manager in EU/UK | [Apply](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance) |
 | RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
@@ -28,6 +29,5 @@
 | Handle.com (YC W19) Is Hiring | [Apply](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant) |
 | Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End) | [Apply](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b) |
 | Distro (YC S24) Is Hiring a Head of Marketing (B2B) | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-head-of-marketing-b2b) |
-| Yhangry (YC W22) Is Hiring 2 Mid-Level Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/YcOxw4i-mid-software-engineer) |
 
 <!-- table end -->
