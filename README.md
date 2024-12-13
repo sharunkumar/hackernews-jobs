@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| HyperDX (YC S22) Is Hiring Engineers to Build Open Source Observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Great Question (YC W21) Is Hiring People Operations Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale) |
 | Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote) | [Apply](https://www.infracost.io/join-the-team) |
 | Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms | [Apply](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer) |
@@ -30,6 +31,5 @@
 | Windmill hiring Senior Frontend (Svelte) Engineer in Paris | [Apply](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer) |
 | Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
 | Handle.com (YC W19) Is Hiring | [Apply](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant) |
-| Vapi (YC W21) Is Hiring Founding Senior Engineer (Front End) | [Apply](https://jobs.ashbyhq.com/vapi/4246b127-9f69-4a57-ac70-d16041f8403b) |
 
 <!-- table end -->
