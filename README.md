@@ -30,6 +30,5 @@
 | Alloy Automation (YC W20) Is Hiring | [Apply](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager) |
 | Fern Is Hiring Software Engineers in Brooklyn | [Apply](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer) |
 | Windmill hiring Senior Frontend (Svelte) Engineer in Paris | [Apply](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer) |
-| Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
 
 <!-- table end -->
