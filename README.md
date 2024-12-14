@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Fern (YC W23) Is Hiring a Senior Front End Engineer | [Apply](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Great Question (YC W21) Is Hiring People Operations Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale) |
 | Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote) | [Apply](https://www.infracost.io/join-the-team) |
@@ -30,6 +31,5 @@
 | Fern Is Hiring Software Engineers in Brooklyn | [Apply](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer) |
 | Windmill hiring Senior Frontend (Svelte) Engineer in Paris | [Apply](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer) |
 | Glass Health (YC W23) is hiring founding, senior and lead full-stack engineers | [Apply](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering) |
-| Handle.com (YC W19) Is Hiring | [Apply](https://www.ycombinator.com/companies/handle-com/jobs/dRJJ0vK-senior-implementation-consultant) |
 
 <!-- table end -->
