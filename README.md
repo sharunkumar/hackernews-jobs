@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale | [Apply](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai) |
 | Fern (YC W23) Is Hiring a Senior Front End Engineer | [Apply](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Great Question (YC W21) Is Hiring People Operations Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale) |
@@ -29,6 +30,5 @@
 | Jiga (YC W21) Is Hiring Operations Coordinator | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator) |
 | Alloy Automation (YC W20) Is Hiring | [Apply](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager) |
 | Fern Is Hiring Software Engineers in Brooklyn | [Apply](https://www.ycombinator.com/companies/fern/jobs/ayxViUi-backend-engineer) |
-| Windmill hiring Senior Frontend (Svelte) Engineer in Paris | [Apply](https://www.ycombinator.com/companies/windmill/jobs/voz8eYF-senior-svelte-frontend-engineer) |
 
 <!-- table end -->
