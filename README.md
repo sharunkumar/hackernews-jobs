@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah) | [Apply](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer) |
 | Converge (YC S23) is hiring founding engineer #2 | [Apply](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr) |
 | Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale | [Apply](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai) |
 | Fern (YC W23) Is Hiring a Senior Front End Engineer | [Apply](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer) |
