@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah) | [Apply](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer) |
 | Converge (YC S23) is hiring founding engineer #2 | [Apply](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr) |
 | Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale | [Apply](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai) |
@@ -30,6 +31,5 @@
 | Replit (YC W18) Is Hiring Software Engineers in the Bay Area | [Apply](https://replit.com/careers) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Jiga (YC W21) Is Hiring Operations Coordinator | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Z53kcTZ-logistics-operations-coordinator) |
-| Alloy Automation (YC W20) Is Hiring | [Apply](https://www.ycombinator.com/companies/alloy-automation/jobs/RGzvGvb-software-engineering-manager) |
 
 <!-- table end -->
