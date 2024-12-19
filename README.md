@@ -30,6 +30,5 @@
 | Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 | Replit (YC W18) Is Hiring Software Engineers in the Bay Area | [Apply](https://replit.com/careers) |
-| Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 
 <!-- table end -->
