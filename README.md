@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| MindsDB (YC W20) Is Hiring a Senior Product Manager, Data | [Apply](https://grnh.se/d5ced53d7us) |
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr) | [Apply](https://gauntletai.com) |
 | Openlayer (YC S21) is looking for a customer engineer to join our rocketship | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer) |
 | Hadrius (YC W23) Is Hiring a Founding UI/UX Designer | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer) |
@@ -29,6 +30,5 @@
 | Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf) |
 | AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search | [Apply](https://www.workatastartup.com/jobs/68254) |
 | SigNoz (YC W21) Is Hiring Open Source Community Engineer (Remote) (IN/EU) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/Y8SWUCk-open-source-community-engineer-remote) |
-| Sei AI (YC W22) Is Hiring an AI/ML Engineer with LLM Exposure | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-ai-ml-llm-engineer) |
 
 <!-- table end -->
