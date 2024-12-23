@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Supabase (YC S20) Is Hiring Cloud Platform Engineers (Fully Remote) | [Apply](https://jobs.ashbyhq.com/supabase/3b26b2c9-1e30-4e15-ae31-0cd07f4c530d) |
 | Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance) | [Apply](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24) |
 | MindsDB (YC W20) Is Hiring a Senior Product Manager, Data | [Apply](https://grnh.se/d5ced53d7us) |
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr) | [Apply](https://gauntletai.com) |
@@ -29,6 +30,5 @@
 | Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe | [Apply](https://www.workatastartup.com/jobs/60210) |
 | Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf) |
-| AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search | [Apply](https://www.workatastartup.com/jobs/68254) |
 
 <!-- table end -->
