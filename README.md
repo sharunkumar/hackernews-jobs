@@ -29,6 +29,5 @@
 | Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe | [Apply](https://www.workatastartup.com/jobs/60210) |
 | Kapa.ai (YC S23) is hiring AI research and full-stack roles (EU timezone) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers in SF and Remotely | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2OGBQMt-full-stack-engineer-sf) |
-| AI Search Engineer at Activeloop (YC S18): Build Multi-Modal Enterprise Search | [Apply](https://www.workatastartup.com/jobs/68254) |
 
 <!-- table end -->
