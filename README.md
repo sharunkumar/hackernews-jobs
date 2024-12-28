@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Harper (YC W25) Is Hiring Founding Engineer #2 | [Apply](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer) |
 | Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF) | [Apply](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer) |
 | Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance) | [Apply](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24) |
@@ -28,6 +29,5 @@
 | Humanloop (YC S20) Is Hiring Product Engineers in London and SF | [Apply](https://humanloop.com) |
 | Ashby (YC W19) Is Hiring Principal Platform Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0) |
 | Openlayer (YC S21) is looking for top-tier design engineers | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer) |
-| Wasmer (YC S19) Is Hiring a SRE and DevOps Engineer in Europe | [Apply](https://www.workatastartup.com/jobs/60210) |
 
 <!-- table end -->
