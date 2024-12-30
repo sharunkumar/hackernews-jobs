@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote) | [Apply](https://www.ycombinator.com/companies/pincites/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Harper (YC W25) Is Hiring Founding Engineer #2 | [Apply](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer) |
 | Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF) | [Apply](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer) |
