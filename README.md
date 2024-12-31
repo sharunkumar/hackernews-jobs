@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Legion Health (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa) |
 | Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote) | [Apply](https://www.ycombinator.com/companies/pincites/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Harper (YC W25) Is Hiring Founding Engineer #2 | [Apply](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer) |
@@ -29,6 +30,5 @@
 | Zep AI (YC W24) Is Hiring a Dev Advocate | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate) |
 | Humanloop (YC S20) Is Hiring Product Engineers in London and SF | [Apply](https://humanloop.com) |
 | Ashby (YC W19) Is Hiring Principal Platform Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0) |
-| Openlayer (YC S21) is looking for top-tier design engineers | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/ZEEO8UB-design-engineer) |
 
 <!-- table end -->
