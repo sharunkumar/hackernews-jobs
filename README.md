@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Just Words (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend) |
 | Legion Health (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa) |
 | Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote) | [Apply](https://www.ycombinator.com/companies/pincites/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
