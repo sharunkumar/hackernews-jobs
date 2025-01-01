@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Keeper (YC S21) Is Hiring a Senior Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer) |
 | Just Words (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend) |
 | Legion Health (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa) |
@@ -30,6 +31,5 @@
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance) |
 | RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 | Zep AI (YC W24) Is Hiring a Dev Advocate | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate) |
-| Humanloop (YC S20) Is Hiring Product Engineers in London and SF | [Apply](https://humanloop.com) |
 
 <!-- table end -->
