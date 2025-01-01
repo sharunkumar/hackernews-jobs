@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Keeper (YC S21) Is Hiring a Senior Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer) |
 | Just Words (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend) |
 | Legion Health (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa) |
 | Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote) | [Apply](https://www.ycombinator.com/companies/pincites/jobs) |
@@ -30,6 +31,5 @@
 | RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 | Zep AI (YC W24) Is Hiring a Dev Advocate | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/MTpb6pB-developer-advocate) |
 | Humanloop (YC S20) Is Hiring Product Engineers in London and SF | [Apply](https://humanloop.com) |
-| Ashby (YC W19) Is Hiring Principal Platform Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=213c15c5-8e96-4fce-82da-dab268edc4c0) |
 
 <!-- table end -->
