@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Distro (YC S24) Is Hiring a Business Development Representative (BDR) | [Apply](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Keeper (YC S21) Is Hiring a Senior Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer) |
 | Just Words (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend) |
