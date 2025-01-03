@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| CoinTracker (YC W18) hiring product engineer to solve crypto accounting | [Apply](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5) |
 | UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
 | Distro (YC S24) Is Hiring a Business Development Representative (BDR) | [Apply](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
@@ -31,6 +32,5 @@
 | Distro (YC S24) is seeking a Head of Engineering in the Bay Area | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering) |
 | Laylo (YC S20) Is Hiring an Account Manager in EU/UK | [Apply](https://www.ycombinator.com/companies/laylo/jobs/AzoXzbT-uk-eu-account-manager) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/pZHrmBK-senior-executive-finance) |
-| RankScience (YC W17) is hiring to supercharge SEO for startups | [Apply](https://remotejobs.org/companies/rankscience-remote-jobs) |
 
 <!-- table end -->
