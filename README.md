@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infisical (YC W23) Is Hiring Solutions Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | CoinTracker (YC W18) hiring product engineer to solve crypto accounting | [Apply](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5) |
 | UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
@@ -30,6 +31,5 @@
 | Great Question (YC W21) Is Hiring People Operations Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale) |
 | Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote) | [Apply](https://www.infracost.io/join-the-team) |
 | Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms | [Apply](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer) |
-| Distro (YC S24) is seeking a Head of Engineering in the Bay Area | [Apply](https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-head-of-engineering) |
 
 <!-- table end -->
