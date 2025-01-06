@@ -30,6 +30,5 @@
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Great Question (YC W21) Is Hiring People Operations Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale) |
 | Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote) | [Apply](https://www.infracost.io/join-the-team) |
-| Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms | [Apply](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer) |
 
 <!-- table end -->
