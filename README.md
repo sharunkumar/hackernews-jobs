@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Supabase (YC S20) Is Hiring for Multiple Roles (Remote) | [Apply](https://supabase.com/careers) |
 | Infisical (YC W23) Is Hiring Solutions Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | CoinTracker (YC W18) hiring product engineer to solve crypto accounting | [Apply](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5) |
@@ -29,6 +30,5 @@
 | Fern (YC W23) Is Hiring a Senior Front End Engineer | [Apply](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Great Question (YC W21) Is Hiring People Operations Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale) |
-| Infracost (YC W21) Is Hiring a Founding Solutions Engineer (Remote) | [Apply](https://www.infracost.io/join-the-team) |
 
 <!-- table end -->
