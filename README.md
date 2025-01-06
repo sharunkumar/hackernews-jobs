@@ -29,6 +29,5 @@
 | Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale | [Apply](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai) |
 | Fern (YC W23) Is Hiring a Senior Front End Engineer | [Apply](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
-| Great Question (YC W21) Is Hiring People Operations Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/QnZ7Jyj-great-question-w21-is-hiring-people-operations-manager-to-democratize-ux-research-at-scale) |
 
 <!-- table end -->
