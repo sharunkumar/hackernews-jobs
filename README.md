@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
+| Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote) | [Apply](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer) |
 | Artie (YC S23) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer) |
 | Supabase (YC S20) Is Hiring for Multiple Roles (Remote) | [Apply](https://supabase.com/careers) |
 | Infisical (YC W23) Is Hiring Solutions Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
@@ -28,6 +30,5 @@
 | Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah) | [Apply](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer) |
 | Converge (YC S23) is hiring founding engineer #2 | [Apply](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr) |
 | Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale | [Apply](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai) |
-| Fern (YC W23) Is Hiring a Senior Front End Engineer | [Apply](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer) |
 
 <!-- table end -->
