@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Artie (YC S23) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer) |
 | Supabase (YC S20) Is Hiring for Multiple Roles (Remote) | [Apply](https://supabase.com/careers) |
 | Infisical (YC W23) Is Hiring Solutions Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
@@ -28,6 +29,5 @@
 | Converge (YC S23) is hiring founding engineer #2 | [Apply](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr) |
 | Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale | [Apply](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai) |
 | Fern (YC W23) Is Hiring a Senior Front End Engineer | [Apply](https://www.ycombinator.com/companies/fern/jobs/UJemKYf-senior-frontend-engineer) |
-| HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 
 <!-- table end -->
