@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager | [Apply](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd) |
+| Tiptap (YC S23) is hiring a senior full stack engineer in EU | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction | [Apply](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote) | [Apply](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer) |
@@ -28,7 +30,5 @@
 | Openlayer (YC S21) is looking for a customer engineer to join our rocketship | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer) |
 | Hadrius (YC W23) Is Hiring a Founding UI/UX Designer | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
-| Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah) | [Apply](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer) |
-| Converge (YC S23) is hiring founding engineer #2 | [Apply](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr) |
 
 <!-- table end -->
