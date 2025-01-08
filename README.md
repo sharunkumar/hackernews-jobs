@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Two Dots (YC S22) Is Hiring ML and Back End Engineers | [Apply](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer) |
 | Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager | [Apply](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd) |
 | Tiptap (YC S23) is hiring a senior full stack engineer in EU | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction | [Apply](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer) |
@@ -29,6 +30,5 @@
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr) | [Apply](https://gauntletai.com) |
 | Openlayer (YC S21) is looking for a customer engineer to join our rocketship | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer) |
 | Hadrius (YC W23) Is Hiring a Founding UI/UX Designer | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer) |
-| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 
 <!-- table end -->
