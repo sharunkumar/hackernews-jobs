@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction | [Apply](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote) | [Apply](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer) |
 | Artie (YC S23) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer) |
@@ -29,6 +30,5 @@
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Zaymo (YC W24) Is Hiring Founding Engineer (In Person – Utah) | [Apply](https://www.ycombinator.com/companies/zaymo/jobs/xGeVSF8-founding-engineer) |
 | Converge (YC S23) is hiring founding engineer #2 | [Apply](https://www.ycombinator.com/companies/converge/jobs/GQWZ40Z-founding-engineer-2-at-1m-arr) |
-| Trellis (YC W24) Is Hiring Eng to Automate PDFs Task at Scale | [Apply](https://ycombinator.com/companies/trellis/jobs/7vGTphf-founding-engineer-backend-ai) |
 
 <!-- table end -->
