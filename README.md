@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Roboflow (YC S20) is hiring an engineer to work on its open source projects | [Apply](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer) |
+| AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus) |
 | Two Dots (YC S22) Is Hiring ML and Back End Engineers | [Apply](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer) |
 | Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager | [Apply](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd) |
 | Tiptap (YC S23) is hiring a senior full stack engineer in EU | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
@@ -29,6 +31,5 @@
 | MindsDB (YC W20) Is Hiring a Senior Product Manager, Data | [Apply](https://grnh.se/d5ced53d7us) |
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr) | [Apply](https://gauntletai.com) |
 | Openlayer (YC S21) is looking for a customer engineer to join our rocketship | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer) |
-| Hadrius (YC W23) Is Hiring a Founding UI/UX Designer | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-founding-ui-ux-designer) |
 
 <!-- table end -->
