@@ -30,6 +30,5 @@
 | Finley (YC W21) Is Hiring a Growth Associate (Ex-Finance) | [Apply](https://jobs.lever.co/FinleyTechnologies/429dc338-87e8-4ed7-a302-145e18027e24) |
 | MindsDB (YC W20) Is Hiring a Senior Product Manager, Data | [Apply](https://grnh.se/d5ced53d7us) |
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin ($200k/yr) | [Apply](https://gauntletai.com) |
-| Openlayer (YC S21) is looking for a customer engineer to join our rocketship | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-customer-engineer) |
 
 <!-- table end -->
