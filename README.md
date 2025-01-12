@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead | [Apply](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead) |
+| Yhangry (YC W22) Is Hiring Senior Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer) |
 | Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX) | [Apply](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320) |
 | Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote) | [Apply](https://www.workatastartup.com/jobs/41643) |
 | Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person) | [Apply](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer) |
@@ -29,6 +31,5 @@
 | Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote) | [Apply](https://www.ycombinator.com/companies/pincites/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Harper (YC W25) Is Hiring Founding Engineer #2 | [Apply](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer) |
-| Ocular AI (YC W24) Is Hiring a Founding Backend Engineer ($120K to $200K, SF) | [Apply](https://www.ycombinator.com/companies/ocular-ai/jobs/BFBHWQd-member-of-technical-staff-founding-backend-engineer) |
 
 <!-- table end -->
