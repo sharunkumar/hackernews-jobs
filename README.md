@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k) | [Apply](https://www.raycast.com/jobs/software-engineer-full-stack) |
+| Humanize Healthcare Content as Wyndly (YC W21) 's first content hire | [Apply](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084) |
+| Raycast (YC W20) Is Hiring Full Stack Engineer (EU, Remote, €105k-€160k) | [Apply](https://www.raycast.com/jobs/software-engineer-full-stack) |
 | Langfuse (YC W23) Is Hiring OSS Engineers in Berlin | [Apply](https://github.com/langfuse/langfuse/blob/main/careers) |
 | FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead | [Apply](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead) |
@@ -30,6 +31,5 @@
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Keeper (YC S21) Is Hiring a Senior Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer) |
 | Just Words (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend) |
-| Legion Health (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa) |
 
 <!-- table end -->
