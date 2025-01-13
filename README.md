@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead | [Apply](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead) |
 | Yhangry (YC W22) Is Hiring Senior Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer) |
 | Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX) | [Apply](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320) |
@@ -30,6 +31,5 @@
 | Legion Health (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa) |
 | Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote) | [Apply](https://www.ycombinator.com/companies/pincites/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
-| Harper (YC W25) Is Hiring Founding Engineer #2 | [Apply](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer) |
 
 <!-- table end -->
