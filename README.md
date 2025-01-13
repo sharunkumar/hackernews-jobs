@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k) | [Apply](https://www.raycast.com/jobs/software-engineer-full-stack) |
+| Langfuse (YC W23) Is Hiring OSS Engineers in Berlin | [Apply](https://github.com/langfuse/langfuse/blob/main/careers) |
 | FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead | [Apply](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead) |
 | Yhangry (YC W22) Is Hiring Senior Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer) |
@@ -29,7 +31,5 @@
 | Keeper (YC S21) Is Hiring a Senior Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer) |
 | Just Words (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend) |
 | Legion Health (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa) |
-| Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote) | [Apply](https://www.ycombinator.com/companies/pincites/jobs) |
-| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 
 <!-- table end -->
