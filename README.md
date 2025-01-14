@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Craniometrix (YC W22) Is Hiring Founding Engineer on CTO Track | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track) |
 | Humanize Healthcare Content as Wyndly (YC W21) 's first content hire | [Apply](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084) |
 | Raycast (YC W20) Is Hiring Full Stack Engineer (EU, Remote, €105k-€160k) | [Apply](https://www.raycast.com/jobs/software-engineer-full-stack) |
 | Langfuse (YC W23) Is Hiring OSS Engineers in Berlin | [Apply](https://github.com/langfuse/langfuse/blob/main/careers) |
@@ -30,6 +31,5 @@
 | Distro (YC S24) Is Hiring a Business Development Representative (BDR) | [Apply](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Keeper (YC S21) Is Hiring a Senior Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer) |
-| Just Words (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend) |
 
 <!-- table end -->
