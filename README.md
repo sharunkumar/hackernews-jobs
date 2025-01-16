@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Empirical Health (YC S23) is hiring interns to build data-driven primary care | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025) |
 | Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives | [Apply](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive) |
 | Craniometrix (YC W22) is hiring a founding engineer on CTO track | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track) |
 | Humanize Healthcare Content as Wyndly (YC W21) 's first content hire | [Apply](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084) |
@@ -23,7 +24,6 @@
 | OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction | [Apply](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote) | [Apply](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer) |
-| Artie (YC S23) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer) |
 | Supabase (YC S20) Is Hiring for Multiple Roles (Remote) | [Apply](https://supabase.com/careers) |
 | Infisical (YC W23) Is Hiring Solutions Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
