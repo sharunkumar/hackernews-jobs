@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Artie (YC S23) Is Hiring a Founding Engineer (Distributed Systems) | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
 | Empirical Health (YC S23) is hiring interns to build data-driven primary care | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025) |
 | Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives | [Apply](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive) |
@@ -30,6 +31,5 @@
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | CoinTracker (YC W18) hiring product engineer to solve crypto accounting | [Apply](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5) |
 | UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
-| Distro (YC S24) Is Hiring a Business Development Representative (BDR) | [Apply](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative) |
 
 <!-- table end -->
