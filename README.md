@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job | [Apply](https://gauntletai.com) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage | [Apply](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa) |
 | Fern (YC W23) Is Hiring an AI Engineer in NYC | [Apply](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
@@ -30,6 +31,5 @@
 | Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote) | [Apply](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer) |
 | Supabase (YC S20) Is Hiring for Multiple Roles (Remote) | [Apply](https://supabase.com/careers) |
 | Infisical (YC W23) Is Hiring Solutions Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
-| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 
 <!-- table end -->
