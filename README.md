@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Motion (YC W20) Is Hiring EMs and Engineers | [Apply](https://jobs.ashbyhq.com/motion?utm_source=hn) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer) |
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin | [Apply](https://gauntletai.com) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage | [Apply](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa) |
