@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Motion (YC W20) Is Hiring EMs and Engineers | [Apply](https://jobs.ashbyhq.com/motion?utm_source=hn) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer) |
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin | [Apply](https://gauntletai.com) |
@@ -31,6 +32,5 @@
 | OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction | [Apply](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 | Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote) | [Apply](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer) |
-| Supabase (YC S20) Is Hiring for Multiple Roles (Remote) | [Apply](https://supabase.com/careers) |
 
 <!-- table end -->
