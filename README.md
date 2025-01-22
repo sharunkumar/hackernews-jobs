@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Strac (YC W22) Is Hiring Windows Engineer | [Apply](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Motion (YC W20) Is Hiring EMs and Engineers | [Apply](https://jobs.ashbyhq.com/motion?utm_source=hn) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer) |
