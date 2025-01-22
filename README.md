@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 | Strac (YC W22) Is Hiring Windows Engineer | [Apply](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Motion (YC W20) Is Hiring EMs and Engineers | [Apply](https://jobs.ashbyhq.com/motion?utm_source=hn) |
@@ -32,6 +33,5 @@
 | Tiptap (YC S23) is hiring a senior full stack engineer in EU | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction | [Apply](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
-| Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote) | [Apply](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer) |
 
 <!-- table end -->
