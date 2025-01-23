@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis (YC W24) Is Hiring | [Apply](https://runtrellis.com/) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 | Strac (YC W22) Is Hiring Windows Engineer | [Apply](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
@@ -32,6 +33,5 @@
 | Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager | [Apply](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd) |
 | Tiptap (YC S23) is hiring a senior full stack engineer in EU | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 | OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction | [Apply](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer) |
-| Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo) |
 
 <!-- table end -->
