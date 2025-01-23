@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer | [Apply](https://demodesk.com/careers?utm_source=hn) |
 | Trellis (YC W24) Is Hiring | [Apply](https://runtrellis.com/) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
@@ -32,6 +33,5 @@
 | AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus) |
 | Two Dots (YC S22) Is Hiring ML and Back End Engineers | [Apply](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer) |
 | Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager | [Apply](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd) |
-| Tiptap (YC S23) is hiring a senior full stack engineer in EU | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer) |
 
 <!-- table end -->
