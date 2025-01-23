@@ -32,6 +32,5 @@
 | Roboflow (YC S20) is hiring an engineer to work on its open source projects | [Apply](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer) |
 | AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus) |
 | Two Dots (YC S22) Is Hiring ML and Back End Engineers | [Apply](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer) |
-| Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager | [Apply](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd) |
 
 <!-- table end -->
