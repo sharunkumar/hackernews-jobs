@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) Is Hiring Founding Engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 | Sei (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer | [Apply](https://demodesk.com/careers?utm_source=hn) |
@@ -31,6 +32,5 @@
 | Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote) | [Apply](https://www.workatastartup.com/jobs/41643) |
 | Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person) | [Apply](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer) |
 | Roboflow (YC S20) is hiring an engineer to work on its open source projects | [Apply](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer) |
-| AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus) |
 
 <!-- table end -->
