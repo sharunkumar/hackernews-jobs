@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Inboxbooster (YC W17) Is Hiring | [Apply](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote) |
 | Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 | Sei (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
@@ -31,6 +32,5 @@
 | Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX) | [Apply](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320) |
 | Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote) | [Apply](https://www.workatastartup.com/jobs/41643) |
 | Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person) | [Apply](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer) |
-| Roboflow (YC S20) is hiring an engineer to work on its open source projects | [Apply](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer) |
 
 <!-- table end -->
