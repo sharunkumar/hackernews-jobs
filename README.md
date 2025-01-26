@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog | [Apply](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9) |
 | Inboxbooster (YC W17) Is Hiring | [Apply](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote) |
 | Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 | Sei (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
@@ -31,6 +32,5 @@
 | Yhangry (YC W22) Is Hiring Senior Engineers | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer) |
 | Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX) | [Apply](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320) |
 | Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote) | [Apply](https://www.workatastartup.com/jobs/41643) |
-| Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person) | [Apply](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer) |
 
 <!-- table end -->
