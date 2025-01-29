@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SciPhi (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer) |
 | Curo (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply) |
 | Structured (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer) |
 | Hyperbound (YC S23) is hiring a Founding Account Executive in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf) |
@@ -31,6 +32,5 @@
 | Raycast (YC W20) Is Hiring Full Stack Engineer (EU, Remote, €105k-€160k) | [Apply](https://www.raycast.com/jobs/software-engineer-full-stack) |
 | Langfuse (YC W23) Is Hiring OSS Engineers in Berlin | [Apply](https://github.com/langfuse/langfuse/blob/main/careers) |
 | FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
-| Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead | [Apply](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead) |
 
 <!-- table end -->
