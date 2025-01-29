@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6) | [Apply](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c) |
 | SciPhi (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer) |
 | Curo (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply) |
 | Structured (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer) |
@@ -31,6 +32,5 @@
 | Humanize Healthcare Content as Wyndly (YC W21) 's first content hire | [Apply](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084) |
 | Raycast (YC W20) Is Hiring Full Stack Engineer (EU, Remote, €105k-€160k) | [Apply](https://www.raycast.com/jobs/software-engineer-full-stack) |
 | Langfuse (YC W23) Is Hiring OSS Engineers in Berlin | [Apply](https://github.com/langfuse/langfuse/blob/main/careers) |
-| FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 
 <!-- table end -->
