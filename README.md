@@ -31,6 +31,5 @@
 | Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives | [Apply](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive) |
 | Craniometrix (YC W22) is hiring a founding engineer on CTO track | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track) |
 | Humanize Healthcare Content as Wyndly (YC W21) 's first content hire | [Apply](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084) |
-| Raycast (YC W20) Is Hiring Full Stack Engineer (EU, Remote, €105k-€160k) | [Apply](https://www.raycast.com/jobs/software-engineer-full-stack) |
 
 <!-- table end -->
