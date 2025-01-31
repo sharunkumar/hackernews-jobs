@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/) |
 | Great Question (YC W21) Is Hiring Lead Product Designer | [Apply](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer) |
 | Frigade (YC W23) is hiring engineer #2 | [Apply](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer) |
@@ -29,6 +30,5 @@
 | Fern (YC W23) Is Hiring an AI Engineer in NYC | [Apply](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Artie (YC S23) Is Hiring a Founding Engineer (Distributed Systems) | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
-| Empirical Health (YC S23) is hiring interns to build data-driven primary care | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025) |
 
 <!-- table end -->
