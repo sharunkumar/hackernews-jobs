@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/) |
 | Great Question (YC W21) Is Hiring Lead Product Designer | [Apply](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer) |
 | Frigade (YC W23) is hiring engineer #2 | [Apply](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer) |
 | Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6) | [Apply](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c) |
@@ -29,6 +30,5 @@
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Artie (YC S23) Is Hiring a Founding Engineer (Distributed Systems) | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
 | Empirical Health (YC S23) is hiring interns to build data-driven primary care | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025) |
-| Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives | [Apply](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive) |
 
 <!-- table end -->
