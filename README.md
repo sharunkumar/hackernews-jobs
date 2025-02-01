@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data | [Apply](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer) |
 | FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/) |
@@ -29,6 +30,5 @@
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin | [Apply](https://gauntletai.com) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage | [Apply](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa) |
 | Fern (YC W23) Is Hiring an AI Engineer in NYC | [Apply](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer) |
-| Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 
 <!-- table end -->
