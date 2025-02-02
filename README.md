@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
 | Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data | [Apply](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer) |
 | FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff) |
@@ -29,6 +30,5 @@
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer) |
 | Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin | [Apply](https://gauntletai.com) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage | [Apply](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa) |
-| Fern (YC W23) Is Hiring an AI Engineer in NYC | [Apply](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer) |
 
 <!-- table end -->
