@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer | [Apply](https://www.nango.dev/jobs) |
 | MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
 | Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data | [Apply](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer) |
 | FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
