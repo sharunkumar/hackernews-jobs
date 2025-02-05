@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Roame (YC S23) Is Hiring an AI Fullstack Lead | [Apply](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer) |
 | Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer | [Apply](https://www.nango.dev/jobs) |
 | MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
 | Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data | [Apply](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer) |
@@ -29,6 +30,5 @@
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Motion (YC W20) Is Hiring EMs and Engineers | [Apply](https://jobs.ashbyhq.com/motion?utm_source=hn) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer) |
-| Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin | [Apply](https://gauntletai.com) |
 
 <!-- table end -->
