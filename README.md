@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| CodeCrafters (YC S22) is hiring a software engineer to change how devs learn | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention) |
 | Roame (YC S23) Is Hiring an AI Fullstack Lead | [Apply](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer) |
 | Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer | [Apply](https://www.nango.dev/jobs) |
 | MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
@@ -29,6 +30,5 @@
 | Strac (YC W22) Is Hiring Windows Engineer | [Apply](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows) |
 | HyperDX (YC S22) is hiring engineers to build open source observability | [Apply](https://www.ycombinator.com/companies/hyperdx/jobs) |
 | Motion (YC W20) Is Hiring EMs and Engineers | [Apply](https://jobs.ashbyhq.com/motion?utm_source=hn) |
-| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer) |
 
 <!-- table end -->
