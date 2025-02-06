@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer | [Apply](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df) |
 | Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders | [Apply](https://www.ycombinator.com/companies/ploomber/jobs) |
 | Toma (YC W24) Is Hiring a Founding Platform Engineer | [Apply](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer) |
 | CodeCrafters (YC S22) is hiring a software engineer to change how devs learn | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention) |
@@ -29,6 +30,5 @@
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer | [Apply](https://demodesk.com/careers?utm_source=hn) |
 | Trellis (YC W24) Is Hiring | [Apply](https://runtrellis.com/) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
-| Strac (YC W22) Is Hiring Windows Engineer | [Apply](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows) |
 
 <!-- table end -->
