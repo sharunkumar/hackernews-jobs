@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| PropRise (YC S23) Is Hiring Our First Engineer | [Apply](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend) |
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer) |
 | Roe AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer) |
 | Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer | [Apply](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df) |
@@ -11,7 +12,7 @@
 | Toma (YC W24) Is Hiring a Founding Platform Engineer | [Apply](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer) |
 | CodeCrafters (YC S22) is hiring a software engineer to change how devs learn | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention) |
 | Roame (YC S23) Is Hiring an AI Fullstack Lead | [Apply](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer) |
-| Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer | [Apply](https://www.nango.dev/jobs) |
+| Nango Is Hiring a Senior Full-Stack Engineer (Remote - US/Canada East) | [Apply](https://www.nango.dev/jobs) |
 | MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
 | Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data | [Apply](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer) |
 | FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
@@ -28,6 +29,5 @@
 | Inboxbooster (YC W17) Is Hiring | [Apply](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote) |
 | Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 | Sei (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
-| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 
 <!-- table end -->
