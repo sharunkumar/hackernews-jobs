@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer) |
 | PropRise (YC S23) Is Hiring Our First Engineer | [Apply](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend) |
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer) |
 | Roe AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer) |
