@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid | [Apply](https://www.keelinglabs.com/jobs) |
 | Zep AI (YC W24) is hiring engineers to build SOTA agent memory | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer) |
 | PropRise (YC S23) Is Hiring Our First Engineer | [Apply](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend) |
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer) |
@@ -29,6 +30,5 @@
 | SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog | [Apply](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9) |
 | Inboxbooster (YC W17) Is Hiring | [Apply](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote) |
 | Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
-| Sei (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
 
 <!-- table end -->
