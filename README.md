@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid | [Apply](https://www.keelinglabs.com/jobs) |
 | Zep AI (YC W24) is hiring engineers to build SOTA agent memory | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer) |
