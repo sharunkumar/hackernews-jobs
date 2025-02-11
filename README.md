@@ -29,6 +29,5 @@
 | Structured (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer) |
 | Hyperbound (YC S23) is hiring a Founding Account Executive in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf) |
 | SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog | [Apply](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9) |
-| Inboxbooster (YC W17) Is Hiring | [Apply](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote) |
 
 <!-- table end -->
