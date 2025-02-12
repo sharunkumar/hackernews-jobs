@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Empirical Health (YC S23) Is Hiring Design Engineers in NYC | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
 | Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
@@ -29,6 +30,5 @@
 | SciPhi (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer) |
 | Curo (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply) |
 | Structured (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer) |
-| Hyperbound (YC S23) is hiring a Founding Account Executive in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf) |
 
 <!-- table end -->
