@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Empirical Health (YC S23) Is Hiring Design Engineers in NYC | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
 | Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid | [Apply](https://www.keelinglabs.com/jobs) |
@@ -29,6 +30,5 @@
 | Curo (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply) |
 | Structured (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer) |
 | Hyperbound (YC S23) is hiring a Founding Account Executive in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf) |
-| SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog | [Apply](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9) |
 
 <!-- table end -->
