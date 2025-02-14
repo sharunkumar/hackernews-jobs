@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf) |
 | Artie (YC S23) Is Hiring Business Operations | [Apply](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Empirical Health (YC S23) Is Hiring Design Engineers in NYC | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
@@ -29,6 +30,5 @@
 | Frigade (YC W23) is hiring engineer #2 | [Apply](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer) |
 | Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6) | [Apply](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c) |
 | SciPhi (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer) |
-| Curo (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply) |
 
 <!-- table end -->
