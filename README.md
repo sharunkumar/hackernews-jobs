@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Doctor Droid (YC W23) Is Hiring a Back End Engineer | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description) |
 | Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf) |
 | Artie (YC S23) Is Hiring Business Operations | [Apply](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
@@ -29,6 +30,5 @@
 | Great Question (YC W21) Is Hiring Lead Product Designer | [Apply](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer) |
 | Frigade (YC W23) is hiring engineer #2 | [Apply](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer) |
 | Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6) | [Apply](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c) |
-| SciPhi (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer) |
 
 <!-- table end -->
