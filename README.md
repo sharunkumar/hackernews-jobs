@@ -21,7 +21,7 @@
 | Toma (YC W24) Is Hiring a Founding Platform Engineer | [Apply](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer) |
 | CodeCrafters (YC S22) is hiring a software engineer to change how devs learn | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention) |
 | Roame (YC S23) Is Hiring an AI Fullstack Lead | [Apply](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer) |
-| Nango Is Hiring a Senior Full-Stack Engineer (Remote - US/Canada East) | [Apply](https://www.nango.dev/jobs) |
+| Nango (YC W23) Is Hiring a Senior Full-Stack Engineer (Remote - EST timezone) | [Apply](https://www.nango.dev/jobs) |
 | MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
 | Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data | [Apply](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer) |
 | FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
