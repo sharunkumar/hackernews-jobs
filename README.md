@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Langfuse (YC W23) Is Hiring Product Engineers in Berlin | [Apply](https://langfuse.com/careers) |
 | Doctor Droid (YC W23) Is Hiring a Back End Engineer | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description) |
 | Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf) |
 | Artie (YC S23) Is Hiring Business Operations | [Apply](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations) |
@@ -28,6 +29,5 @@
 | Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/) |
 | Great Question (YC W21) Is Hiring Lead Product Designer | [Apply](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer) |
-| Frigade (YC W23) is hiring engineer #2 | [Apply](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer) |
 
 <!-- table end -->
