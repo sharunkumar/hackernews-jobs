@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| TestRigor (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering) |
 | Langfuse (YC W23) Is Hiring Product Engineers in Berlin | [Apply](https://langfuse.com/careers) |
 | Doctor Droid (YC W23) Is Hiring a Back End Engineer | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description) |
 | Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf) |
