@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 | Jiga (YC W21) Is Hiring Mongo/React/Node Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer) |
 | TestRigor (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering) |
 | Langfuse (YC W23) Is Hiring Product Engineers in Berlin | [Apply](https://langfuse.com/careers) |
@@ -30,6 +31,5 @@
 | FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff) |
 | Svix (YC W21) Is Hiring a Developer Marketer (US Remote) | [Apply](https://www.svix.com/careers/) |
-| Great Question (YC W21) Is Hiring Lead Product Designer | [Apply](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer) |
 
 <!-- table end -->
