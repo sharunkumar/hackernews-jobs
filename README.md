@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Corvus Robotics (YC S18) Is Hiring Senior Software Engineer | [Apply](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/) |
 | Unsloth AI (YC S24) is hiring ML engineers | [Apply](https://x.com/danielhanchen/status/1891194528931209644) |
 | Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 | Jiga (YC W21) Is Hiring Mongo/React/Node Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer) |
@@ -30,6 +31,5 @@
 | MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
 | Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data | [Apply](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer) |
 | FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
-| Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff) |
 
 <!-- table end -->
