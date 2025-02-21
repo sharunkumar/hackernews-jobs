@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips | [Apply](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer) |
 | The Forecasting Company (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer) |
 | Corvus Robotics (YC S18) Is Hiring a Senior Software Engineer | [Apply](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/) |
 | Unsloth AI (YC S24) is hiring ML engineers | [Apply](https://x.com/danielhanchen/status/1891194528931209644) |
@@ -29,6 +30,5 @@
 | CodeCrafters (YC S22) is hiring a software engineer to change how devs learn | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention) |
 | Roame (YC S23) Is Hiring an AI Fullstack Lead | [Apply](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer) |
 | Nango (YC W23) Is Hiring a Senior Full-Stack Engineer (Remote - EST timezone) | [Apply](https://www.nango.dev/jobs) |
-| MindsDB (YC W20) Is Hiring an Office Manager in SF | [Apply](https://grnh.se/83c3fffa7us) |
 
 <!-- table end -->
