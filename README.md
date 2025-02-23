@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| PropRise (YC S23) Is Hiring Engineer #1 | [Apply](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer) |
 | Posh (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer) |
 | Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips | [Apply](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer) |
 | The Forecasting Company (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer) |
@@ -30,6 +31,5 @@
 | Toma (YC W24) Is Hiring a Founding Platform Engineer | [Apply](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer) |
 | CodeCrafters (YC S22) is hiring a software engineer to change how devs learn | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention) |
 | Roame (YC S23) Is Hiring an AI Fullstack Lead | [Apply](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer) |
-| Nango (YC W23) Is Hiring a Senior Full-Stack Engineer (Remote - EST timezone) | [Apply](https://www.nango.dev/jobs) |
 
 <!-- table end -->
