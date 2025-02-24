@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ashby (YC W19) Is Hiring Principal Product Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318) |
 | PropRise (YC S23) Is Hiring Engineer #1 | [Apply](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer) |
 | Posh (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer) |
 | Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips | [Apply](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer) |
@@ -30,6 +31,5 @@
 | Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders | [Apply](https://www.ycombinator.com/companies/ploomber/jobs) |
 | Toma (YC W24) Is Hiring a Founding Platform Engineer | [Apply](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer) |
 | CodeCrafters (YC S22) is hiring a software engineer to change how devs learn | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention) |
-| Roame (YC S23) Is Hiring an AI Fullstack Lead | [Apply](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer) |
 
 <!-- table end -->
