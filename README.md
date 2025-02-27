@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria | [Apply](https://bitmovin.com/careers/7863755002/) |
 | Voker (YC S24) is hiring an LA-based full stack AI software engineer | [Apply](https://www.linkedin.com/jobs/view/4165715593) |
 | Ashby (YC W19) Is Hiring Principal Product Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318) |
 | PropRise (YC S23) Is Hiring Engineer #1 | [Apply](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer) |
@@ -30,6 +31,5 @@
 | Roe AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer) |
 | Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer | [Apply](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df) |
 | Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders | [Apply](https://www.ycombinator.com/companies/ploomber/jobs) |
-| Toma (YC W24) Is Hiring a Founding Platform Engineer | [Apply](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer) |
 
 <!-- table end -->
