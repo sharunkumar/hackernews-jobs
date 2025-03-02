@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Distro (YC S24) Is Hiring a Marketing Lead in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead) |
 | Openlayer (YC S21) is hiring a senior back end engineer | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer) |
 | Kastle (YC S24) Is Hiring – AI for Loan Servicing | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24) |
 | Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria | [Apply](https://bitmovin.com/careers/7863755002/) |
@@ -30,6 +31,5 @@
 | Zep AI (YC W24) is hiring engineers to build SOTA agent memory | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer) |
 | PropRise (YC S23) Is Hiring Our First Engineer | [Apply](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend) |
 | InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer) |
-| Roe AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer) |
 
 <!-- table end -->
