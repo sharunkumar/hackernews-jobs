@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles) | [Apply](https://www.keelinglabs.com/jobs) |
+| Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX | [Apply](https://fintoc.com/codehere) |
 | Distro (YC S24) is hiring a marketing lead in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead) |
 | Openlayer (YC S21) is hiring a senior back end engineer | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer) |
 | Kastle (YC S24) Is Hiring – AI for Loan Servicing | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24) |
@@ -30,6 +32,5 @@
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid | [Apply](https://www.keelinglabs.com/jobs) |
 | Zep AI (YC W24) is hiring engineers to build SOTA agent memory | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer) |
 | PropRise (YC S23) Is Hiring Our First Engineer | [Apply](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend) |
-| InspectMind AI (YC W24) Is Hiring for AI in Construction | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer) |
 
 <!-- table end -->
