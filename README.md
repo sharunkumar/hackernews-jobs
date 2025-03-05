@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Greptile (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer) |
 | Foundry (YC F24) is hiring an engineer to build an internet-scale web crawler | [Apply](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling) |
 | Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF | [Apply](https://runtrellis.com/) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles) | [Apply](https://www.keelinglabs.com/jobs) |
@@ -31,6 +32,5 @@
 | Empirical Health (YC S23) Is Hiring Design Engineers in NYC | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
 | Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
-| Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid | [Apply](https://www.keelinglabs.com/jobs) |
 
 <!-- table end -->
