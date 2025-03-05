@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler | [Apply](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling) |
+| Foundry (YC F24) is hiring an engineer to build an internet-scale web crawler | [Apply](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling) |
 | Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF | [Apply](https://runtrellis.com/) |
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles) | [Apply](https://www.keelinglabs.com/jobs) |
 | Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX | [Apply](https://fintoc.com/codehere) |
