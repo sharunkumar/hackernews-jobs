@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI | [Apply](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer) |
 | Empirical Health is hiring design engineers to build primary care of the future | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
 | Arva AI (YC S24) Is Hiring an AI Product Engineer | [Apply](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer) |
 | Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools | [Apply](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents) |
@@ -32,6 +33,5 @@
 | Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf) |
 | Artie (YC S23) Is Hiring Business Operations | [Apply](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
-| Empirical Health (YC S23) Is Hiring Design Engineers in NYC | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
 
 <!-- table end -->
