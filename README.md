@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Empirical Health is hiring design engineers to build primary care of the future | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
+| Arva AI (YC S24) Is Hiring an AI Product Engineer | [Apply](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer) |
 | Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools | [Apply](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents) |
 | Greptile (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer) |
 | Foundry (YC F24) is hiring an engineer to build an internet-scale web crawler | [Apply](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling) |
@@ -31,6 +33,5 @@
 | Artie (YC S23) Is Hiring Business Operations | [Apply](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Empirical Health (YC S23) Is Hiring Design Engineers in NYC | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
-| Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems) |
 
 <!-- table end -->
