@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Roame (YC S23) Is Hiring a Chief of Staff | [Apply](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff) |
+| Cargo (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae) |
 | Koko (YC W22) Is Hiring a CTO / Lead Engineer | [Apply](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto) |
 | Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI | [Apply](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer) |
 | Empirical Health is hiring design engineers to build primary care of the future | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
@@ -31,7 +33,5 @@
 | TestRigor (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering) |
 | Langfuse (YC W23) Is Hiring Product Engineers in Berlin | [Apply](https://langfuse.com/careers) |
 | Doctor Droid (YC W23) Is Hiring a Back End Engineer | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description) |
-| Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf) |
-| Artie (YC S23) Is Hiring Business Operations | [Apply](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations) |
 
 <!-- table end -->
