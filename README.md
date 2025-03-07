@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kraftful (YC S19) is hiring a founding eng to support our hockey-stick growth | [Apply](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer) |
 | Roame (YC S23) Is Hiring a Chief of Staff | [Apply](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff) |
 | Cargo (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae) |
 | Koko (YC W22) Is Hiring a CTO / Lead Engineer | [Apply](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto) |
@@ -32,6 +33,5 @@
 | Jiga (YC W21) Is Hiring Mongo/React/Node Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer) |
 | TestRigor (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering) |
 | Langfuse (YC W23) Is Hiring Product Engineers in Berlin | [Apply](https://langfuse.com/careers) |
-| Doctor Droid (YC W23) Is Hiring a Back End Engineer | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description) |
 
 <!-- table end -->
