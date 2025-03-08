@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Kraftful (YC S19) is hiring a founding eng to support our hockey-stick growth | [Apply](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer) |
+| ParadeDB (YC S23) Is Hiring a Rust Database Engineer | [Apply](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00) |
+| Kraftful (YC S19) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer) |
 | Roame (YC S23) Is Hiring a Chief of Staff | [Apply](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff) |
 | Cargo (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae) |
 | Koko (YC W22) Is Hiring a CTO / Lead Engineer | [Apply](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto) |
