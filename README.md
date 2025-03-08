@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
+| Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer | [Apply](https://demodesk.com/careers?utm_source=hn) |
 | ParadeDB (YC S23) Is Hiring a Rust Database Engineer | [Apply](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00) |
 | Kraftful (YC S19) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer) |
 | Roame (YC S23) Is Hiring a Chief of Staff | [Apply](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff) |
@@ -32,7 +34,5 @@
 | Unsloth AI (YC S24) is hiring ML engineers | [Apply](https://x.com/danielhanchen/status/1891194528931209644) |
 | Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 | Jiga (YC W21) Is Hiring Mongo/React/Node Engineers | [Apply](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer) |
-| TestRigor (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering) |
-| Langfuse (YC W23) Is Hiring Product Engineers in Berlin | [Apply](https://langfuse.com/careers) |
 
 <!-- table end -->
