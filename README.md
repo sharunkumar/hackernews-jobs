@@ -33,6 +33,5 @@
 | The Forecasting Company (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer) |
 | Corvus Robotics (YC S18) Is Hiring a Senior Software Engineer | [Apply](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/) |
 | Unsloth AI (YC S24) is hiring ML engineers | [Apply](https://x.com/danielhanchen/status/1891194528931209644) |
-| Converge (YC S23) is hiring engineer #2 in NYC | [Apply](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP) |
 
 <!-- table end -->
