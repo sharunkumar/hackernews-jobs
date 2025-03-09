@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf) |
 | Helpcare AI (YC F24) Fullstack Engineer | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer) |
 | Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer) |
@@ -32,6 +33,5 @@
 | PropRise (YC S23) Is Hiring Engineer #1 | [Apply](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer) |
 | Posh (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer) |
 | Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips | [Apply](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer) |
-| The Forecasting Company (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer) |
 
 <!-- table end -->
