@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Helpcare AI (YC F24) Fullstack Engineer | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
+| Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer) |
 | Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer | [Apply](https://demodesk.com/careers?utm_source=hn) |
@@ -31,7 +33,5 @@
 | Posh (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer) |
 | Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips | [Apply](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer) |
 | The Forecasting Company (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer) |
-| Corvus Robotics (YC S18) Is Hiring a Senior Software Engineer | [Apply](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/) |
-| Unsloth AI (YC S24) is hiring ML engineers | [Apply](https://x.com/danielhanchen/status/1891194528931209644) |
 
 <!-- table end -->
