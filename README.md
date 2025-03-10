@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| FurtherAI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Structured Labs (YC S23) Is Hiring for Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer) |
 | Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf) |
 | Helpcare AI (YC F24) Fullstack Engineer | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
@@ -33,6 +34,5 @@
 | Ashby (YC W19) Is Hiring Principal Product Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318) |
 | PropRise (YC S23) Is Hiring Engineer #1 | [Apply](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer) |
 | Posh (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer) |
-| Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips | [Apply](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer) |
 
 <!-- table end -->
