@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Pivot Robotics (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Legion Health (YC S21) is hiring an AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows) |
 | FurtherAI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
@@ -33,6 +34,5 @@
 | Kastle (YC S24) Is Hiring – AI for Loan Servicing | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24) |
 | Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria | [Apply](https://bitmovin.com/careers/7863755002/) |
 | Voker (YC S24) is hiring an LA-based full stack AI software engineer | [Apply](https://www.linkedin.com/jobs/view/4165715593) |
-| Ashby (YC W19) Is Hiring Principal Product Engineers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318) |
 
 <!-- table end -->
