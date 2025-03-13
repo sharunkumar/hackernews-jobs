@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Shadeform (YC S23) is hiring a senior founding engineer | [Apply](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer) |
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
 | Pivot Robotics (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer) |
@@ -33,6 +34,5 @@
 | Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX | [Apply](https://fintoc.com/codehere) |
 | Distro (YC S24) is hiring a marketing lead in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead) |
 | Openlayer (YC S21) is hiring a senior back end engineer | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer) |
-| Kastle (YC S24) Is Hiring – AI for Loan Servicing | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24) |
 
 <!-- table end -->
