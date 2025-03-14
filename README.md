@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Voker (YC S24) Is Hiring an LA-Based Full Stack AI Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4165718206/) |
+| Voker (YC S24) is hiring an LA-based full stack AI software engineer | [Apply](https://www.linkedin.com/jobs/view/4165718206/) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Shadeform (YC S23) is hiring a senior engineer | [Apply](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer) |
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
