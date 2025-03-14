@@ -4,8 +4,9 @@
 
 | Title | Apply |
 |-------|-----|
-| Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
-| Shadeform (YC S23) is hiring a senior founding engineer | [Apply](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer) |
+| Voker (YC S24) Is Hiring an LA-Based Full Stack AI Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4165718206/) |
+| Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
+| Shadeform (YC S23) is hiring a senior engineer | [Apply](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer) |
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
 | Pivot Robotics (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
@@ -33,6 +34,5 @@
 | Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles) | [Apply](https://www.keelinglabs.com/jobs) |
 | Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX | [Apply](https://fintoc.com/codehere) |
 | Distro (YC S24) is hiring a marketing lead in Palo Alto | [Apply](https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead) |
-| Openlayer (YC S21) is hiring a senior back end engineer | [Apply](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer) |
 
 <!-- table end -->
