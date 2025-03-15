@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Deepnote (YC S19) is hiring to build a better data science notebook (Europe) | [Apply](https://deepnote.com/join-us) |
+| Noloco (YC S21) Is Hiring a Product Designer in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer) |
 | Optifye.ai (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer) |
 | GCVR (YC W22) is hiring a lead technical artist | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal) |
 | Prequel (YC W21) Is Hiring a Strong Front End Engineer | [Apply](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer) |
@@ -32,7 +34,5 @@
 | Empirical Health is hiring design engineers to build primary care of the future | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
 | Arva AI (YC S24) Is Hiring an AI Product Engineer | [Apply](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer) |
 | Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools | [Apply](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents) |
-| Greptile (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer) |
-| Foundry (YC F24) is hiring an engineer to build an internet-scale web crawler | [Apply](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling) |
 
 <!-- table end -->
