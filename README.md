@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Optifye.ai (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer) |
 | GCVR (YC W22) is hiring a lead technical artist | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal) |
 | Prequel (YC W21) Is Hiring a Strong Front End Engineer | [Apply](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer) |
 | Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York) | [Apply](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70) |
@@ -33,6 +34,5 @@
 | Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools | [Apply](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents) |
 | Greptile (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer) |
 | Foundry (YC F24) is hiring an engineer to build an internet-scale web crawler | [Apply](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling) |
-| Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF | [Apply](https://runtrellis.com/) |
 
 <!-- table end -->
