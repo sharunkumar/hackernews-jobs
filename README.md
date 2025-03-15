@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Stellar Sleep (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
 | Deepnote (YC S19) is hiring to build a better data science notebook (Europe) | [Apply](https://deepnote.com/join-us) |
 | Noloco (YC S21) Is Hiring a Product Designer in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer) |
 | Optifye.ai (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer) |
@@ -33,6 +34,5 @@
 | Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI | [Apply](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer) |
 | Empirical Health is hiring design engineers to build primary care of the future | [Apply](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer) |
 | Arva AI (YC S24) Is Hiring an AI Product Engineer | [Apply](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer) |
-| Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools | [Apply](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents) |
 
 <!-- table end -->
