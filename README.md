@@ -33,6 +33,5 @@
 | Roame (YC S23) Is Hiring a Chief of Staff | [Apply](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff) |
 | Cargo (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae) |
 | Koko (YC W22) Is Hiring a CTO / Lead Engineer | [Apply](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto) |
-| Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI | [Apply](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer) |
 
 <!-- table end -->
