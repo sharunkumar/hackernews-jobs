@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers | [Apply](https://www.nango.dev/careers) |
 | Kastle (YC S24) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle) |
 | Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam) | [Apply](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5) |
 | Parahelp (YC S24) Is Hiring Founding Engineers (SF) | [Apply](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer) |
@@ -32,6 +33,5 @@
 | ParadeDB (YC S23) Is Hiring a Rust Database Engineer | [Apply](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00) |
 | Kraftful (YC S19) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer) |
 | Roame (YC S23) Is Hiring a Chief of Staff | [Apply](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff) |
-| Cargo (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae) |
 
 <!-- table end -->
