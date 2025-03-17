@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai) |
 | Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers | [Apply](https://www.nango.dev/careers) |
 | Kastle (YC S24) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle) |
 | Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam) | [Apply](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5) |
@@ -32,6 +33,5 @@
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer | [Apply](https://demodesk.com/careers?utm_source=hn) |
 | ParadeDB (YC S23) Is Hiring a Rust Database Engineer | [Apply](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00) |
 | Kraftful (YC S19) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer) |
-| Roame (YC S23) Is Hiring a Chief of Staff | [Apply](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff) |
 
 <!-- table end -->
