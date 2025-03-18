@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spaceium Inc (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer) |
 | Depot (YC W23) is hiring a founding developer marketer (EU/US remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer) |
 | Doctor Droid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead) |
 | Luthor (YC F24) Is Hiring Ruby on Rails Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack) |
@@ -32,6 +33,5 @@
 | Helpcare AI (YC F24) Fullstack Engineer | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer) |
 | Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer) |
-| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 
 <!-- table end -->
