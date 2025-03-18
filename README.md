@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Depot (YC W23) is hiring a founding developer marketer (EU/US remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer) |
 | Doctor Droid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead) |
 | Luthor (YC F24) Is Hiring Ruby on Rails Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack) |
 | Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai) |
@@ -32,6 +33,5 @@
 | Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer) |
 | Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
-| Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer | [Apply](https://demodesk.com/careers?utm_source=hn) |
 
 <!-- table end -->
