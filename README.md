@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Markprompt (YC W24) – Stripe for customer support – is hiring founding eng in SF | [Apply](https://markprompt.com/jobs) |
 | Spaceium Inc (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer) |
 | Depot (YC W23) is hiring a founding developer marketer (EU/US remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer) |
 | Doctor Droid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead) |
@@ -32,6 +33,5 @@
 | Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf) |
 | Helpcare AI (YC F24) Fullstack Engineer | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer) |
-| Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer) |
 
 <!-- table end -->
