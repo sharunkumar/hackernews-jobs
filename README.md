@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Pump.co (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 | Markprompt (YC W24) – Stripe for customer support – is hiring founding eng in SF | [Apply](https://markprompt.com/jobs) |
 | Spaceium Inc (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer) |
@@ -33,6 +34,5 @@
 | Structured Labs (YC S23) Is Hiring for Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer) |
 | Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf) |
 | Helpcare AI (YC F24) Fullstack Engineer | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
-| Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring | [Apply](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer) |
 
 <!-- table end -->
