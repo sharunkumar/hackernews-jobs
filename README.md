@@ -32,6 +32,5 @@
 | Legion Health (YC S21) is hiring an AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows) |
 | FurtherAI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Structured Labs (YC S23) Is Hiring for Full-Stack Engineers | [Apply](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer) |
-| Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf) |
 
 <!-- table end -->
