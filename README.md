@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
+| Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead) |
 | Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder | [Apply](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer) |
 | Leaping AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer) |
 | Pump.co (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager) |
@@ -30,7 +32,5 @@
 | Shadeform (YC S23) is hiring a senior engineer | [Apply](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer) |
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
 | Pivot Robotics (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer) |
-| Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
-| Legion Health (YC S21) is hiring an AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows) |
 
 <!-- table end -->
