@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder | [Apply](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer) |
 | Leaping AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer) |
 | Pump.co (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager) |
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
@@ -31,6 +32,5 @@
 | Pivot Robotics (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer) |
 | Continue (YC S23) Is Hiring a Software Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Legion Health (YC S21) is hiring an AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows) |
-| FurtherAI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 
 <!-- table end -->
