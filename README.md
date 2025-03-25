@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers | [Apply](https://careers.activeloop.ai/) |
 | Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
 | Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
 | Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead) |
@@ -31,6 +32,5 @@
 | Voker (YC S24) is hiring an LA-based full stack AI software engineer | [Apply](https://www.linkedin.com/jobs/view/4165718206/) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Shadeform (YC S23) is hiring a senior engineer | [Apply](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer) |
-| Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems) |
 
 <!-- table end -->
