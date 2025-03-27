@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Craniometrix (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff) |
+| Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote) | [Apply](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8) |
 | Weave (YC W25) is hiring a founding product engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer) |
 | Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers | [Apply](https://careers.activeloop.ai/) |
 | Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
@@ -30,7 +32,5 @@
 | GCVR (YC W22) is hiring a lead technical artist | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal) |
 | Prequel (YC W21) Is Hiring a Strong Front End Engineer | [Apply](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer) |
 | Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York) | [Apply](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70) |
-| Voker (YC S24) is hiring an LA-based full stack AI software engineer | [Apply](https://www.linkedin.com/jobs/view/4165718206/) |
-| Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 
 <!-- table end -->
