@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Replit (YC W18) Is Hiring Engineers to Automate Coding | [Apply](https://replit.com/careers) |
 | Craniometrix (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff) |
 | Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote) | [Apply](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8) |
 | Weave (YC W25) is hiring a founding product engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer) |
@@ -31,6 +32,5 @@
 | Optifye.ai (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer) |
 | GCVR (YC W22) is hiring a lead technical artist | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal) |
 | Prequel (YC W21) Is Hiring a Strong Front End Engineer | [Apply](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer) |
-| Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York) | [Apply](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70) |
 
 <!-- table end -->
