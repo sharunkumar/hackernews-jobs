@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Revyl (YC F24) Is Hiring a Front End Engineer Intern | [Apply](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern) |
 | Replit (YC W18) Is Hiring Engineers to Automate Coding | [Apply](https://replit.com/careers) |
 | Craniometrix (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff) |
@@ -31,6 +32,5 @@
 | Deepnote (YC S19) is hiring to build a better data science notebook (Europe) | [Apply](https://deepnote.com/join-us) |
 | Noloco (YC S21) Is Hiring a Product Designer in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer) |
 | Optifye.ai (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer) |
-| GCVR (YC W22) is hiring a lead technical artist | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal) |
 
 <!-- table end -->
