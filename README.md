@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
+| Software Eng Intern – Structured Labs (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern) |
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Revyl (YC F24) Is Hiring a Front End Engineer Intern | [Apply](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern) |
 | Replit (YC W18) Is Hiring Engineers to Automate Coding | [Apply](https://replit.com/careers) |
@@ -30,7 +32,5 @@
 | Parahelp (YC S24) Is Hiring Founding Engineers (SF) | [Apply](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer) |
 | Stellar Sleep (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
 | Deepnote (YC S19) is hiring to build a better data science notebook (Europe) | [Apply](https://deepnote.com/join-us) |
-| Noloco (YC S21) Is Hiring a Product Designer in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer) |
-| Optifye.ai (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer) |
 
 <!-- table end -->
