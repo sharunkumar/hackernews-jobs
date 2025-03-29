@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Finley (YC W21) Is Hiring a Technical Implementations Specialist | [Apply](https://ats.rippling.com/finley-technologies/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Software Eng Intern – Structured Labs (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern) |
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
@@ -31,6 +32,5 @@
 | Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam) | [Apply](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5) |
 | Parahelp (YC S24) Is Hiring Founding Engineers (SF) | [Apply](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer) |
 | Stellar Sleep (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
-| Deepnote (YC S19) is hiring to build a better data science notebook (Europe) | [Apply](https://deepnote.com/join-us) |
 
 <!-- table end -->
