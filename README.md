@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spice Data (YC S19) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Finley (YC W21) Is Hiring a Technical Implementations Specialist | [Apply](https://ats.rippling.com/finley-technologies/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
@@ -31,6 +32,5 @@
 | Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers | [Apply](https://www.nango.dev/careers) |
 | Kastle (YC S24) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle) |
 | Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam) | [Apply](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5) |
-| Parahelp (YC S24) Is Hiring Founding Engineers (SF) | [Apply](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer) |
 
 <!-- table end -->
