@@ -31,6 +31,5 @@
 | Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai) |
 | Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers | [Apply](https://www.nango.dev/careers) |
 | Kastle (YC S24) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle) |
-| Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam) | [Apply](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5) |
 
 <!-- table end -->
