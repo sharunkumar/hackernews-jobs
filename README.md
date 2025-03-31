@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Distro (YC S24) Is Hiring a Lead Solutions Engineer | [Apply](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer) |
 | Spice Data (YC S19) is hiring a software engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Finley (YC W21) Is Hiring a Technical Implementations Specialist | [Apply](https://ats.rippling.com/finley-technologies/jobs) |
