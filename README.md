@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
+| Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote) | [Apply](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc) |
 | Distro (YC S24) Is Hiring a Lead Solutions Engineer | [Apply](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer) |
 | Spice Data (YC S19) is hiring a software engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
@@ -30,7 +32,5 @@
 | Doctor Droid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead) |
 | Luthor (YC F24) Is Hiring Ruby on Rails Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack) |
 | Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai) |
-| Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers | [Apply](https://www.nango.dev/careers) |
-| Kastle (YC S24) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle) |
 
 <!-- table end -->
