@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
 | Pulse (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer) |
 | Hightouch (YC S19) Is Hiring Front End Engineers | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5437380004) |
 | Meru Health (YC S18) Is Hiring | [Apply](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing) |
@@ -31,6 +32,5 @@
 | Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 | Markprompt (YC W24) – Stripe for customer support – is hiring founding eng in SF | [Apply](https://markprompt.com/jobs) |
 | Spaceium Inc (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer) |
-| Depot (YC W23) is hiring a founding developer marketer (EU/US remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer) |
 
 <!-- table end -->
