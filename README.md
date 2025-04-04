@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Aviator (YC S21) is hiring engineers to build AI DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
 | Onyx (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer) |
 | Type (YC W23) is hiring a senior software engineer | [Apply](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer) |
 | UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
@@ -31,6 +32,5 @@
 | Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder | [Apply](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer) |
 | Leaping AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer) |
 | Pump.co (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager) |
-| Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI | [Apply](https://www.sievedata.com/) |
 
 <!-- table end -->
