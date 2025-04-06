@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Foundry (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents) |
 | Great Question (YC W21) Is Hiring Applied AI Engineers | [Apply](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer) |
 | Thunder Compute (YC S24) is hiring a GPU systems engineer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer) |
 | Aviator (YC S21) is hiring engineers to build AI DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
