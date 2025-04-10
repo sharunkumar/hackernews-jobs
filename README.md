@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr) |
 | Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site) | [Apply](http://hi.telli.com/eng) |
 | Paradigm (YC W24) Hiring Founding Engineers in SF | [Apply](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer) |
 | Foundry (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents) |
@@ -33,6 +34,5 @@
 | Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers | [Apply](https://careers.activeloop.ai/) |
 | Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
 | Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
-| Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead) |
 
 <!-- table end -->
