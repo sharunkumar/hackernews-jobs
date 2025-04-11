@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr) |
 | Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site) | [Apply](http://hi.telli.com/eng) |
 | Paradigm (YC W24) Hiring Founding Engineers in SF | [Apply](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer) |
@@ -33,6 +34,5 @@
 | Weave (YC W25) is hiring a founding product engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer) |
 | Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers | [Apply](https://careers.activeloop.ai/) |
 | Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
-| Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
 
 <!-- table end -->
