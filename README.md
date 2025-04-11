@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Roame (YC S23) Is Hiring: Founding Product Designer | [Apply](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer) |
+| MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe | [Apply](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack) |
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr) |
 | Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site) | [Apply](http://hi.telli.com/eng) |
@@ -32,7 +34,5 @@
 | Craniometrix (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff) |
 | Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote) | [Apply](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8) |
 | Weave (YC W25) is hiring a founding product engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer) |
-| Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers | [Apply](https://careers.activeloop.ai/) |
-| Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
 
 <!-- table end -->
