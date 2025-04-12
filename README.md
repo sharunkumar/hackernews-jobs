@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer) |
 | Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 | Mosaic (YC W25) is building a general purpose agent for video editing | [Apply](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer) |
 | Roame (YC S23) Is Hiring: Founding Product Designer | [Apply](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer) |
@@ -33,6 +34,5 @@
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Revyl (YC F24) Is Hiring a Front End Engineer Intern | [Apply](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern) |
 | Replit (YC W18) Is Hiring Engineers to Automate Coding | [Apply](https://replit.com/careers) |
-| Craniometrix (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff) |
 
 <!-- table end -->
