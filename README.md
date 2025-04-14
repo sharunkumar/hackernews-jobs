@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| KaiPod Learning (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager) |
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer) |
 | Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 | Mosaic (YC W25) is building a general purpose agent for video editing | [Apply](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer) |
@@ -33,6 +34,5 @@
 | Software Eng Intern – Structured Labs (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern) |
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Revyl (YC F24) Is Hiring a Front End Engineer Intern | [Apply](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern) |
-| Replit (YC W18) Is Hiring Engineers to Automate Coding | [Apply](https://replit.com/careers) |
 
 <!-- table end -->
