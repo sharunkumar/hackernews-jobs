@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| KaiPod Learning (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager) |
+| KaiPod Learning (YC S21) Is Hiring a PM | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager) |
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer) |
 | Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 | Mosaic (YC W25) is building a general purpose agent for video editing | [Apply](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer) |
