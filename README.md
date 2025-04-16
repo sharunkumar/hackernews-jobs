@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends | [Apply](https://www.streak.com/careers/staff-ui-engineer) |
 | Flexport (YC W14) is hiring software engineers | [Apply](https://flexport.com) |
 | Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x) |
 | KaiPod Learning (YC S21) Is Hiring a PM | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager) |
@@ -33,6 +34,5 @@
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Finley (YC W21) Is Hiring a Technical Implementations Specialist | [Apply](https://ats.rippling.com/finley-technologies/jobs) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
-| Software Eng Intern – Structured Labs (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern) |
 
 <!-- table end -->
