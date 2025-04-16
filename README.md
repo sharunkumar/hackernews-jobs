@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hive.co (YC S14) Is Hiring a Head of Engineering | [Apply](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468) |
 | Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends | [Apply](https://www.streak.com/careers/staff-ui-engineer) |
 | Flexport (YC W14) is hiring software engineers | [Apply](https://flexport.com) |
 | Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x) |
@@ -33,6 +34,5 @@
 | Spice Data (YC S19) is hiring a software engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Finley (YC W21) Is Hiring a Technical Implementations Specialist | [Apply](https://ats.rippling.com/finley-technologies/jobs) |
-| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 
 <!-- table end -->
