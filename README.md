@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 | Hive.co (YC S14) Is Hiring a Head of Engineering | [Apply](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468) |
 | Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends | [Apply](https://www.streak.com/careers/staff-ui-engineer) |
 | Flexport (YC W14) is hiring software engineers | [Apply](https://flexport.com) |
@@ -33,6 +34,5 @@
 | Distro (YC S24) Is Hiring a Lead Solutions Engineer | [Apply](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer) |
 | Spice Data (YC S19) is hiring a software engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
-| Finley (YC W21) Is Hiring a Technical Implementations Specialist | [Apply](https://ats.rippling.com/finley-technologies/jobs) |
 
 <!-- table end -->
