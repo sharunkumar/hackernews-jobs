@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
+| Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure | [Apply](https://www.ycombinator.com/companies/formance/jobs) |
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 | Hive.co (YC S14) Is Hiring a Head of Engineering | [Apply](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468) |
 | Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends | [Apply](https://www.streak.com/careers/staff-ui-engineer) |
@@ -32,7 +34,5 @@
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote) | [Apply](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc) |
 | Distro (YC S24) Is Hiring a Lead Solutions Engineer | [Apply](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer) |
-| Spice Data (YC S19) is hiring a software engineer | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer) |
-| Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 
 <!-- table end -->
