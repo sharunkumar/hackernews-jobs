@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mux (YC W16) is hiring engineering managers for video at scale | [Apply](https://mux.com/jobs?j=em) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
 | Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure | [Apply](https://www.ycombinator.com/companies/formance/jobs) |
@@ -34,6 +35,5 @@
 | Meru Health (YC S18) Is Hiring | [Apply](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote) | [Apply](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc) |
-| Distro (YC S24) Is Hiring a Lead Solutions Engineer | [Apply](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer) |
 
 <!-- table end -->
