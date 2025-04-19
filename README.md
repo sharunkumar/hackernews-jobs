@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infisical (YC W23) Is Hiring Design Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco) |
 | Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote) | [Apply](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote) |
 | Mux (YC W16) is hiring engineering managers for video at scale | [Apply](https://mux.com/jobs?j=em) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
@@ -34,6 +35,5 @@
 | Pulse (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer) |
 | Hightouch (YC S19) Is Hiring Front End Engineers | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5437380004) |
 | Meru Health (YC S18) Is Hiring | [Apply](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing) |
-| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 
 <!-- table end -->
