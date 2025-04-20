@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 | Infisical (YC W23) Is Hiring Design Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco) |
 | Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote) | [Apply](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote) |
 | Mux (YC W16) is hiring engineering managers for video at scale | [Apply](https://mux.com/jobs?j=em) |
@@ -34,6 +35,5 @@
 | UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
 | Pulse (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer) |
 | Hightouch (YC S19) Is Hiring Front End Engineers | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5437380004) |
-| Meru Health (YC S18) Is Hiring | [Apply](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing) |
 
 <!-- table end -->
