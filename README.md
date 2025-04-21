@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | FurtherAI (YC W24) Is Hiring Software and AI Engineers | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 | Infisical (YC W23) Is Hiring Design Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco) |
@@ -34,6 +35,5 @@
 | Onyx (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer) |
 | Type (YC W23) is hiring a senior software engineer | [Apply](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer) |
 | UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
-| Pulse (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer) |
 
 <!-- table end -->
