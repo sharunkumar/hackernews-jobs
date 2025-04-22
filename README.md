@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Recover (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance) |
 | GiveCampus (YC S15) Is Hiring Sr engineers passionate about education | [Apply](https://givecampus.breezy.hr/p/0c4a97691730) |
 | Cekura (Formerly Vocera) (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
@@ -34,6 +35,5 @@
 | Great Question (YC W21) Is Hiring Applied AI Engineers | [Apply](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer) |
 | Thunder Compute (YC S24) is hiring a GPU systems engineer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer) |
 | Aviator (YC S21) is hiring engineers to build AI DevEx platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
-| Onyx (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer) |
 
 <!-- table end -->
