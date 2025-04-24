@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bild AI (YC W25) is hiring a founding engineer in SF | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer) |
 | Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go) | [Apply](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution) |
 | Onyx (YC W24) Is Hiring for ML Engineer | [Apply](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer) |
 | Recover (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance) |
@@ -34,6 +35,5 @@
 | Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site) | [Apply](http://hi.telli.com/eng) |
 | Paradigm (YC W24) Hiring Founding Engineers in SF | [Apply](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer) |
 | Foundry (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents) |
-| Great Question (YC W21) Is Hiring Applied AI Engineers | [Apply](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer) |
 
 <!-- table end -->
