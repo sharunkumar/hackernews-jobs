@@ -34,6 +34,5 @@
 | Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr) |
 | Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site) | [Apply](http://hi.telli.com/eng) |
 | Paradigm (YC W24) Hiring Founding Engineers in SF | [Apply](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer) |
-| Foundry (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents) |
 
 <!-- table end -->
