@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Gym Class (YC W22) Is Hiring Character Animation Engineering Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal) |
 | Bild AI (YC W25) is hiring a founding engineer in SF | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer) |
 | Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go) | [Apply](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution) |
 | Onyx (YC W24) Is Hiring for ML Engineer | [Apply](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer) |
@@ -33,6 +34,5 @@
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | Legion Health (YC S21) is hiring engineers to rebuild psychiatry with AI | [Apply](https://www.ycombinator.com/companies/legion-health/jobs/mqDWIWN-founding-engineer-build-ai-native-ops-for-mental-health-yc-s21-1m-arr) |
 | Telli (YC F24) is hiring founding engineers in Berlin, Germany (on-site) | [Apply](http://hi.telli.com/eng) |
-| Paradigm (YC W24) Hiring Founding Engineers in SF | [Apply](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer) |
 
 <!-- table end -->
