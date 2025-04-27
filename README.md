@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote) | [Apply](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote) |
 | Gym Class (YC W22) Is Hiring Character Animation Engineering Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal) |
@@ -32,6 +33,5 @@
 | Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 | Mosaic (YC W25) is building a general purpose agent for video editing | [Apply](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer) |
 | Roame (YC S23) Is Hiring: Founding Product Designer | [Apply](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer) |
-| MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe | [Apply](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack) |
 
 <!-- table end -->
