@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote) | [Apply](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote) |
 | Gym Class (YC W22) Is Hiring Character Animation Engineering Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal) |
 | Bild AI (YC W25) is hiring a founding engineer in SF | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer) |
@@ -32,6 +33,5 @@
 | Mosaic (YC W25) is building a general purpose agent for video editing | [Apply](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer) |
 | Roame (YC S23) Is Hiring: Founding Product Designer | [Apply](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer) |
 | MediSearch (YC S23) Is Hiring a Founding Engineer in Central Europe | [Apply](https://www.ycombinator.com/companies/medisearch/jobs/DXuptwo-founding-engineer-full-stack) |
-| Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 
 <!-- table end -->
