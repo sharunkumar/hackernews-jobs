@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam) | [Apply](https://jobs.ashbyhq.com/optery) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote) | [Apply](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote) |
@@ -32,6 +33,5 @@
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer) |
 | Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 | Mosaic (YC W25) is building a general purpose agent for video editing | [Apply](https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer) |
-| Roame (YC S23) Is Hiring: Founding Product Designer | [Apply](https://www.ycombinator.com/companies/roame/jobs/SaJ0TjL-founding-product-designer) |
 
 <!-- table end -->
