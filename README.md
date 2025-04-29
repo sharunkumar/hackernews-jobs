@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Activeloop (YC S18) Is Hiring VP of Engineering in Mountain View (On-Site) | [Apply](https://careers.activeloop.ai/) |
+| Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site) | [Apply](https://careers.activeloop.ai/) |
 | Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam) | [Apply](https://jobs.ashbyhq.com/optery) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
