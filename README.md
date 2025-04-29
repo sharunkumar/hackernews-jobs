@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD | [Apply](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer) |
 | Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site) | [Apply](https://careers.activeloop.ai/) |
 | Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam) | [Apply](https://jobs.ashbyhq.com/optery) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
@@ -32,6 +33,5 @@
 | Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x) |
 | KaiPod Learning (YC S21) Is Hiring a PM | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager) |
 | Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer) |
-| Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 
 <!-- table end -->
