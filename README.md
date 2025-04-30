@@ -32,6 +32,5 @@
 | Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends | [Apply](https://www.streak.com/careers/staff-ui-engineer) |
 | Flexport (YC W14) is hiring software engineers | [Apply](https://flexport.com) |
 | Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x) |
-| KaiPod Learning (YC S21) Is Hiring a PM | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager) |
 
 <!-- table end -->
