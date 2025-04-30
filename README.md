@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
 | Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD | [Apply](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer) |
 | Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site) | [Apply](https://careers.activeloop.ai/) |
 | Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam) | [Apply](https://jobs.ashbyhq.com/optery) |
@@ -32,6 +33,5 @@
 | Flexport (YC W14) is hiring software engineers | [Apply](https://flexport.com) |
 | Typewise (YC S22) Is Hiring an ML Engineer (Zurich, Switzerland) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/u4OdKNh-machine-learning-engineer-f-m-x) |
 | KaiPod Learning (YC S21) Is Hiring a PM | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager) |
-| Artie (YC S23) Is Hiring Engineer #3 | [Apply](https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer) |
 
 <!-- table end -->
