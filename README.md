@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Waypoint Transit (YC W25) Is Hiring a Founding Engineer | [Apply](https://www.workatastartup.com/jobs/75517) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts) |
 | Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
 | Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD | [Apply](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer) |
@@ -31,6 +32,5 @@
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 | Hive.co (YC S14) Is Hiring a Head of Engineering | [Apply](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468) |
 | Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends | [Apply](https://www.streak.com/careers/staff-ui-engineer) |
-| Flexport (YC W14) is hiring software engineers | [Apply](https://flexport.com) |
 
 <!-- table end -->
