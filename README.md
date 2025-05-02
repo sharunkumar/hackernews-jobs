@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive) | [Apply](https://www.ycombinator.com/companies/toma/jobs) |
 | Waypoint Transit (YC W25) is hiring a software engineer | [Apply](https://www.workatastartup.com/jobs/75517) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts) |
 | Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
@@ -31,6 +32,5 @@
 | Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure | [Apply](https://www.ycombinator.com/companies/formance/jobs) |
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 | Hive.co (YC S14) Is Hiring a Head of Engineering | [Apply](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468) |
-| Streak (YC W22) is hiring Staff Engineers for local first, high perf front ends | [Apply](https://www.streak.com/careers/staff-ui-engineer) |
 
 <!-- table end -->
