@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Stellar Sleep (YC S23) is hiring a product engineer in SF | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
 | Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive) | [Apply](https://www.ycombinator.com/companies/toma/jobs) |
 | Waypoint Transit (YC W25) is hiring a software engineer | [Apply](https://www.workatastartup.com/jobs/75517) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts) |
@@ -30,6 +31,5 @@
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
 | Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure | [Apply](https://www.ycombinator.com/companies/formance/jobs) |
-| OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 
 <!-- table end -->
