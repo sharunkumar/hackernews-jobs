@@ -31,6 +31,5 @@
 | Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
 | Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure | [Apply](https://www.ycombinator.com/companies/formance/jobs) |
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
-| Hive.co (YC S14) Is Hiring a Head of Engineering | [Apply](https://jobs.ashbyhq.com/hive.co/684574a0-9150-4fba-b954-2f34d9c74468) |
 
 <!-- table end -->
