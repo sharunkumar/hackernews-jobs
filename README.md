@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Stellar Sleep (YC S23) is hiring a product engineer in SF | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
 | Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive) | [Apply](https://www.ycombinator.com/companies/toma/jobs) |
 | Waypoint Transit (YC W25) is hiring a software engineer | [Apply](https://www.workatastartup.com/jobs/75517) |
@@ -30,6 +31,5 @@
 | Mux (YC W16) is hiring engineering managers for video at scale | [Apply](https://mux.com/jobs?j=em) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Tesorio (YC S15) Is Hiring a Senior Back End Engineer in Latam (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
-| Formance (YC S21) Is Hiring Engineers to Build OSS Financial Infrastructure | [Apply](https://www.ycombinator.com/companies/formance/jobs) |
 
 <!-- table end -->
