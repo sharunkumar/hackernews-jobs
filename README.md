@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
+| Jiga (YC W21) Is Hiring Engineers | [Apply](https://www.workatastartup.com/companies/jiga) |
 | KaiPod Learning (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning) |
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
@@ -29,7 +31,5 @@
 | FurtherAI (YC W24) Is Hiring Software and AI Engineers | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 | Infisical (YC W23) Is Hiring Design Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco) |
-| Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote) | [Apply](https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote) |
-| Mux (YC W16) is hiring engineering managers for video at scale | [Apply](https://mux.com/jobs?j=em) |
 
 <!-- table end -->
