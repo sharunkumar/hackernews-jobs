@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer) |
 | Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 | Jiga (YC W21) Is Hiring Engineers | [Apply](https://www.workatastartup.com/companies/jiga) |
@@ -30,6 +31,5 @@
 | Cekura (Formerly Vocera) (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | FurtherAI (YC W24) Is Hiring Software and AI Engineers | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
-| Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 
 <!-- table end -->
