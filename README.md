@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Motion (YC W20) Is Hiring a Senior Engineers | [Apply](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn) |
 | Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer) |
 | Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
 | Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
@@ -30,6 +31,5 @@
 | GiveCampus (YC S15) Is Hiring Sr engineers passionate about education | [Apply](https://givecampus.breezy.hr/p/0c4a97691730) |
 | Cekura (Formerly Vocera) (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer) |
 | Spark AI (YC W24) is hiring a full-stack engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
-| FurtherAI (YC W24) Is Hiring Software and AI Engineers | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 
 <!-- table end -->
