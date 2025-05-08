@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Artifact (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer) |
+| Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer) |
 | GovEagle (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term) |
 | Motion (YC W20) Is Hiring a Senior Engineers | [Apply](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn) |
 | Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer) |
@@ -29,7 +31,5 @@
 | Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go) | [Apply](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution) |
 | Onyx (YC W24) Is Hiring for ML Engineer | [Apply](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer) |
 | Recover (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/recover/jobs/76dMle9-head-of-finance) |
-| GiveCampus (YC S15) Is Hiring Sr engineers passionate about education | [Apply](https://givecampus.breezy.hr/p/0c4a97691730) |
-| Cekura (Formerly Vocera) (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer) |
 
 <!-- table end -->
