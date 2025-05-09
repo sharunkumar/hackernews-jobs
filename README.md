@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA) | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 | Ciro (YC S22) is hiring a software engineer to build AI agents for sales | [Apply](https://www.ycombinator.com/companies/ciro/jobs) |
 | Artifact (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer) |
 | Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer) |
@@ -30,6 +31,5 @@
 | Gym Class (YC W22) Is Hiring Character Animation Engineering Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal) |
 | Bild AI (YC W25) is hiring a founding engineer in SF | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer) |
 | Tenjin (YC S14) Is Hiring a Senior Ad Attribution Engineer (Ruby, Go) | [Apply](https://www.ycombinator.com/companies/tenjin/jobs/7qwVnEp-senior-backend-engineer-ad-attribution) |
-| Onyx (YC W24) Is Hiring for ML Engineer | [Apply](https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer) |
 
 <!-- table end -->
