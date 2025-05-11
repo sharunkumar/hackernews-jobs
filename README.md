@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Roame (YC S23) Is Hiring Lead Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer) |
 | Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 | Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA) | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 | Ciro (YC S22) is hiring a software engineer to build AI agents for sales | [Apply](https://www.ycombinator.com/companies/ciro/jobs) |
@@ -30,6 +31,5 @@
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote) | [Apply](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote) |
 | Gym Class (YC W22) Is Hiring Character Animation Engineering Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal) |
-| Bild AI (YC W25) is hiring a founding engineer in SF | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer) |
 
 <!-- table end -->
