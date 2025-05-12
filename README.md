@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Synder (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative) |
 | Roame (YC S23) Is Hiring Lead Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer) |
 | Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
@@ -31,6 +32,5 @@
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
 | MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote) | [Apply](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote) |
-| Gym Class (YC W22) Is Hiring Character Animation Engineering Lead | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-gameplay-animation-engineer-staff-principal) |
 
 <!-- table end -->
