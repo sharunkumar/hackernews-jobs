@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI | [Apply](https://www.workatastartup.com/jobs/75011) |
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Synder (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative) |
 | Roame (YC S23) Is Hiring Lead Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer) |
@@ -31,6 +32,5 @@
 | Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam) | [Apply](https://jobs.ashbyhq.com/optery) |
 | Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 | Parity (YC S24) is hiring founding engineers to build an AI SRE (in-person, SF) | [Apply](https://www.ycombinator.com/companies/parity/jobs) |
-| MobileBoost (YC S21) Is Hiring a Founding Back End/Platform Engineer (Remote) | [Apply](https://www.ycombinator.com/companies/mobileboost/jobs/v6gPgiZ-founding-backend-platform-engineer-remote) |
 
 <!-- table end -->
