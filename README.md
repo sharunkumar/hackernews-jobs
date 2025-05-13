@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI | [Apply](https://www.workatastartup.com/jobs/75011) |
+| Legion Health (YC S21) is hiring engineers to help fix mental health with AI | [Apply](https://www.workatastartup.com/jobs/75011) |
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Synder (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative) |
 | Roame (YC S23) Is Hiring Lead Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer) |
