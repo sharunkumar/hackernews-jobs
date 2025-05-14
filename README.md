@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF) | [Apply](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager) |
 | Legion Health (YC S21) is hiring engineers to help fix mental health with AI | [Apply](https://www.workatastartup.com/jobs/75011) |
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Synder (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative) |
