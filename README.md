@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
+| Tiptap (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager) |
 | StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard | [Apply](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer) |
 | Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF) | [Apply](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager) |
 | Legion Health (YC S21) is hiring engineers to help fix mental health with AI | [Apply](https://www.workatastartup.com/jobs/75011) |
@@ -31,7 +33,5 @@
 | Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
 | Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD | [Apply](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer) |
 | Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site) | [Apply](https://careers.activeloop.ai/) |
-| Optery (YC W22) – Engineering Team Lead and Engineers with Node.js (U.S., Latam) | [Apply](https://jobs.ashbyhq.com/optery) |
-| Extend (YC W23) is hiring engineers to build LLM document processing | [Apply](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37) |
 
 <!-- table end -->
