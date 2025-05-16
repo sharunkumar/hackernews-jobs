@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Dalus (YC W25) is hiring a founding engineer for hardware system design software | [Apply](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1) |
+| Wasmer (YC S19) Is Hiring a Rust Compiler Engineer | [Apply](https://www.workatastartup.com/jobs/15822) |
 | Fetii (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Tiptap (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager) |
@@ -31,7 +33,5 @@
 | Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive) | [Apply](https://www.ycombinator.com/companies/toma/jobs) |
 | Waypoint Transit (YC W25) is hiring a software engineer | [Apply](https://www.workatastartup.com/jobs/75517) |
 | GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts) |
-| Modern Realty (YC S24) Is Hiring | [Apply](https://www.workatastartup.com/jobs/66546) |
-| Hestus, Inc. (YC S24) Is Hiring an ML Engineer to Revolutionize CAD | [Apply](https://www.ycombinator.com/companies/hestus-inc/jobs/WQVdwX8-machine-learning-engineer) |
 
 <!-- table end -->
