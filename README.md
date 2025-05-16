@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Dalus (YC W25) is hiring a founding engineer for hardware system design software | [Apply](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1) |
+| Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE) | [Apply](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe) |
+| Dalus (YC W25) is hiring an engineer for hardware system design software | [Apply](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1) |
 | Wasmer (YC S19) Is Hiring a Rust Compiler Engineer | [Apply](https://www.workatastartup.com/jobs/15822) |
 | Fetii (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
