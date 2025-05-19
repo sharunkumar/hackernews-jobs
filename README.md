@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools | [Apply](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker) |
 | Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE) | [Apply](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe) |
 | Dalus (YC W25) is hiring an engineer for hardware system design software | [Apply](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1) |
 | Wasmer (YC S19) Is Hiring a Rust Compiler Engineer | [Apply](https://www.workatastartup.com/jobs/15822) |
@@ -33,6 +34,5 @@
 | Stellar Sleep (YC S23) is hiring a product engineer in SF | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
 | Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive) | [Apply](https://www.ycombinator.com/companies/toma/jobs) |
 | Waypoint Transit (YC W25) is hiring a software engineer | [Apply](https://www.workatastartup.com/jobs/75517) |
-| GroMo (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts) |
 
 <!-- table end -->
