@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ashby (YC W19) Is Hiring Engineering Managers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a) |
 | Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools | [Apply](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker) |
 | Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE) | [Apply](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe) |
 | Dalus (YC W25) is hiring an engineer for hardware system design software | [Apply](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1) |
@@ -33,6 +34,5 @@
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Stellar Sleep (YC S23) is hiring a product engineer in SF | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
 | Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive) | [Apply](https://www.ycombinator.com/companies/toma/jobs) |
-| Waypoint Transit (YC W25) is hiring a software engineer | [Apply](https://www.workatastartup.com/jobs/75517) |
 
 <!-- table end -->
