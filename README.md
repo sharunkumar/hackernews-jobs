@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist | [Apply](https://www.ycombinator.com/companies/harper/jobs) |
 | Overlap (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer) |
 | Ashby (YC W19) Is Hiring Engineering Managers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a) |
 | Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools | [Apply](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker) |
