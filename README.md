@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Overlap (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer) |
 | Ashby (YC W19) Is Hiring Engineering Managers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a) |
 | Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools | [Apply](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker) |
 | Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE) | [Apply](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe) |
@@ -33,6 +34,5 @@
 | Hightouch (YC S19) Is Hiring | [Apply](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning) |
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 | Stellar Sleep (YC S23) is hiring a product engineer in SF | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
-| Toma (YC W24) Is Hiring Engs #3-4 (AI for Automotive) | [Apply](https://www.ycombinator.com/companies/toma/jobs) |
 
 <!-- table end -->
