@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer | [Apply](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6) |
 | Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist | [Apply](https://www.ycombinator.com/companies/harper/jobs) |
 | Overlap (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer) |
 | Ashby (YC W19) Is Hiring Engineering Managers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a) |
@@ -34,6 +35,5 @@
 | KaiPod Learning (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning) |
 | Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
-| Stellar Sleep (YC S23) is hiring a product engineer in SF | [Apply](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer) |
 
 <!-- table end -->
