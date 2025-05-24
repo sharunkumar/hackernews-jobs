@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr) |
 | Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer | [Apply](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6) |
 | Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist | [Apply](https://www.ycombinator.com/companies/harper/jobs) |
 | Overlap (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer) |
@@ -34,6 +35,5 @@
 | Jiga (YC W21) Is Hiring Engineers | [Apply](https://www.workatastartup.com/companies/jiga) |
 | KaiPod Learning (YC S21) Is Hiring VP of Engineering | [Apply](https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://www.ycombinator.com/companies/hightouch/jobs/kIoY0yH-machine-learning-engineer-ai-decisioning) |
-| Helpcare AI (YC F24) Is Hiring | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview) |
 
 <!-- table end -->
