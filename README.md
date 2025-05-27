@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam | [Apply](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer) |
+| Venta AI (YC S23) is hiring a full stack engineer in Amsterdam | [Apply](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer) |
 | Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri | [Apply](https://www.ycombinator.com/companies/martin/jobs) |
 | Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr) |
 | Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer | [Apply](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6) |
