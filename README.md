@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Roundtable (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff) |
 | Diligent (YC S23) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer) |
 | Venta AI (YC S23) is hiring a full stack engineer in Amsterdam | [Apply](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer) |
 | Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri | [Apply](https://www.ycombinator.com/companies/martin/jobs) |
@@ -34,6 +35,5 @@
 | Motion (YC W20) Is Hiring a Senior Engineers | [Apply](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn) |
 | Tabular (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/tabular/jobs/7V7rXlS-founding-engineer) |
 | Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer) |
-| Instant (YC S22) Is Hiring a Founding TypeScript Engineer | [Apply](https://www.instantdb.com/hiring/ts-hacker) |
 
 <!-- table end -->
