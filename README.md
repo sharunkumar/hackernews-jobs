@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada) |
 | Roundtable (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff) |
 | Diligent (YC S23) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer) |
@@ -33,6 +34,5 @@
 | Artifact (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer) |
 | Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer) |
 | GovEagle (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term) |
-| Motion (YC W20) Is Hiring a Senior Engineers | [Apply](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn) |
 
 <!-- table end -->
