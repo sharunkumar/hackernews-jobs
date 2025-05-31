@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 | StackAI (YC W23) Is Looking for SWR and Tailwind Wizards | [Apply](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer) |
 | Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada) |
@@ -33,6 +34,5 @@
 | Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA) | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 | Ciro (YC S22) is hiring a software engineer to build AI agents for sales | [Apply](https://www.ycombinator.com/companies/ciro/jobs) |
 | Artifact (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer) |
-| Thunder Compute (YC S24) Is Hiring a C++ Low-Latency Systems Developer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/6nKTbsu-systems-engineer) |
 
 <!-- table end -->
