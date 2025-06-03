@@ -33,6 +33,5 @@
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Synder (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative) |
 | Roame (YC S23) Is Hiring Lead Fullstack Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/S7ytgrb-founding-full-stack-engineer) |
-| Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 
 <!-- table end -->
