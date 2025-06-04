@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Depot (YC W23) is hiring an enterprise support engineer (UK/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer) |
 | Patched (YC S24) Is Hiring SWEs in Singapore | [Apply](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer) |
 | Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV) | [Apply](https://careers.activeloop.ai/) |
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
@@ -32,6 +33,5 @@
 | StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard | [Apply](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer) |
 | Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF) | [Apply](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager) |
 | Legion Health (YC S21) is hiring engineers to help fix mental health with AI | [Apply](https://www.workatastartup.com/jobs/75011) |
-| Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 
 <!-- table end -->
