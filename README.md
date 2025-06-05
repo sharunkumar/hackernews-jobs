@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| AtoB (YC S20) – Stripe for Transportation – is hiring engineers | [Apply](https://jobs.ashbyhq.com/atob) |
 | PromptArmor (YC W24) Is Hiring in San Francisco | [Apply](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack) |
 | Depot (YC W23) is hiring an enterprise support engineer (UK/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer) |
 | Patched (YC S24) Is Hiring SWEs in Singapore | [Apply](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer) |
@@ -32,6 +33,5 @@
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
 | Tiptap (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager) |
 | StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard | [Apply](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer) |
-| Artie (YC S23) Is Hiring a Senior Product Marketing Manager (SF) | [Apply](https://www.ycombinator.com/companies/artie/jobs/sOFeWnv-senior-product-marketing-manager) |
 
 <!-- table end -->
