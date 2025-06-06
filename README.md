@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Great Question (YC W21) Is Hiring Director of Customer Success | [Apply](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success) |
 | Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook | [Apply](https://deepnote.com/join-us) |
 | Converge (YC S23) Well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | CircuitHub (YC W12) is hiring full-stack robotics engineers | [Apply](https://www.workatastartup.com/jobs/76919) |
@@ -32,6 +33,5 @@
 | Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE) | [Apply](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe) |
 | Dalus (YC W25) is hiring an engineer for hardware system design software | [Apply](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1) |
 | Wasmer (YC S19) Is Hiring a Rust Compiler Engineer | [Apply](https://www.workatastartup.com/jobs/15822) |
-| Fetii (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii) |
 
 <!-- table end -->
