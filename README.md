@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) Well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
+| CircuitHub (YC W12) is hiring full-stack robotics engineers | [Apply](https://www.workatastartup.com/jobs/76919) |
 | AtoB (YC S20) – Stripe for Transportation – is hiring engineers | [Apply](https://jobs.ashbyhq.com/atob) |
 | PromptArmor (YC W24) Is Hiring in San Francisco | [Apply](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack) |
 | Depot (YC W23) is hiring an enterprise support engineer (UK/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer) |
@@ -31,7 +33,5 @@
 | Wasmer (YC S19) Is Hiring a Rust Compiler Engineer | [Apply](https://www.workatastartup.com/jobs/15822) |
 | Fetii (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii) |
 | PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC | [Apply](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808) |
-| Tiptap (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager) |
-| StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard | [Apply](https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer) |
 
 <!-- table end -->
