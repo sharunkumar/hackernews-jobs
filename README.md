@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Gander (YC F24) Is Hiring Founding Engineers and Interns | [Apply](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer) |
+| Ziina (YC W21) the Series A fintech is hiring product engineers | [Apply](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86) |
 | Onyx (YC W24) – AI Assistants for Work Hiring Founding AE | [Apply](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive) |
 | Great Question (YC W21) Is Hiring a Director of Customer Success | [Apply](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success) |
 | Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook | [Apply](https://deepnote.com/join-us) |
@@ -31,7 +33,5 @@
 | Overlap (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer) |
 | Ashby (YC W19) Is Hiring Engineering Managers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a) |
 | Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools | [Apply](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker) |
-| Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE) | [Apply](https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe) |
-| Dalus (YC W25) is hiring an engineer for hardware system design software | [Apply](https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1) |
 
 <!-- table end -->
