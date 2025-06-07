@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer | [Apply](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27) |
 | Gander (YC F24) Is Hiring Founding Engineers and Interns | [Apply](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer) |
 | Ziina (YC W21) the Series A fintech is hiring product engineers | [Apply](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86) |
 | Onyx (YC W24) – AI Assistants for Work Hiring Founding AE | [Apply](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive) |
@@ -32,6 +33,5 @@
 | Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist | [Apply](https://www.ycombinator.com/companies/harper/jobs) |
 | Overlap (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer) |
 | Ashby (YC W19) Is Hiring Engineering Managers | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a) |
-| Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools | [Apply](https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker) |
 
 <!-- table end -->
