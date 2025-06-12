@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Shaped (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering) |
+| Spice Data (YC S19) is hiring a software engineer – back end | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad) |
 | OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer | [Apply](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27) |
 | Gander (YC F24) Is Hiring Founding Engineers and Interns | [Apply](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer) |
 | Ziina (YC W21) the Series A fintech is hiring product engineers | [Apply](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86) |
@@ -30,7 +32,5 @@
 | Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri | [Apply](https://www.ycombinator.com/companies/martin/jobs) |
 | Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr) |
 | Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer | [Apply](https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6) |
-| Harper (YC W25) Is Hiring Applied AI / AI Context Engineers and Data Scientist | [Apply](https://www.ycombinator.com/companies/harper/jobs) |
-| Overlap (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/overlap/jobs/Z8IbFjD-product-engineer) |
 
 <!-- table end -->
