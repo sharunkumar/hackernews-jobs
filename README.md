@@ -4,8 +4,9 @@
 
 | Title | Apply |
 |-------|-----|
+| Roame (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer) |
 | GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job | [Apply](https://www.gauntletai.com/) |
-| SchemeFlow (YC S24) Is Hiring a Founding Engineer (London) to Speed Up Construction | [Apply](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack) |
+| SchemeFlow (YC S24) Is Hiring an Engineer (London) to Speed Up Construction | [Apply](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack) |
 | Shaped (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering) |
 | Spice Data (YC S19) is hiring a software engineer – back end | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad) |
 | OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer | [Apply](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27) |
@@ -31,6 +32,5 @@
 | Roundtable (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff) |
 | Diligent (YC S23) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer) |
 | Venta AI (YC S23) is hiring a full stack engineer in Amsterdam | [Apply](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer) |
-| Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri | [Apply](https://www.ycombinator.com/companies/martin/jobs) |
 
 <!-- table end -->
