@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Roundtable (YC S23) Is Hiring a President / CRO | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding) |
 | Roame (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer) |
 | GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job | [Apply](https://www.gauntletai.com/) |
 | SchemeFlow (YC S24) Is Hiring an Engineer (London) to Speed Up Construction | [Apply](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack) |
@@ -31,6 +32,5 @@
 | Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada) |
 | Roundtable (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff) |
 | Diligent (YC S23) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer) |
-| Venta AI (YC S23) is hiring a full stack engineer in Amsterdam | [Apply](https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer) |
 
 <!-- table end -->
