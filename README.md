@@ -23,7 +23,7 @@
 | PromptArmor (YC W24) Is Hiring in San Francisco | [Apply](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack) |
 | Depot (YC W23) is hiring an enterprise support engineer (UK/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer) |
 | Patched (YC S24) Is Hiring SWEs in Singapore | [Apply](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer) |
-| Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV) | [Apply](https://careers.activeloop.ai/) |
+| Activeloop(YC S18)Is Hiring Senior Backend and AI Search Engineer(Mountain View) | [Apply](https://careers.activeloop.ai/) |
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Demodesk (YC W19) Is Hiring Rails Engineers | [Apply](https://demodesk.com/careers) |
 | Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer) |
