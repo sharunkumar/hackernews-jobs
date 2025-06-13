@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kyber (YC W23) Is Hiring a Technical Account Manager | [Apply](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam) |
 | Roundtable (YC S23) Is Hiring a President / CRO | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding) |
 | Roame (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer) |
 | GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job | [Apply](https://www.gauntletai.com/) |
@@ -31,6 +32,5 @@
 | Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada) |
 | Roundtable (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff) |
-| Diligent (YC S23) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer) |
 
 <!-- table end -->
