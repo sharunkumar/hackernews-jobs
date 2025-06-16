@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6) | [Apply](https://infracost.io/join-the-team) |
 | Solidroad (YC W25) Is Hiring | [Apply](https://solidroad.com/careers) |
 | Kyber (YC W23) Is Hiring a Technical Account Manager | [Apply](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam) |
 | Roundtable (YC S23) Is Hiring a President / CRO | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding) |
