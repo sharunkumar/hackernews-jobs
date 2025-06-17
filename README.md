@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Blaze (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer) |
 | Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6) | [Apply](https://infracost.io/join-the-team) |
 | Solidroad (YC W25) Is Hiring | [Apply](https://solidroad.com/careers) |
 | Kyber (YC W23) Is Hiring a Technical Account Manager | [Apply](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam) |
@@ -32,6 +33,5 @@
 | AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 | StackAI (YC W23) Is Looking for SWR and Tailwind Wizards | [Apply](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer) |
 | Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
-| Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and Canada | [Apply](https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada) |
 
 <!-- table end -->
