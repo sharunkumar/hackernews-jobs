@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Jiga (YC W21) Is Hiring Software Engs to Make Like of Mech Engs Easier | [Apply](https://www.workatastartup.com/companies/jiga) |
+| Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer | [Apply](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer) |
+| Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs Easier | [Apply](https://www.workatastartup.com/companies/jiga) |
 | Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure | [Apply](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level) |
 | Blaze (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer) |
 | Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6) | [Apply](https://infracost.io/join-the-team) |
@@ -32,6 +33,5 @@
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Demodesk (YC W19) Is Hiring Rails Engineers | [Apply](https://demodesk.com/careers) |
 | Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer) |
-| AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 
 <!-- table end -->
