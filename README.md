@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure | [Apply](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level) |
 | Blaze (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer) |
 | Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6) | [Apply](https://infracost.io/join-the-team) |
 | Solidroad (YC W25) Is Hiring | [Apply](https://solidroad.com/careers) |
@@ -32,6 +33,5 @@
 | Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer) |
 | AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 | StackAI (YC W23) Is Looking for SWR and Tailwind Wizards | [Apply](https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer) |
-| Weave (YC W25) is hiring a founding engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs) |
 
 <!-- table end -->
