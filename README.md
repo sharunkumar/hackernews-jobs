@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Flowspace (YC S17) Is Hiring Software Engineers | [Apply](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II) |
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer | [Apply](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer) |
 | Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs Easier | [Apply](https://www.workatastartup.com/companies/jiga) |
 | Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure | [Apply](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level) |
@@ -32,6 +33,5 @@
 | Activeloop(YC S18)Is Hiring Senior Backend and AI Search Engineer(Mountain View) | [Apply](https://careers.activeloop.ai/) |
 | Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 | Demodesk (YC W19) Is Hiring Rails Engineers | [Apply](https://demodesk.com/careers) |
-| Piramidal (YC W24) Is Hiring a Senior Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/1a1PgE9-senior-full-stack-engineer) |
 
 <!-- table end -->
