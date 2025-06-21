@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange | [Apply](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer) |
 | Flowspace (YC S17) Is Hiring Software Engineers | [Apply](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II) |
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer | [Apply](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer) |
@@ -32,6 +33,5 @@
 | Depot (YC W23) is hiring an enterprise support engineer (UK/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer) |
 | Patched (YC S24) Is Hiring SWEs in Singapore | [Apply](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer) |
 | Activeloop(YC S18)Is Hiring Senior Backend and AI Search Engineer(Mountain View) | [Apply](https://careers.activeloop.ai/) |
-| Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack) |
 
 <!-- table end -->
