@@ -4,9 +4,9 @@
 
 | Title | Apply |
 |-------|-----|
+| Kastle (S24) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange | [Apply](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer) |
-| Flowspace (YC S17) Is Hiring Software Engineers | [Apply](https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II) |
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer | [Apply](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer) |
 | Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs Easier | [Apply](https://www.workatastartup.com/companies/jiga) |
 | Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure | [Apply](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level) |
