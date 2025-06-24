@@ -31,6 +31,5 @@
 | AtoB (YC S20) – Stripe for Transportation – is hiring engineers | [Apply](https://jobs.ashbyhq.com/atob) |
 | PromptArmor (YC W24) Is Hiring in San Francisco | [Apply](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack) |
 | Depot (YC W23) is hiring an enterprise support engineer (UK/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer) |
-| Patched (YC S24) Is Hiring SWEs in Singapore | [Apply](https://www.ycombinator.com/companies/patched/jobs/hgDeMBr-software-engineer) |
 
 <!-- table end -->
