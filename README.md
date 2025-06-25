@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Yarn (YC W24) is hiring engineers in NYC | [Apply](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer) |
 | Kastle (S24) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange | [Apply](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer) |
@@ -30,6 +31,5 @@
 | CircuitHub (YC W12) is hiring full-stack robotics engineers | [Apply](https://www.workatastartup.com/jobs/76919) |
 | AtoB (YC S20) – Stripe for Transportation – is hiring engineers | [Apply](https://jobs.ashbyhq.com/atob) |
 | PromptArmor (YC W24) Is Hiring in San Francisco | [Apply](https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack) |
-| Depot (YC W23) is hiring an enterprise support engineer (UK/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer) |
 
 <!-- table end -->
