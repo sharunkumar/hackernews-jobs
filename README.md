@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus) |
 | FurtherAI (YC W24) Is Hiring for Software and AI Roles | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Yarn (YC W24) is hiring engineers in NYC | [Apply](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer) |
 | Kastle (S24) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24) |
@@ -30,6 +31,5 @@
 | Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook | [Apply](https://deepnote.com/join-us) |
 | Converge (YC S23) Well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | CircuitHub (YC W12) is hiring full-stack robotics engineers | [Apply](https://www.workatastartup.com/jobs/76919) |
-| AtoB (YC S20) – Stripe for Transportation – is hiring engineers | [Apply](https://jobs.ashbyhq.com/atob) |
 
 <!-- table end -->
