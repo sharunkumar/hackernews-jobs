@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones) |
 | AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus) |
 | FurtherAI (YC W24) Is Hiring for Software and AI Roles | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Yarn (YC W24) is hiring engineers in NYC | [Apply](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer) |
@@ -30,6 +31,5 @@
 | Great Question (YC W21) Is Hiring a Director of Customer Success | [Apply](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success) |
 | Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook | [Apply](https://deepnote.com/join-us) |
 | Converge (YC S23) Well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
-| CircuitHub (YC W12) is hiring full-stack robotics engineers | [Apply](https://www.workatastartup.com/jobs/76919) |
 
 <!-- table end -->
