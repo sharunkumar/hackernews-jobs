@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team) | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team) |
 | Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver | [Apply](https://bitmovin.com/careers/7943569002/) |
 | SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones) |
 | AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus) |
@@ -30,6 +31,5 @@
 | Ziina (YC W21) the Series A fintech is hiring product engineers | [Apply](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86) |
 | Onyx (YC W24) – AI Assistants for Work Hiring Founding AE | [Apply](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive) |
 | Great Question (YC W21) Is Hiring a Director of Customer Success | [Apply](https://www.ycombinator.com/companies/great-question/jobs/fYB5UKu-director-of-customer-success) |
-| Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook | [Apply](https://deepnote.com/join-us) |
 
 <!-- table end -->
