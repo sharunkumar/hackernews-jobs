@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| 14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative | [Apply](https://14.ai/careers) |
 | Lago (Open-Source Usage Based Billing) is hiring for ten roles | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
 | Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team) | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team) |
 | Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver | [Apply](https://bitmovin.com/careers/7943569002/) |
@@ -30,6 +31,5 @@
 | OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer | [Apply](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27) |
 | Gander (YC F24) Is Hiring Founding Engineers and Interns | [Apply](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer) |
 | Ziina (YC W21) the Series A fintech is hiring product engineers | [Apply](https://ziina.notion.site/Senior-Backend-Engineer-8b6642ec52ac45869656c135e07c6e86) |
-| Onyx (YC W24) – AI Assistants for Work Hiring Founding AE | [Apply](https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive) |
 
 <!-- table end -->
