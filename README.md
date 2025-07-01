@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Noloco (YC S21) Is Hiring a Founders Associate in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate) |
+| Cua (YC X25) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
+| Noloco (YC S21) is hiring a founder's associate in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate) |
 | 14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative | [Apply](https://14.ai/careers) |
 | Lago (Open-Source Usage Based Billing) is hiring for ten roles | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
 | Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team) | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team) |
@@ -30,6 +31,5 @@
 | Shaped (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering) |
 | Spice Data (YC S19) is hiring a software engineer – back end | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad) |
 | OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer | [Apply](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27) |
-| Gander (YC F24) Is Hiring Founding Engineers and Interns | [Apply](https://www.ycombinator.com/companies/gander/jobs/vwkK1FC-founding-engineer) |
 
 <!-- table end -->
