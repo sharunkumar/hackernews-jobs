@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| MindsDB (YC W20) Is Hiring for an AI Solutions Engineer | [Apply](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007) |
 | Recurse Center (YC S10) Is Hiring a Career Facilitator | [Apply](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080) |
 | Cua (YC X25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
 | Noloco (YC S21) is hiring a founder's associate in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate) |
