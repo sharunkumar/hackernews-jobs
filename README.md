@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Cua (YC X25) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
+| Cua (YC X25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
 | Noloco (YC S21) is hiring a founder's associate in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate) |
 | 14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative | [Apply](https://14.ai/careers) |
 | Lago (Open-Source Usage Based Billing) is hiring for ten roles | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
