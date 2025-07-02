@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Recurse Center (YC S10) Is Hiring a Career Facilitator | [Apply](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080) |
 | Cua (YC X25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
 | Noloco (YC S21) is hiring a founder's associate in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate) |
 | 14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative | [Apply](https://14.ai/careers) |
@@ -30,6 +31,5 @@
 | SchemeFlow (YC S24) Is Hiring an Engineer (London) to Speed Up Construction | [Apply](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack) |
 | Shaped (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering) |
 | Spice Data (YC S19) is hiring a software engineer – back end | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/WccsImv-junior-software-engineer-backend-new-grad) |
-| OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer | [Apply](https://jobs.ashbyhq.com/one-text/b95952a2-9bc2-4c3a-9da1-3dcc157b4a27) |
 
 <!-- table end -->
