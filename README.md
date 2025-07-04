@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | Kyber (YC W23) Is Hiring Enterprise BDRs | [Apply](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative) |
 | MindsDB (YC W20) is hiring an AI solutions engineer | [Apply](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007) |
 | Recurse Center (YC S10) Is Hiring a Career Facilitator | [Apply](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080) |
@@ -31,6 +32,5 @@
 | Roame (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer) |
 | GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job | [Apply](https://www.gauntletai.com/) |
 | SchemeFlow (YC S24) Is Hiring an Engineer (London) to Speed Up Construction | [Apply](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack) |
-| Shaped (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering) |
 
 <!-- table end -->
