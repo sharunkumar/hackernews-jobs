@@ -31,6 +31,5 @@
 | Roundtable (YC S23) Is Hiring a President / CRO | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding) |
 | Roame (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer) |
 | GauntletAI (YC S17): All expenses paid AI training and guaranteed $200k+ job | [Apply](https://www.gauntletai.com/) |
-| SchemeFlow (YC S24) Is Hiring an Engineer (London) to Speed Up Construction | [Apply](https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack) |
 
 <!-- table end -->
