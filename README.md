@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs) |
 | UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 | Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | Kyber (YC W23) Is Hiring Enterprise BDRs | [Apply](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative) |
@@ -30,6 +31,5 @@
 | Solidroad (YC W25) Is Hiring | [Apply](https://solidroad.com/careers) |
 | Kyber (YC W23) Is Hiring a Technical Account Manager | [Apply](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam) |
 | Roundtable (YC S23) Is Hiring a President / CRO | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding) |
-| Roame (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/roame/jobs/9QhTM31-founding-product-ai-engineer) |
 
 <!-- table end -->
