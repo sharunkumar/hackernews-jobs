@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Metriport (YC S22) is hiring engineers to improve healthcare data exchange | [Apply](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer) |
 | Telli (YC F24) Is Hiring Engineers [On-Site Berlin] | [Apply](https://hi.telli.com/join-us) |
 | Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs) |
 | UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
@@ -30,6 +31,5 @@
 | Blaze (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer) |
 | Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6) | [Apply](https://infracost.io/join-the-team) |
 | Solidroad (YC W25) Is Hiring | [Apply](https://solidroad.com/careers) |
-| Kyber (YC W23) Is Hiring a Technical Account Manager | [Apply](https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam) |
 
 <!-- table end -->
