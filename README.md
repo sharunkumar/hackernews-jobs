@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sieve (YC X25) is hiring researchers to build large video datasets for AI labs | [Apply](https://sievedata.com/about/jobs) |
 | Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV) | [Apply](https://careers.activeloop.ai/) |
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant) |
 | Metriport (YC S22) is hiring engineers to improve healthcare data exchange | [Apply](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer) |
@@ -30,6 +31,5 @@
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer | [Apply](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer) |
 | Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs Easier | [Apply](https://www.workatastartup.com/companies/jiga) |
 | Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure | [Apply](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level) |
-| Blaze (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer) |
 
 <!-- table end -->
