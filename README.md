@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV) | [Apply](https://careers.activeloop.ai/) |
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant) |
 | Metriport (YC S22) is hiring engineers to improve healthcare data exchange | [Apply](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer) |
 | Telli (YC F24) Is Hiring Engineers [On-Site Berlin] | [Apply](https://hi.telli.com/join-us) |
@@ -30,6 +31,5 @@
 | Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs Easier | [Apply](https://www.workatastartup.com/companies/jiga) |
 | Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure | [Apply](https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level) |
 | Blaze (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer) |
-| Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6) | [Apply](https://infracost.io/join-the-team) |
 
 <!-- table end -->
