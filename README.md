@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity | [Apply](https://tinyurl.com/join-meticulous) |
 | Infisical (YC W23) Is Hiring DevRel Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations) |
 | Sieve (YC X25) is hiring researchers to build large video datasets for AI labs | [Apply](https://sievedata.com/about/jobs) |
 | Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV) | [Apply](https://careers.activeloop.ai/) |
@@ -30,6 +31,5 @@
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange | [Apply](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer) |
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer | [Apply](https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer) |
-| Jiga (YC W21) Is Hiring Software Engs to Make Life of Mech Engs Easier | [Apply](https://www.workatastartup.com/companies/jiga) |
 
 <!-- table end -->
