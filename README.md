@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Meticulous (YC S21) is hiring in UK to redefine software dev,£100k-300k and equity | [Apply](https://tinyurl.com/join-meticulous) |
+| Meticulous (YC S21) is hiring in UK to redefine software dev | [Apply](https://tinyurl.com/join-meticulous) |
 | Infisical (YC W23) Is Hiring DevRel Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations) |
 | Sieve (YC X25) is hiring researchers to build large video datasets for AI labs | [Apply](https://sievedata.com/about/jobs) |
 | Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV) | [Apply](https://careers.activeloop.ai/) |
