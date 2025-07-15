@@ -31,6 +31,5 @@
 | Yarn (YC W24) is hiring engineers in NYC | [Apply](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer) |
 | Kastle (S24) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
-| Qfex (YC X25) – Back End Engineer for a 24/7 Stock Exchange | [Apply](https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer) |
 
 <!-- table end -->
