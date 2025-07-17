@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Rejoy Health (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer) |
 | Weave (YC W25) is hiring an AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
 | Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri | [Apply](https://www.ycombinator.com/companies/martin/jobs/) |
@@ -30,6 +31,5 @@
 | AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus) |
 | FurtherAI (YC W24) Is Hiring for Software and AI Roles | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 | Yarn (YC W24) is hiring engineers in NYC | [Apply](https://www.ycombinator.com/companies/yarn-2/jobs/dAUuy2r-founding-engineer) |
-| Kastle (S24) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-engineer-at-kastle-s24) |
 
 <!-- table end -->
