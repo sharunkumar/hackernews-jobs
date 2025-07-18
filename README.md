@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK) | [Apply](https://www.arva.ai/careers/ai-research-engineer) |
 | Rejoy Health (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer) |
 | Weave (YC W25) is hiring an AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
