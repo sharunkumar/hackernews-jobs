@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Piramidal (YC W24) Is Hiring a Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer) |
 | Mango Health (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer) |
 | Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK) | [Apply](https://www.arva.ai/careers/ai-research-engineer) |
 | Rejoy Health (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer) |
@@ -31,6 +32,5 @@
 | Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver | [Apply](https://bitmovin.com/careers/7943569002/) |
 | SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones) |
 | AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus) |
-| FurtherAI (YC W24) Is Hiring for Software and AI Roles | [Apply](https://www.ycombinator.com/companies/furtherai/jobs) |
 
 <!-- table end -->
