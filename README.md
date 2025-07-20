@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Piramidal (YC W24) Is Hiring a Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer) |
+| Piramidal (YC W24) is hiring a full stack engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer) |
 | Mango Health (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer) |
 | Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK) | [Apply](https://www.arva.ai/careers/ai-research-engineer) |
 | Rejoy Health (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer) |
