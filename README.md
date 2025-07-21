@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Extend (YC W23) is hiring engineers to build SOTA document processing | [Apply](https://jobs.ashbyhq.com/extend) |
 | Piramidal (YC W24) is hiring a full stack engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer) |
 | Mango Health (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer) |
 | Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK) | [Apply](https://www.arva.ai/careers/ai-research-engineer) |
@@ -31,6 +32,5 @@
 | Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team) | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team) |
 | Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver | [Apply](https://bitmovin.com/careers/7943569002/) |
 | SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones) |
-| AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus) |
 
 <!-- table end -->
