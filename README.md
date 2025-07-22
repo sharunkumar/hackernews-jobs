@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
 | Extend (YC W23) is hiring engineers to build SOTA document processing | [Apply](https://jobs.ashbyhq.com/extend) |
 | Piramidal (YC W24) is hiring a full stack engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer) |
 | Mango Health (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer) |
@@ -31,6 +32,5 @@
 | Lago (Open-Source Usage Based Billing) is hiring for ten roles | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
 | Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team) | [Apply](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack-founding-team) |
 | Bitmovin (YC S15) Is Hiring a Junior Solutions Engineer in Denver | [Apply](https://bitmovin.com/careers/7943569002/) |
-| SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US) | [Apply](https://www.ycombinator.com/companies/signoz/jobs/cPaxcxt-devrel-engineer-remote-us-time-zones) |
 
 <!-- table end -->
