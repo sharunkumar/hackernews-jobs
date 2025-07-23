@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 | QuestDB (YC S20) Is Hiring a Technical Content Lead | [Apply](https://questdb.com/careers/technical-content-lead/) |
 | Depot (YC W23) Is Hiring a Technical Content Writer (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer) |
 | Firebender (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist) |
@@ -31,6 +32,5 @@
 | Kyber (YC W23) Is Hiring Enterprise BDRs | [Apply](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative) |
 | MindsDB (YC W20) is hiring an AI solutions engineer | [Apply](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007) |
 | Recurse Center (YC S10) Is Hiring a Career Facilitator | [Apply](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080) |
-| Cua (YC X25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
 
 <!-- table end -->
