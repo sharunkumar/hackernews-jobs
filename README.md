@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| QuestDB (YC S20) Is Hiring a Technical Content Lead | [Apply](https://questdb.com/careers/technical-content-lead/) |
+| Depot (YC W23) Is Hiring a Technical Content Writer (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer) |
 | Firebender (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist) |
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer) |
 | Kapa.ai (YC S23) is hiring a software engineers (EU remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack) |
@@ -30,7 +32,5 @@
 | MindsDB (YC W20) is hiring an AI solutions engineer | [Apply](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007) |
 | Recurse Center (YC S10) Is Hiring a Career Facilitator | [Apply](https://recurse.notion.site/Career-Facilitator-22300db231b580ba9190df9d5e480080) |
 | Cua (YC X25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
-| Noloco (YC S21) is hiring a founder's associate in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate) |
-| 14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative | [Apply](https://14.ai/careers) |
 
 <!-- table end -->
