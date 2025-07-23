@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Firebender (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist) |
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer) |
 | Kapa.ai (YC S23) is hiring a software engineers (EU remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack) |
 | Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
@@ -31,6 +32,5 @@
 | Cua (YC X25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-cua-yc-x25) |
 | Noloco (YC S21) is hiring a founder's associate in Barcelona | [Apply](https://www.ycombinator.com/companies/noloco/jobs/K7q02eV-founders-associate) |
 | 14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative | [Apply](https://14.ai/careers) |
-| Lago (Open-Source Usage Based Billing) is hiring for ten roles | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
 
 <!-- table end -->
