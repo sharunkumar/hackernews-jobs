@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sendblue (YC S23) is hiring senior engineers | [Apply](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer) |
 | Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer) |
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 | QuestDB (YC S20) Is Hiring a Technical Content Lead | [Apply](https://questdb.com/careers/technical-content-lead/) |
@@ -31,6 +32,5 @@
 | UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 | Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | Kyber (YC W23) Is Hiring Enterprise BDRs | [Apply](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative) |
-| MindsDB (YC W20) is hiring an AI solutions engineer | [Apply](https://job-boards.greenhouse.io/mindsdb/jobs/4770283007) |
 
 <!-- table end -->
