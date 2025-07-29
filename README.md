@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Pax Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
 | Sendblue (YC S23) is hiring senior engineers | [Apply](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer) |
 | Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer) |
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
@@ -31,6 +32,5 @@
 | Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs) |
 | UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 | Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
-| Kyber (YC W23) Is Hiring Enterprise BDRs | [Apply](https://www.ycombinator.com/companies/kyber/jobs/F1XERLm-enterprise-business-development-representative) |
 
 <!-- table end -->
