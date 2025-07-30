@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Cedana (YC S23) Is Hiring a Systems Engineer | [Apply](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration) |
 | CodeCrafters (YC S22) is hiring first Marketing Person | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire) |
 | PAX Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
 | Sendblue (YC S23) is hiring senior engineers | [Apply](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer) |
