@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Pax Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
+| CodeCrafters (YC S22) is hiring first Marketing Person | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire) |
+| PAX Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
 | Sendblue (YC S23) is hiring senior engineers | [Apply](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer) |
 | Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer) |
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
@@ -31,6 +32,5 @@
 | Telli (YC F24) Is Hiring Engineers [On-Site Berlin] | [Apply](https://hi.telli.com/join-us) |
 | Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs) |
 | UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
-| Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 
 <!-- table end -->
