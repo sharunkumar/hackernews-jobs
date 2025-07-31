@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
 | Artie (YC S23) Is Hiring Founding AEs | [Apply](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae) |
 | Cedana (YC S23) Is Hiring a Systems Engineer | [Apply](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration) |
 | CodeCrafters (YC S22) is hiring first Marketing Person | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire) |
@@ -32,6 +33,5 @@
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant) |
 | Metriport (YC S22) is hiring engineers to improve healthcare data exchange | [Apply](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer) |
 | Telli (YC F24) Is Hiring Engineers [On-Site Berlin] | [Apply](https://hi.telli.com/join-us) |
-| Continue (YC S23) is hiring software engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/continue/jobs) |
 
 <!-- table end -->
