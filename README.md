@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kaizen (YC X25) is hiring engineers to build browser agents that work | [Apply](https://www.kaizenautomation.com/jobs) |
 | Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
 | Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
 | Artie (YC S23) Is Hiring Founding AEs | [Apply](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae) |
@@ -32,6 +33,5 @@
 | Sieve (YC X25) is hiring researchers to build large video datasets for AI labs | [Apply](https://sievedata.com/about/jobs) |
 | Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV) | [Apply](https://careers.activeloop.ai/) |
 | Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant) |
-| Metriport (YC S22) is hiring engineers to improve healthcare data exchange | [Apply](https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer) |
 
 <!-- table end -->
