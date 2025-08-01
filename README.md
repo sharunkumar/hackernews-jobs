@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer | [Apply](https://www.coveragecat.com/careers/engineering/software-engineer) |
 | Kaizen (YC X25) is hiring engineers to build browser agents that work | [Apply](https://www.kaizenautomation.com/jobs) |
 | Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
 | Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
@@ -32,6 +33,5 @@
 | Infisical (YC W23) Is Hiring DevRel Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations) |
 | Sieve (YC X25) is hiring researchers to build large video datasets for AI labs | [Apply](https://sievedata.com/about/jobs) |
 | Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV) | [Apply](https://careers.activeloop.ai/) |
-| Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6LaQIc5-founding-researcher-quant) |
 
 <!-- table end -->
