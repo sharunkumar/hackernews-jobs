@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Great Question (YC W21) Is Hiring a VP of Engineering (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering) |
 | Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer | [Apply](https://www.coveragecat.com/careers/engineering/software-engineer) |
 | Kaizen (YC X25) is hiring engineers to build browser agents that work | [Apply](https://www.kaizenautomation.com/jobs) |
 | Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
@@ -32,6 +33,5 @@
 | Meticulous (YC S21) is hiring in UK to redefine software dev | [Apply](https://tinyurl.com/join-meticulous) |
 | Infisical (YC W23) Is Hiring DevRel Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations) |
 | Sieve (YC X25) is hiring researchers to build large video datasets for AI labs | [Apply](https://sievedata.com/about/jobs) |
-| Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV) | [Apply](https://careers.activeloop.ai/) |
 
 <!-- table end -->
