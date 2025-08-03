@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | Great Question (YC W21) Is Hiring a VP of Engineering (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering) |
 | Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer | [Apply](https://www.coveragecat.com/careers/engineering/software-engineer) |
 | Kaizen (YC X25) is hiring engineers to build browser agents that work | [Apply](https://www.kaizenautomation.com/jobs) |
@@ -32,6 +33,5 @@
 | Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri | [Apply](https://www.ycombinator.com/companies/martin/jobs/) |
 | Meticulous (YC S21) is hiring in UK to redefine software dev | [Apply](https://tinyurl.com/join-meticulous) |
 | Infisical (YC W23) Is Hiring DevRel Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations) |
-| Sieve (YC X25) is hiring researchers to build large video datasets for AI labs | [Apply](https://sievedata.com/about/jobs) |
 
 <!-- table end -->
