@@ -32,6 +32,5 @@
 | Weave (YC W25) is hiring an AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
 | Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri | [Apply](https://www.ycombinator.com/companies/martin/jobs/) |
-| Meticulous (YC S21) is hiring in UK to redefine software dev | [Apply](https://tinyurl.com/join-meticulous) |
 
 <!-- table end -->
