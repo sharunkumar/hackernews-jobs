@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Foundry (YC F24) Is Hiring Staff Level Product Engineers | [Apply](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer) |
+| Foundry (YC F24) is hiring staff-level product engineers | [Apply](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer) |
 | Kyber (YC W23) is hiring enterprise account executives | [Apply](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae) |
 | Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | Great Question (YC W21) Is Hiring a VP of Engineering (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering) |
