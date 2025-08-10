@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Type (YC W23) is hiring a founding engineer to build an AI-native doc editor | [Apply](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer) |
 | Foundry (YC F24) is hiring staff-level product engineers | [Apply](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer) |
 | Kyber (YC W23) is hiring enterprise account executives | [Apply](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae) |
 | Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
@@ -31,6 +32,5 @@
 | Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK) | [Apply](https://www.arva.ai/careers/ai-research-engineer) |
 | Rejoy Health (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer) |
 | Weave (YC W25) is hiring an AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
-| Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
 
 <!-- table end -->
