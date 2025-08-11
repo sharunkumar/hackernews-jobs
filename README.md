@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare | [Apply](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025) |
 | Type (YC W23) is hiring a founding engineer to build an AI-native doc editor | [Apply](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer) |
 | Foundry (YC F24) is hiring staff-level product engineers | [Apply](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer) |
 | Kyber (YC W23) is hiring enterprise account executives | [Apply](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae) |
