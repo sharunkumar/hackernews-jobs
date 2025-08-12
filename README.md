@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Depot (YC W23) Is Hiring a Community and Events Manager (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager) |
 | Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare | [Apply](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025) |
 | Type (YC W23) is hiring a founding engineer to build an AI-native doc editor | [Apply](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer) |
 | Foundry (YC F24) is hiring staff-level product engineers | [Apply](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer) |
@@ -31,7 +32,5 @@
 | Piramidal (YC W24) is hiring a full stack engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer) |
 | Mango Health (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer) |
 | Arva AI (YC S24) Is Hiring an AI Research Engineer (London, UK) | [Apply](https://www.arva.ai/careers/ai-research-engineer) |
-| Rejoy Health (YC W21) Is Hiring | [Apply](https://www.ycombinator.com/companies/rejoy-health/jobs/DCsxNgv-software-engineer) |
-| Weave (YC W25) is hiring an AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 
 <!-- table end -->
