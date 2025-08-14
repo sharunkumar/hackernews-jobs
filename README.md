@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Axle (YC S22) Is Hiring Product Engineers | [Apply](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer) |
+| Axle (YC S22) is hiring product engineers | [Apply](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer) |
 | Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer) |
 | ReadMe (YC W15) Is Hiring a Developer Experience PM | [Apply](https://readme.com/careers#product-manager-developer-experience) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
