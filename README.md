@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer) |
 | ReadMe (YC W15) Is Hiring a Developer Experience PM | [Apply](https://readme.com/careers#product-manager-developer-experience) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Depot (YC W23) Is Hiring a Community and Events Manager (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager) |
@@ -32,6 +33,5 @@
 | Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
 | Extend (YC W23) is hiring engineers to build SOTA document processing | [Apply](https://jobs.ashbyhq.com/extend) |
 | Piramidal (YC W24) is hiring a full stack engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/JfeI3uE-full-stack-engineer) |
-| Mango Health (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer) |
 
 <!-- table end -->
