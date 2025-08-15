@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 | Axle (YC S22) is hiring product engineers | [Apply](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer) |
 | Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer) |
 | ReadMe (YC W15) Is Hiring a Developer Experience PM | [Apply](https://readme.com/careers#product-manager-developer-experience) |
@@ -32,6 +33,5 @@
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer) |
 | Kapa.ai (YC S23) is hiring a software engineers (EU remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/JPE2ofG-software-engineer-full-stack) |
 | Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
-| Extend (YC W23) is hiring engineers to build SOTA document processing | [Apply](https://jobs.ashbyhq.com/extend) |
 
 <!-- table end -->
