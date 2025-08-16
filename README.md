@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
@@ -32,6 +33,5 @@
 | QuestDB (YC S20) Is Hiring a Technical Content Lead | [Apply](https://questdb.com/careers/technical-content-lead/) |
 | Depot (YC W23) Is Hiring a Technical Content Writer (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer) |
 | Firebender (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist) |
-| Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer) |
 
 <!-- table end -->
