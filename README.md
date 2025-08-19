@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
 | Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
@@ -32,6 +33,5 @@
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 | QuestDB (YC S20) Is Hiring a Technical Content Lead | [Apply](https://questdb.com/careers/technical-content-lead/) |
 | Depot (YC W23) Is Hiring a Technical Content Writer (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/BzrfAzP-technical-content-writer) |
-| Firebender (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/firebender/jobs/yisDXr5-founding-engineer-generalist) |
 
 <!-- table end -->
