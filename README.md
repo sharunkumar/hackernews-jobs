@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| GiveCampus (YC S15) Hiring Rails engineers passionate about education | [Apply](https://givecampus.breezy.hr/p/0c4a97691730) |
+| 14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk | [Apply](https://14.ai/careers) |
 | Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
 | Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
