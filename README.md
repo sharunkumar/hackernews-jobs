@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering | [Apply](https://careers.activeloop.ai/) |
 | Coris (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer) |
 | 14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk | [Apply](https://14.ai/careers) |
 | Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
@@ -32,6 +33,5 @@
 | PAX Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
 | Sendblue (YC S23) is hiring senior engineers | [Apply](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer) |
 | Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer) |
-| Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 
 <!-- table end -->
