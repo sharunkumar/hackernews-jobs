@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Cua (YC X25) is hiring design engineers in SF | [Apply](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design) |
 | Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering | [Apply](https://careers.activeloop.ai/) |
 | Coris (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer) |
 | 14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk | [Apply](https://14.ai/careers) |
@@ -32,6 +33,5 @@
 | CodeCrafters (YC S22) is hiring first Marketing Person | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire) |
 | PAX Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
 | Sendblue (YC S23) is hiring senior engineers | [Apply](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer) |
-| Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/DhML6Uf-c-systems-engineer) |
 
 <!-- table end -->
