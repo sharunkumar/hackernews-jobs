@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer | [Apply](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer) |
 | Cua (YC X25) is hiring design engineers in SF | [Apply](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design) |
 | Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering | [Apply](https://careers.activeloop.ai/) |
 | Coris (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer) |
@@ -32,6 +33,5 @@
 | Cedana (YC S23) Is Hiring a Systems Engineer | [Apply](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration) |
 | CodeCrafters (YC S22) is hiring first Marketing Person | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire) |
 | PAX Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
-| Sendblue (YC S23) is hiring senior engineers | [Apply](https://www.ycombinator.com/companies/sendblue/jobs/VP7cA0F-senior-backend-engineer) |
 
 <!-- table end -->
