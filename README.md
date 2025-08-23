@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bild AI (YC W25) Is Hiring Applied AI Founding Engineer | [Apply](https://www.workatastartup.com/jobs/75647) |
 | Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer | [Apply](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer) |
 | Cua (YC X25) is hiring design engineers in SF | [Apply](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design) |
 | Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering | [Apply](https://careers.activeloop.ai/) |
@@ -32,6 +33,5 @@
 | Artie (YC S23) Is Hiring Founding AEs | [Apply](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae) |
 | Cedana (YC S23) Is Hiring a Systems Engineer | [Apply](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration) |
 | CodeCrafters (YC S22) is hiring first Marketing Person | [Apply](https://www.ycombinator.com/companies/codecrafters/jobs/7ATipKJ-1st-marketing-hire) |
-| PAX Markets (YC W25) is hiring a founding principal hardware (RTL) engineer | [Apply](https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer) |
 
 <!-- table end -->
