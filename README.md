@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7) |
 | Motion (YC W20) Is Hiring Principal Software Engineers | [Apply](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn) |
 | Bild AI (YC W25) Is Hiring an Applied AI Engineer | [Apply](https://www.workatastartup.com/jobs/75647) |
 | Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer | [Apply](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer) |
@@ -32,6 +33,5 @@
 | Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
 | Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India | [Apply](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai) |
 | Artie (YC S23) Is Hiring Founding AEs | [Apply](https://www.ycombinator.com/companies/artie/jobs/CfSrcAH-founding-ae) |
-| Cedana (YC S23) Is Hiring a Systems Engineer | [Apply](https://www.ycombinator.com/companies/cedana/jobs/zRmK2by-systems-engineer-advanced-orchestration) |
 
 <!-- table end -->
