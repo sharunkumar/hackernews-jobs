@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US) | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
 | Ember (YC F24) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026) |
 | LiteLLM (YC W23) is hiring a back end engineer | [Apply](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer) |
 | SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7) |
@@ -32,6 +33,5 @@
 | Great Question (YC W21) Is Hiring a VP of Engineering (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering) |
 | Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer | [Apply](https://www.coveragecat.com/careers/engineering/software-engineer) |
 | Kaizen (YC X25) is hiring engineers to build browser agents that work | [Apply](https://www.kaizenautomation.com/jobs) |
-| Infracost (YC W21) hiring first PM to shift $600B cloud spend to proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
 
 <!-- table end -->
