@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC) | [Apply](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8) |
+| The Forecasting Company (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer) |
 | Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US) | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
 | Ember (YC F24) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026) |
 | LiteLLM (YC W23) is hiring a back end engineer | [Apply](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer) |
@@ -31,7 +33,5 @@
 | Kyber (YC W23) is hiring enterprise account executives | [Apply](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae) |
 | Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 | Great Question (YC W21) Is Hiring a VP of Engineering (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering) |
-| Coverage Cat (YC S22) Is Hiring a Senior, Staff, or Principal Engineer | [Apply](https://www.coveragecat.com/careers/engineering/software-engineer) |
-| Kaizen (YC X25) is hiring engineers to build browser agents that work | [Apply](https://www.kaizenautomation.com/jobs) |
 
 <!-- table end -->
