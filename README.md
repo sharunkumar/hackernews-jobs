@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Thunder Compute (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire) |
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC) | [Apply](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8) |
 | The Forecasting Company (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer) |
@@ -32,6 +33,5 @@
 | Type (YC W23) is hiring a founding engineer to build an AI-native doc editor | [Apply](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer) |
 | Foundry (YC F24) is hiring staff-level product engineers | [Apply](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer) |
 | Kyber (YC W23) is hiring enterprise account executives | [Apply](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae) |
-| Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
 
 <!-- table end -->
