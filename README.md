@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC) | [Apply](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8) |
 | The Forecasting Company (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer) |
 | Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US) | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
@@ -32,6 +33,5 @@
 | Foundry (YC F24) is hiring staff-level product engineers | [Apply](https://www.ycombinator.com/companies/foundry/jobs/jwdYx6v-founding-product-engineer) |
 | Kyber (YC W23) is hiring enterprise account executives | [Apply](https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae) |
 | Converge (YC S23) well-capitalized New York startup seeks product developers | [Apply](https://www.runconverge.com/careers) |
-| Great Question (YC W21) Is Hiring a VP of Engineering (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/ONBQUqe-vp-of-engineering) |
 
 <!-- table end -->
