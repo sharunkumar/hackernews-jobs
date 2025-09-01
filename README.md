@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Telli (YC F24) is hiring engineers, designers, and interns [on-site Berlin] | [Apply](https://hi.telli.com/join-us) |
+| Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
+| Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin) | [Apply](https://hi.telli.com/join-us) |
 | Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
 | Channel3 (YC S25) Is Hiring a Founding Engineer, NYC | [Apply](https://channel3.notion.site/founding-engineer) |
 | Thunder Compute (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire) |
@@ -33,6 +34,5 @@
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Depot (YC W23) Is Hiring a Community and Events Manager (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager) |
 | Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare | [Apply](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025) |
-| Type (YC W23) is hiring a founding engineer to build an AI-native doc editor | [Apply](https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer) |
 
 <!-- table end -->
