@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kapa.ai (YC S23) is hiring research and software engineers | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 | Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin) | [Apply](https://hi.telli.com/join-us) |
 | Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
@@ -33,6 +34,5 @@
 | ReadMe (YC W15) Is Hiring a Developer Experience PM | [Apply](https://readme.com/careers#product-manager-developer-experience) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Depot (YC W23) Is Hiring a Community and Events Manager (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager) |
-| Trellis (YC W24) Is Hiring: Automate Prior Auth in Healthcare | [Apply](https://www.ycombinator.com/companies/trellis/jobs/Cv3ZwXh-forward-deployed-engineers-all-levels-august-2025) |
 
 <!-- table end -->
