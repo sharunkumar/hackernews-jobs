@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Dynamo AI (YC W22) Is Hiring for AI Product Managers | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai) |
 | Kapa.ai (YC S23) is hiring research and software engineers | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 | Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin) | [Apply](https://hi.telli.com/join-us) |
