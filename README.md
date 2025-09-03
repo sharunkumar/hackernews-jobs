@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Svix (webhooks as a service) is hiring for a founding marketing lead | [Apply](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22) |
 | Dynamo AI (YC W22) Is Hiring for AI Product Managers | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai) |
 | Kapa.ai (YC S23) is hiring research and software engineers | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
@@ -34,6 +35,5 @@
 | Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer) |
 | ReadMe (YC W15) Is Hiring a Developer Experience PM | [Apply](https://readme.com/careers#product-manager-developer-experience) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
-| Depot (YC W23) Is Hiring a Community and Events Manager (Remote) | [Apply](https://www.ycombinator.com/companies/depot/jobs/K1IFotJ-community-events-manager) |
 
 <!-- table end -->
