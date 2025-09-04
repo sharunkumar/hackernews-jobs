@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM | [Apply](https://www.ycombinator.com/companies/artie/jobs) |
 | Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada) | [Apply](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer) |
 | Svix (webhooks as a service) is hiring for a founding marketing lead | [Apply](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22) |
 | Dynamo AI (YC W22) Is Hiring for AI Product Managers | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai) |
@@ -34,6 +35,5 @@
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 | Axle (YC S22) is hiring product engineers | [Apply](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer) |
 | Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer) |
-| ReadMe (YC W15) Is Hiring a Developer Experience PM | [Apply](https://readme.com/careers#product-manager-developer-experience) |
 
 <!-- table end -->
