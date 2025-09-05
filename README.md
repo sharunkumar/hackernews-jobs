@@ -34,6 +34,5 @@
 | Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 | Axle (YC S22) is hiring product engineers | [Apply](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer) |
-| Mbodi AI (YC X25) Is Hiring a Founding Research Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer) |
 
 <!-- table end -->
