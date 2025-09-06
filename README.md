@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Gym Class VR (YC W22) Is Hiring – UX Design Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal) |
 | Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM | [Apply](https://www.ycombinator.com/companies/artie/jobs) |
 | Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada) | [Apply](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer) |
 | Svix (webhooks as a service) is hiring for a founding marketing lead | [Apply](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22) |
@@ -33,6 +34,5 @@
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
 | OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
-| Axle (YC S22) is hiring product engineers | [Apply](https://www.ycombinator.com/companies/axle/jobs/8wAy0QH-product-engineer) |
 
 <!-- table end -->
