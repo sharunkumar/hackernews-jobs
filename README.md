@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote) | [Apply](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84) |
 | Gym Class VR (YC W22) Is Hiring – UX Design Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal) |
 | Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM | [Apply](https://www.ycombinator.com/companies/artie/jobs) |
 | Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada) | [Apply](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer) |
@@ -33,6 +34,5 @@
 | Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Tesorio (YC S15) Is Hiring a Senior GenAI Engineer (100% Remote) | [Apply](https://www.tesorio.com/careers#job-openings) |
-| OneSignal (YC S11) Is Hiring Engineers | [Apply](https://onesignal.com/careers) |
 
 <!-- table end -->
