@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
+| Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote) | [Apply](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84) |
 | Gym Class VR (YC W22) Is Hiring – UX Design Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal) |
@@ -32,7 +34,5 @@
 | Coris (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer) |
 | 14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk | [Apply](https://14.ai/careers) |
 | Spice Data (YC S19) Is Hiring a Product Associate (New Grad) | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad) |
-| Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA | [Apply](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=579e9d03-0724-482b-a42a-8e5e80d73405) |
-| EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 
 <!-- table end -->
