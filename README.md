@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mux (YC W16) Is Hiring Engineering ICs and Managers | [Apply](https://mux.com/jobs) |
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
@@ -33,6 +34,5 @@
 | Cua (YC X25) is hiring design engineers in SF | [Apply](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design) |
 | Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering | [Apply](https://careers.activeloop.ai/) |
 | Coris (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/coris/jobs/rqO40yy-ai-engineer) |
-| 14.ai (YC W24) is hiring engineers in SF to build an AI-native Zendesk | [Apply](https://14.ai/careers) |
 
 <!-- table end -->
