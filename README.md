@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Adam (YC W25) Is Hiring to Build the Future of CAD | [Apply](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer) |
 | Piramidal (YC W24) Is Hiring Back End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform) |
 | Mux (YC W16) Is Hiring Engineering ICs and Managers | [Apply](https://mux.com/jobs) |
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
@@ -33,6 +34,5 @@
 | Bild AI (YC W25) Is Hiring an Applied AI Engineer | [Apply](https://www.workatastartup.com/jobs/75647) |
 | Text.ai (YC X25) Is Hiring Founding Full-Stack Engineer | [Apply](https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer) |
 | Cua (YC X25) is hiring design engineers in SF | [Apply](https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design) |
-| Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering | [Apply](https://careers.activeloop.ai/) |
 
 <!-- table end -->
