@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer) |
 | CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote) | [Apply](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer) |
 | Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs) |
 | Adam (YC W25) Is Hiring to Build the Future of CAD | [Apply](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer) |
@@ -33,6 +34,5 @@
 | LiteLLM (YC W23) is hiring a back end engineer | [Apply](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer) |
 | SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7) |
 | Motion (YC W20) Is Hiring Principal Software Engineers | [Apply](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn) |
-| Bild AI (YC W25) Is Hiring an Applied AI Engineer | [Apply](https://www.workatastartup.com/jobs/75647) |
 
 <!-- table end -->
