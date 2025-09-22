@@ -33,6 +33,5 @@
 | Ember (YC F24) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026) |
 | LiteLLM (YC W23) is hiring a back end engineer | [Apply](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer) |
 | SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7) |
-| Motion (YC W20) Is Hiring Principal Software Engineers | [Apply](https://jobs.ashbyhq.com/motion/7355e80d-dab2-4ba1-89cc-a0197e08a83c?utm_source=hn) |
 
 <!-- table end -->
