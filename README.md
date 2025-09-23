@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC) | [Apply](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084) |
+| Telli (YC F24) is hiring ambitious engineers [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
 | Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer) |
 | CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote) | [Apply](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer) |
 | Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs) |
@@ -31,7 +33,5 @@
 | The Forecasting Company (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer) |
 | Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US) | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
 | Ember (YC F24) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026) |
-| LiteLLM (YC W23) is hiring a back end engineer | [Apply](https://www.ycombinator.com/companies/litellm/jobs/6uvoBp3-founding-backend-engineer) |
-| SigNoz (YC W21, Open Source Datadog) Is Hiring Platform Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/SigNoz/01ebd081-db0c-4eec-8a8b-e346bc3f14a7) |
 
 <!-- table end -->
