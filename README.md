@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Gauntlet AI (YC S17) is looking for engineers who want to master AI | [Apply](https://apply.gauntletai.com/) |
 | ParadeDB (YC S23) Is Hiring Database Internals Engineers | [Apply](https://paradedb.notion.site/?source=copy_link) |
 | Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer) |
 | Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC) | [Apply](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084) |
@@ -32,6 +33,5 @@
 | Thunder Compute (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire) |
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC) | [Apply](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8) |
-| The Forecasting Company (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer) |
 
 <!-- table end -->
