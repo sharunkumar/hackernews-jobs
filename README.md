@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| ParadeDB (YC S23) Is Hiring Database Internals Engineers | [Apply](https://paradedb.notion.site/?source=copy_link) |
+| Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer) |
 | Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC) | [Apply](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084) |
 | Telli (YC F24) is hiring ambitious engineers [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
 | Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer) |
@@ -31,7 +33,5 @@
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC) | [Apply](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8) |
 | The Forecasting Company (YC S24) Is Hiring a Software Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/9kIwGyz-founding-software-engineer) |
-| Lago – Open-Source Usage Based Billing – Is Hiring in Sales, Eng, Ops (EU, US) | [Apply](https://www.ycombinator.com/companies/lago/jobs) |
-| Ember (YC F24) Is Hiring Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/ember/jobs/OTB0qby-full-stack-engineering-intern-summer-2026) |
 
 <!-- table end -->
