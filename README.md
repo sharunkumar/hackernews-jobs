@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Great Question (YC W21) Is Hiring Director of Product | [Apply](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) |
 | Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025) |
 | Gauntlet AI (YC S17) is looking for engineers who want to master AI | [Apply](https://apply.gauntletai.com/) |
 | ParadeDB (YC S23) Is Hiring Database Internals Engineers | [Apply](https://paradedb.notion.site/?source=copy_link) |
@@ -32,6 +33,5 @@
 | Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
 | Channel3 (YC S25) Is Hiring a Founding Engineer, NYC | [Apply](https://channel3.notion.site/founding-engineer) |
 | Thunder Compute (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire) |
-| Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 
 <!-- table end -->
