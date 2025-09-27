@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025) |
 | Gauntlet AI (YC S17) is looking for engineers who want to master AI | [Apply](https://apply.gauntletai.com/) |
 | ParadeDB (YC S23) Is Hiring Database Internals Engineers | [Apply](https://paradedb.notion.site/?source=copy_link) |
 | Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer) |
@@ -32,6 +33,5 @@
 | Channel3 (YC S25) Is Hiring a Founding Engineer, NYC | [Apply](https://channel3.notion.site/founding-engineer) |
 | Thunder Compute (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire) |
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
-| Prosper AI (YC S23) Is Hiring Founding Account Executives (NYC) | [Apply](https://jobs.ashbyhq.com/prosper-ai/29684590-4cec-4af2-bb69-eb5c6d595fb8) |
 
 <!-- table end -->
