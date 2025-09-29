@@ -32,6 +32,5 @@
 | Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin) | [Apply](https://hi.telli.com/join-us) |
 | Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
 | Channel3 (YC S25) Is Hiring a Founding Engineer, NYC | [Apply](https://channel3.notion.site/founding-engineer) |
-| Thunder Compute (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire) |
 
 <!-- table end -->
