@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Airgoods (YC S23) Is Hiring | [Apply](https://airgoods.com/careers?utm_source=hacker_news) |
 | Great Question (YC W21) Is Hiring Director of Product | [Apply](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) |
 | Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025) |
 | Gauntlet AI (YC S17) is looking for engineers who want to master AI | [Apply](https://apply.gauntletai.com/) |
@@ -31,6 +32,5 @@
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 | Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin) | [Apply](https://hi.telli.com/join-us) |
 | Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer) |
-| Channel3 (YC S25) Is Hiring a Founding Engineer, NYC | [Apply](https://channel3.notion.site/founding-engineer) |
 
 <!-- table end -->
