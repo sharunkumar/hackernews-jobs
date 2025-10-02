@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead) |
 | Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End) | [Apply](https://careers.activeloop.ai/) |
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Airgoods (YC S23) Is Hiring | [Apply](https://airgoods.com/careers?utm_source=hacker_news) |
@@ -31,6 +32,5 @@
 | Svix (webhooks as a service) is hiring for a founding marketing lead | [Apply](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22) |
 | Dynamo AI (YC W22) Is Hiring for AI Product Managers | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai) |
 | Kapa.ai (YC S23) is hiring research and software engineers | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
-| Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
 
 <!-- table end -->
