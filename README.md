@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End) | [Apply](https://careers.activeloop.ai/) |
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Airgoods (YC S23) Is Hiring | [Apply](https://airgoods.com/careers?utm_source=hacker_news) |
 | Great Question (YC W21) Is Hiring Director of Product | [Apply](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) |
@@ -31,6 +32,5 @@
 | Dynamo AI (YC W22) Is Hiring for AI Product Managers | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai) |
 | Kapa.ai (YC S23) is hiring research and software engineers | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 | Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam) | [Apply](https://www.optery.com/careers/) |
-| Telli (YC F24) is hiring engineers, designers, and interns (on-site in Berlin) | [Apply](https://hi.telli.com/join-us) |
 
 <!-- table end -->
