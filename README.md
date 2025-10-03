@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust | [Apply](https://questdb.com/careers/core-database-engineer/) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead) |
 | Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End) | [Apply](https://careers.activeloop.ai/) |
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
@@ -31,6 +32,5 @@
 | Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada) | [Apply](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer) |
 | Svix (webhooks as a service) is hiring for a founding marketing lead | [Apply](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22) |
 | Dynamo AI (YC W22) Is Hiring for AI Product Managers | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai) |
-| Kapa.ai (YC S23) is hiring research and software engineers | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs) |
 
 <!-- table end -->
