@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager) | [Apply](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr) |
 | Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer) |
 | QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust | [Apply](https://questdb.com/careers/core-database-engineer/) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead) |
@@ -31,6 +32,5 @@
 | Gym Class VR (YC W22) Is Hiring – UX Design Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal) |
 | Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM | [Apply](https://www.ycombinator.com/companies/artie/jobs) |
 | Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada) | [Apply](https://www.ycombinator.com/companies/depot/jobs/U54HGtn-solutions-engineer) |
-| Svix (webhooks as a service) is hiring for a founding marketing lead | [Apply](https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22) |
 
 <!-- table end -->
