@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| UpCodes (YC S17) is hiring remote engineers across the Americas | [Apply](https://up.codes/careers?utm_source=HN) |
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer | [Apply](https://demodesk.com/careers) |
 | TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager) | [Apply](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr) |
 | Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer) |
@@ -31,6 +32,5 @@
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote) | [Apply](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84) |
 | Gym Class VR (YC W22) Is Hiring – UX Design Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal) |
-| Artie (YC S23) Is Hiring Engineers, AES, and Senior PMM | [Apply](https://www.ycombinator.com/companies/artie/jobs) |
 
 <!-- table end -->
