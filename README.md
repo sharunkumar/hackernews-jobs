@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Pigeon (YC W23) is hiring a lead full stack engineer | [Apply](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us) |
+| Provision (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada) |
 | UpCodes (YC S17) is hiring remote engineers across the Americas | [Apply](https://up.codes/careers?utm_source=HN) |
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer | [Apply](https://demodesk.com/careers) |
 | TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager) | [Apply](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr) |
@@ -31,6 +33,5 @@
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote) | [Apply](https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84) |
-| Gym Class VR (YC W22) Is Hiring – UX Design Engineer | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-ux-design-engineer-senior-staff-principal) |
 
 <!-- table end -->
