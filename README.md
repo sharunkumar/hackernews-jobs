@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Metriport (YC S22) is hiring a founding recruiter | [Apply](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter) |
+| The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer) |
+| Metriport (YC S22) is hiring a recruiter | [Apply](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter) |
 | Pigeon (YC W23) is hiring a lead full stack engineer | [Apply](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us) |
 | Provision (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada) |
 | UpCodes (YC S17) is hiring remote engineers across the Americas | [Apply](https://up.codes/careers?utm_source=HN) |
@@ -32,6 +33,5 @@
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
-| Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 
 <!-- table end -->
