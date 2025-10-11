@@ -32,6 +32,5 @@
 | Piramidal (YC W24) Is Hiring Back End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform) |
 | Mux (YC W16) Is Hiring Engineering ICs and Managers | [Apply](https://mux.com/jobs) |
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
-| Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager) |
 
 <!-- table end -->
