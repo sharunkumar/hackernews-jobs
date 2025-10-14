@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kyber (YC W23) Is Hiring an Enterprise AE | [Apply](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae) |
 | Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America) | [Apply](https://www.optery.com/careers/) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer) |
@@ -31,6 +32,5 @@
 | Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs) |
 | Adam (YC W25) Is Hiring to Build the Future of CAD | [Apply](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer) |
 | Piramidal (YC W24) Is Hiring Back End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform) |
-| Mux (YC W16) Is Hiring Engineering ICs and Managers | [Apply](https://mux.com/jobs) |
 
 <!-- table end -->
