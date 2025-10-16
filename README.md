@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Jiga (YC W21) Is Hiring Full Stacks | [Apply](https://www.workatastartup.com/jobs/44310) |
 | Kyber (YC W23) Is Hiring an Enterprise AE | [Apply](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae) |
 | Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America) | [Apply](https://www.optery.com/careers/) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
@@ -30,6 +31,5 @@
 | Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer) |
 | CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote) | [Apply](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer) |
 | Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs) |
-| Adam (YC W25) Is Hiring to Build the Future of CAD | [Apply](https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer) |
 
 <!-- table end -->
