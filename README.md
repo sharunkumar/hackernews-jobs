@@ -30,6 +30,5 @@
 | Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC) | [Apply](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084) |
 | Telli (YC F24) is hiring ambitious engineers [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
 | Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer) |
-| CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote) | [Apply](https://www.ycombinator.com/companies/circuithub/jobs/UM1QSjZ-operations-research-engineer) |
 
 <!-- table end -->
