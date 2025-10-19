@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infisical (YC W23) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer) |
 | Jiga (YC W21) Is Hiring Full Stacks | [Apply](https://www.workatastartup.com/jobs/44310) |
 | Kyber (YC W23) Is Hiring an Enterprise AE | [Apply](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae) |
@@ -29,6 +30,5 @@
 | Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer) |
 | Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC) | [Apply](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084) |
 | Telli (YC F24) is hiring ambitious engineers [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
-| Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer | [Apply](https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer) |
 
 <!-- table end -->
