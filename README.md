@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Flexport Is Hiring SDRs in Chicago | [Apply](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer) |
 | Jiga (YC W21) Is Hiring Full Stacks | [Apply](https://www.workatastartup.com/jobs/44310) |
@@ -29,6 +30,5 @@
 | ParadeDB (YC S23) Is Hiring Database Internals Engineers | [Apply](https://paradedb.notion.site/?source=copy_link) |
 | Kapa.ai (YC S23) Is Hiring a Customer Solutions Engineer (EU Remote) | [Apply](https://www.ycombinator.com/companies/kapa-ai/jobs/mHIFJVz-support-engineer) |
 | Zinc (YC W14) Is Hiring a Senior Back End Engineer (NYC) | [Apply](https://app.dover.com/apply/Zinc/4d32fdb9-c3e6-4f84-a4a2-12c80018fe8f/?rs=76643084) |
-| Telli (YC F24) is hiring ambitious engineers [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
 
 <!-- table end -->
