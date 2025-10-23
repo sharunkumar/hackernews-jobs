@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| InpharmD (YC W21) Is Hiring – NLP Engineer | [Apply](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) |
 | Bild AI (YC W25) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 | Flexport Is Hiring SDRs in Chicago | [Apply](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976) |
@@ -29,6 +30,5 @@
 | Great Question (YC W21) Is Hiring Director of Product | [Apply](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) |
 | Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025) |
 | Gauntlet AI (YC S17) is looking for engineers who want to master AI | [Apply](https://apply.gauntletai.com/) |
-| ParadeDB (YC S23) Is Hiring Database Internals Engineers | [Apply](https://paradedb.notion.site/?source=copy_link) |
 
 <!-- table end -->
