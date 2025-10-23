@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Nango (YC W23) is hiring Staff Back end Engs (remote) | [Apply](https://www.nango.dev/careers) |
+| Nango (YC W23) is hiring staff back-end engineers (remote) | [Apply](https://www.nango.dev/careers) |
 | InpharmD (YC W21) Is Hiring – NLP Engineer | [Apply](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) |
 | Bild AI (YC W25) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
