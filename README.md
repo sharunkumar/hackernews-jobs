@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 | Nango (YC W23) is hiring staff back-end engineers (remote) | [Apply](https://www.nango.dev/careers) |
 | InpharmD (YC W21) Is Hiring – NLP Engineer | [Apply](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) |
 | Bild AI (YC W25) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
@@ -29,6 +30,5 @@
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Airgoods (YC S23) Is Hiring | [Apply](https://airgoods.com/careers?utm_source=hacker_news) |
 | Great Question (YC W21) Is Hiring Director of Product | [Apply](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) |
-| Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork | [Apply](https://www.ycombinator.com/companies/trellis/jobs/C0VryYb-forward-deployed-engineers-intern-august-2025) |
 
 <!-- table end -->
