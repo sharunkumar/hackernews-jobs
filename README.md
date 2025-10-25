@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 | Nango (YC W23) is hiring staff back-end engineers (remote) | [Apply](https://www.nango.dev/careers) |
 | InpharmD (YC W21) Is Hiring – NLP Engineer | [Apply](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) |
@@ -29,6 +30,5 @@
 | Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End) | [Apply](https://careers.activeloop.ai/) |
 | Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Airgoods (YC S23) Is Hiring | [Apply](https://airgoods.com/careers?utm_source=hacker_news) |
-| Great Question (YC W21) Is Hiring Director of Product | [Apply](https://www.ycombinator.com/companies/great-question/jobs/9crdslU-director-of-product) |
 
 <!-- table end -->
