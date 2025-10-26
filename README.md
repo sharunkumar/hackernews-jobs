@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
 | Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 | Nango (YC W23) is hiring staff back-end engineers (remote) | [Apply](https://www.nango.dev/careers) |
