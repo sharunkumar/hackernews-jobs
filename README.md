@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sieve (YC X25) Is Hiring Engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
 | Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
 | Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
@@ -29,6 +30,5 @@
 | QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust | [Apply](https://questdb.com/careers/core-database-engineer/) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead) |
 | Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End) | [Apply](https://careers.activeloop.ai/) |
-| Bild AI (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 
 <!-- table end -->
