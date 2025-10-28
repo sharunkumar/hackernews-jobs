@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform | [Apply](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) |
 | Sieve (YC X25) is hiring engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
 | Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
 | Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) |
@@ -29,6 +30,5 @@
 | Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer) |
 | QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust | [Apply](https://questdb.com/careers/core-database-engineer/) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/6xM8JYU-founding-operations-lead) |
-| Activeloop (YC S18) Is Hiring AI Search Engineer and MTS(Back End) | [Apply](https://careers.activeloop.ai/) |
 
 <!-- table end -->
