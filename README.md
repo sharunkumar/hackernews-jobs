@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Sieve (YC X25) Is Hiring Engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
+| Sieve (YC X25) is hiring engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
 | Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
 | Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
