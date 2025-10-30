@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Does brand advertising work? Upwave (YC S12) is hiring engineers to answer that | [Apply](https://www.upwave.com/job/8228849002/) |
+| Upwave (YC S12) is hiring software engineers | [Apply](https://www.upwave.com/job/8228849002/) |
 | SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform | [Apply](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) |
 | Sieve (YC X25) is hiring engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
 | Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
