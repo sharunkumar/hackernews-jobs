@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Pangolin (YC S25) Is Hiring a Full Stack Software Engineer (Open-Source) | [Apply](https://docs.pangolin.net/careers/software-engineer-full-stack) |
 | Upwave (YC S12) is hiring software engineers | [Apply](https://www.upwave.com/job/8228849002/) |
 | SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform | [Apply](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) |
 | Sieve (YC X25) is hiring engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
@@ -29,6 +30,5 @@
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer | [Apply](https://demodesk.com/careers) |
 | TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager) | [Apply](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr) |
 | Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer) |
-| QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust | [Apply](https://questdb.com/careers/core-database-engineer/) |
 
 <!-- table end -->
