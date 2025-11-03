@@ -29,6 +29,5 @@
 | UpCodes (YC S17) is hiring remote engineers across the Americas | [Apply](https://up.codes/careers?utm_source=HN) |
 | Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer | [Apply](https://demodesk.com/careers) |
 | TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager) | [Apply](https://www.ycombinator.com/companies/truevault/jobs/FaC8Apo-ecommerce-manager-bdr) |
-| Depot (YC W23) Is Hiring a Principal Design Engineer (Remote US/EU) | [Apply](https://www.ycombinator.com/companies/depot/jobs/qg8iVTz-principal-design-engineer) |
 
 <!-- table end -->
