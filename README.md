@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Senior BizOps at Artie (San Francisco) | [Apply](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations) |
 | Pangolin (YC S25) is hiring a full stack software engineer (open-source) | [Apply](https://docs.pangolin.net/careers/software-engineer-full-stack) |
 | Upwave (YC S12) is hiring software engineers | [Apply](https://www.upwave.com/job/8228849002/) |
 | SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform | [Apply](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) |
@@ -27,6 +28,5 @@
 | Pigeon (YC W23) is hiring a lead full stack engineer | [Apply](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us) |
 | Provision (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada) |
 | UpCodes (YC S17) is hiring remote engineers across the Americas | [Apply](https://up.codes/careers?utm_source=HN) |
-| Demodesk (YC W19) Is Hiring a Ruby on Rails Engineer | [Apply](https://demodesk.com/careers) |
 
 <!-- table end -->
