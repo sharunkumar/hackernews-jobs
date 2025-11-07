@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hightouch (YC S19) Is Hiring | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5542602004) |
 | Senior BizOps at Artie (San Francisco) | [Apply](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations) |
 | Pangolin (YC S25) is hiring a full stack software engineer (open-source) | [Apply](https://docs.pangolin.net/careers/software-engineer-full-stack) |
 | Upwave (YC S12) is hiring software engineers | [Apply](https://www.upwave.com/job/8228849002/) |
@@ -27,6 +28,5 @@
 | Metriport (YC S22) is hiring a recruiter | [Apply](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter) |
 | Pigeon (YC W23) is hiring a lead full stack engineer | [Apply](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us) |
 | Provision (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada) |
-| UpCodes (YC S17) is hiring remote engineers across the Americas | [Apply](https://up.codes/careers?utm_source=HN) |
 
 <!-- table end -->
