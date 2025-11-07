@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Sweep (YC S23) is hiring to build autocomplete for JetBrains | [Apply](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern) |
+| Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5542602004) |
 | Senior BizOps at Artie (San Francisco) | [Apply](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations) |
 | Pangolin (YC S25) is hiring a full stack software engineer (open-source) | [Apply](https://docs.pangolin.net/careers/software-engineer-full-stack) |
@@ -26,7 +28,5 @@
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer) |
 | Metriport (YC S22) is hiring a recruiter | [Apply](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter) |
-| Pigeon (YC W23) is hiring a lead full stack engineer | [Apply](https://www.ycombinator.com/companies/pigeon/jobs/sjuJOg3-lead-full-stack-software-engineer-remote-us) |
-| Provision (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/provision/jobs/JJ9fZxg-fullstack-software-engineer-in-person-toronto-canada) |
 
 <!-- table end -->
