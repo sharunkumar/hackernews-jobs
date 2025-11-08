@@ -27,6 +27,5 @@
 | Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America) | [Apply](https://www.optery.com/careers/) |
 | Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 | The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer | [Apply](https://www.ycombinator.com/companies/the-forecasting-company/jobs/cXJzAhA-founding-machine-learning-engineer) |
-| Metriport (YC S22) is hiring a recruiter | [Apply](https://www.ycombinator.com/companies/metriport/jobs/uq6CuhA-founding-recruiter) |
 
 <!-- table end -->
