@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring a founding ML engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer) |
 | Hazel (YC W24) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer) |
 | Sweep (YC S23) is hiring to build autocomplete for JetBrains | [Apply](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern) |
 | Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8) |
@@ -26,6 +27,5 @@
 | Jiga (YC W21) Is Hiring Full Stacks | [Apply](https://www.workatastartup.com/jobs/44310) |
 | Kyber (YC W23) Is Hiring an Enterprise AE | [Apply](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae) |
 | Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America) | [Apply](https://www.optery.com/careers/) |
-| Weave (YC W25) is hiring a founding AI engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer) |
 
 <!-- table end -->
