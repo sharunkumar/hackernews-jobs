@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
 | Weave (YC W25) is hiring a founding ML engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer) |
 | Hazel (YC W24) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer) |
 | Sweep (YC S23) is hiring to build autocomplete for JetBrains | [Apply](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern) |
