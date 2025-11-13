@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin] | [Apply](https://hi.telli.com/eng) |
+| BAML is hiring compilers/rust engineers (YC W23) | [Apply](https://github.com/BoundaryML/baml/tree/canary/jobs) |
+| Telli (Voice AI – YC F24) is hiring engineers in Berlin | [Apply](https://hi.telli.com/eng) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer) |
 | OmniAI (YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer) |
 | Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
@@ -28,6 +29,5 @@
 | Flexport Is Hiring SDRs in Chicago | [Apply](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer) |
-| Jiga (YC W21) Is Hiring Full Stacks | [Apply](https://www.workatastartup.com/jobs/44310) |
 
 <!-- table end -->
