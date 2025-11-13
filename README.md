@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Telli (Voice AI – YC F24) is hiring ambitious engineers in [on-site, Berlin] | [Apply](https://hi.telli.com/eng) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer) |
 | OmniAI (YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer) |
 | Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
