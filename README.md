@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| OmniAI (YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer) |
 | Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
 | Weave (YC W25) is hiring a founding ML engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer) |
 | Hazel (YC W24) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer) |
@@ -27,6 +28,5 @@
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer) |
 | Jiga (YC W21) Is Hiring Full Stacks | [Apply](https://www.workatastartup.com/jobs/44310) |
 | Kyber (YC W23) Is Hiring an Enterprise AE | [Apply](https://www.ycombinator.com/companies/kyber/jobs/BQRRSrZ-enterprise-account-executive-ae) |
-| Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America) | [Apply](https://www.optery.com/careers/) |
 
 <!-- table end -->
