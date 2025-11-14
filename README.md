@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Piramidal (YC W24) Hiring: Front End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface) |
 | BAML is hiring compilers/rust engineers (YC W23) | [Apply](https://github.com/BoundaryML/baml/tree/canary/jobs) |
 | Telli (Voice AI – YC F24) is hiring engineers in Berlin | [Apply](https://hi.telli.com/eng) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer) |
@@ -28,6 +29,5 @@
 | Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 | Flexport Is Hiring SDRs in Chicago | [Apply](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976) |
 | Infisical (YC W23) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global) |
-| Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/inrUYH9-founding-engineer) |
 
 <!-- table end -->
