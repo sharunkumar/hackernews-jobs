@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer) |
 | Piramidal (YC W24) Hiring: Front End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface) |
 | BAML is hiring compilers/rust engineers (YC W23) | [Apply](https://github.com/BoundaryML/baml/tree/canary/jobs) |
 | Telli (Voice AI – YC F24) is hiring engineers in Berlin | [Apply](https://hi.telli.com/eng) |
