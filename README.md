@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream | [Apply](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth) |
 | RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer) |
 | Piramidal (YC W24) Hiring: Front End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface) |
 | BAML is hiring compilers/rust engineers (YC W23) | [Apply](https://github.com/BoundaryML/baml/tree/canary/jobs) |
@@ -29,6 +30,5 @@
 | Bild AI (YC W25) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 | Flexport Is Hiring SDRs in Chicago | [Apply](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976) |
-| Infisical (YC W23) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global) |
 
 <!-- table end -->
