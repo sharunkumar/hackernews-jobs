@@ -4,7 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
-| Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer | [Apply](https://careers.activeloop.ai/) |
+| Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time) |
+| Activeloop (YC S18) Is Hiring MTS (Back End) and AI Search Engineer | [Apply](https://careers.activeloop.ai/) |
 | Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream | [Apply](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth) |
 | RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer) |
 | Piramidal (YC W24) Hiring: Front End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface) |
@@ -30,6 +31,5 @@
 | InpharmD (YC W21) Is Hiring – NLP Engineer | [Apply](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) |
 | Bild AI (YC W25) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
-| Flexport Is Hiring SDRs in Chicago | [Apply](https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976) |
 
 <!-- table end -->
