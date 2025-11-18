@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF | [Apply](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6) |
 | Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time) |
 | Activeloop (YC S18) Is Hiring MTS (Back End) and AI Search Engineer | [Apply](https://careers.activeloop.ai/) |
 | Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream | [Apply](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth) |
@@ -30,6 +31,5 @@
 | Nango (YC W23) is hiring staff back-end engineers (remote) | [Apply](https://www.nango.dev/careers) |
 | InpharmD (YC W21) Is Hiring – NLP Engineer | [Apply](https://inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer) |
 | Bild AI (YC W25) Is Hiring a Founding AI Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
-| Infracost (YC W21) Hiring First Dev Advocate to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 
 <!-- table end -->
