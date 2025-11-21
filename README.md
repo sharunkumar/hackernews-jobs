@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls) |
 | Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs) | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative) |
 | Bild AI (YC W25) is hiring – Make housing affordable | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 | Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF | [Apply](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6) |
@@ -30,6 +31,5 @@
 | Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
 | Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
-| Nango (YC W23) is hiring staff back-end engineers (remote) | [Apply](https://www.nango.dev/careers) |
 
 <!-- table end -->
