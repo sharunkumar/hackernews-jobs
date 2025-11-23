@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| HumanLayer (YC F24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) |
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Depot (YC W23) Is Hiring a Staff Infrastructure Engineer | [Apply](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) |
 | Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls) |
@@ -30,6 +31,5 @@
 | Upwave (YC S12) is hiring software engineers | [Apply](https://www.upwave.com/job/8228849002/) |
 | SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform | [Apply](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) |
 | Sieve (YC X25) is hiring engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
-| Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
 
 <!-- table end -->
