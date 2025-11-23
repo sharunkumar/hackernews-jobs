@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Depot (YC W23) Is Hiring a Staff Infrastructure Engineer | [Apply](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) |
 | Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls) |
 | Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs) | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative) |
@@ -30,6 +31,5 @@
 | SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform | [Apply](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) |
 | Sieve (YC X25) is hiring engineers to build video datasets for frontier AI | [Apply](https://www.sievedata.com/) |
 | Bitmovin (YC S15) Is Hiring Engineering ICs and Managers in Europe | [Apply](https://bitmovin.com/careers) |
-| Conductor (YC S24) Is Hiring a Founding Engineer in San Francisco | [Apply](https://www.ycombinator.com/companies/conductor/jobs/MYjJzBV-founding-engineer) |
 
 <!-- table end -->
