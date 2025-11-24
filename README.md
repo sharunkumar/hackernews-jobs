@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) |
 | HumanLayer (YC F24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) |
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Depot (YC W23) Is Hiring a Staff Infrastructure Engineer | [Apply](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) |
