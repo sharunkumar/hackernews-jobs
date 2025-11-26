@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng | [Apply](https://www.optery.com/careers/) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) |
 | HumanLayer (YC F24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) |
@@ -30,6 +31,5 @@
 | Hightouch (YC S19) Is Hiring | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5542602004) |
 | Senior BizOps at Artie (San Francisco) | [Apply](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations) |
 | Pangolin (YC S25) is hiring a full stack software engineer (open-source) | [Apply](https://docs.pangolin.net/careers/software-engineer-full-stack) |
-| Upwave (YC S12) is hiring software engineers | [Apply](https://www.upwave.com/job/8228849002/) |
 
 <!-- table end -->
