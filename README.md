@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) |
 | HumanLayer (YC F24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) |
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
@@ -30,6 +31,5 @@
 | Senior BizOps at Artie (San Francisco) | [Apply](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations) |
 | Pangolin (YC S25) is hiring a full stack software engineer (open-source) | [Apply](https://docs.pangolin.net/careers/software-engineer-full-stack) |
 | Upwave (YC S12) is hiring software engineers | [Apply](https://www.upwave.com/job/8228849002/) |
-| SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform | [Apply](https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3) |
 
 <!-- table end -->
