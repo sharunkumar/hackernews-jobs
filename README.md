@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM) | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management) |
 | Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng | [Apply](https://www.optery.com/careers/) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) |
@@ -30,6 +31,5 @@
 | Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5542602004) |
 | Senior BizOps at Artie (San Francisco) | [Apply](https://www.ycombinator.com/companies/artie/jobs/gqANVBc-senior-business-operations) |
-| Pangolin (YC S25) is hiring a full stack software engineer (open-source) | [Apply](https://docs.pangolin.net/careers/software-engineer-full-stack) |
 
 <!-- table end -->
