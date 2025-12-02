@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Poka Labs (YC S24) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer) |
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer) |
 | RetailReady (YC W24) Is Hiring Associate Product Manager | [Apply](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager) |
 | Jiga (YC W21) Is Hiring Product Designer | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe) |
@@ -32,6 +33,5 @@
 | Hazel (YC W24) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer) |
 | Sweep (YC S23) is hiring to build autocomplete for JetBrains | [Apply](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern) |
 | Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8) |
-| Hightouch (YC S19) Is Hiring | [Apply](https://job-boards.greenhouse.io/hightouch/jobs/5542602004) |
 
 <!-- table end -->
