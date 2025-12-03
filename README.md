@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Delty (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) |
 | Poka Labs (YC S24) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer) |
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer) |
 | RetailReady (YC W24) Is Hiring Associate Product Manager | [Apply](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager) |
@@ -32,6 +33,5 @@
 | Weave (YC W25) is hiring a founding ML engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer) |
 | Hazel (YC W24) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer) |
 | Sweep (YC S23) is hiring to build autocomplete for JetBrains | [Apply](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern) |
-| Photoroom (YC S20) Is Hiring a Senior AI Front End Engineer in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/7644fc7d-7840-406d-a1b1-b9d2d7ffa9b8) |
 
 <!-- table end -->
