@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Rocketable (YC W25) is hiring a founding engineer to automate software companies | [Apply](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform) |
 | Delty (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) |
 | Poka Labs (YC S24) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer) |
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer) |
@@ -32,6 +33,5 @@
 | Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
 | Weave (YC W25) is hiring a founding ML engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer) |
 | Hazel (YC W24) Is Hiring Full Stack Engineers | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/fCdGOZw-full-stack-engineer) |
-| Sweep (YC S23) is hiring to build autocomplete for JetBrains | [Apply](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-intern) |
 
 <!-- table end -->
