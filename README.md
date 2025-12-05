@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Emerge Career (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer) |
 | Converge (YC S23) is hiring a martech expert in NYC | [Apply](https://www.runconverge.com/careers/technical-customer-success-manager) |
 | Saturn (YC S24) Is Hiring Senior AI Engineer | [Apply](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer) |
 | Rocketable (YC W25) is hiring a founding engineer to automate software companies | [Apply](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform) |
@@ -32,7 +33,5 @@
 | Telli (Voice AI – YC F24) is hiring engineers in Berlin | [Apply](https://hi.telli.com/eng) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer) |
 | OmniAI (YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer) |
-| Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
-| Weave (YC W25) is hiring a founding ML engineer | [Apply](https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer) |
 
 <!-- table end -->
