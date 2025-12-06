@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada) |
 | Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js) |
 | Emerge Career (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer) |
 | Converge (YC S23) is hiring a martech expert in NYC | [Apply](https://www.runconverge.com/careers/technical-customer-success-manager) |
@@ -32,6 +33,5 @@
 | Piramidal (YC W24) Hiring: Front End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface) |
 | BAML is hiring compilers/rust engineers (YC W23) | [Apply](https://github.com/BoundaryML/baml/tree/canary/jobs) |
 | Telli (Voice AI – YC F24) is hiring engineers in Berlin | [Apply](https://hi.telli.com/eng) |
-| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer) |
 
 <!-- table end -->
