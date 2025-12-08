@@ -32,6 +32,5 @@
 | Activeloop (YC S18) Is Hiring MTS (Back End) and AI Search Engineer | [Apply](https://careers.activeloop.ai/) |
 | Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream | [Apply](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth) |
 | RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/kGHAith-support-engineer) |
-| Piramidal (YC W24) Hiring: Front End Engineer | [Apply](https://www.ycombinator.com/companies/piramidal/jobs/i9yNX5s-front-end-engineer-user-interface) |
 
 <!-- table end -->
