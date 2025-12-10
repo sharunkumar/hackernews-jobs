@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| 9 Mothers (YC X26) Is Hiring | [Apply](https://app.dover.com/jobs/9mothers) |
 | Clearspace (YC W23) Is Hiring a Founding Designer | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace) |
 | Nango (YC W23) is hiring back-end engineers and dev-rels (remote) | [Apply](https://jobs.ashbyhq.com/Nango) |
 | Truemetrics (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms) |
@@ -31,6 +32,5 @@
 | Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF | [Apply](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6) |
 | Trellis AI (YC W24) Is Hiring: Streamline access to life-saving therapies | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/f4GWvH0-forward-deployed-engineer-full-time) |
 | Activeloop (YC S18) Is Hiring MTS (Back End) and AI Search Engineer | [Apply](https://careers.activeloop.ai/) |
-| Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream | [Apply](https://www.ycombinator.com/companies/mentra/jobs/2YbQCRw-make-smart-glasses-mainstream-head-of-growth) |
 
 <!-- table end -->
