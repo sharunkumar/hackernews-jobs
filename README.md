@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng | [Apply](https://www.optery.com/careers/) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Motion (YC W20) Is Hiring Senior Staff Front End Engineers | [Apply](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39) |
 | Almond (YC X25) Is Hiring SWEs and MechEs | [Apply](https://www.ycombinator.com/companies/almond-2/jobs) |
@@ -31,6 +32,5 @@
 | Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls) |
 | Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs) | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative) |
 | Bild AI (YC W25) is hiring – Make housing affordable | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
-| Langfuse (YC W23) Hiring OSS Support Engineers in Berlin and SF | [Apply](https://jobs.ashbyhq.com/langfuse/5ff18d4d-9066-4c67-8ecc-ffc0e295fee6) |
 
 <!-- table end -->
