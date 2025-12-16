@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 | Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng | [Apply](https://www.optery.com/careers/) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Motion (YC W20) Is Hiring Senior Staff Front End Engineers | [Apply](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39) |
@@ -31,6 +32,5 @@
 | Depot (YC W23) Is Hiring a Staff Infrastructure Engineer | [Apply](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) |
 | Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls) |
 | Roundtable (YC S23) Is Hiring Two Sales Development Representatives (SDRs) | [Apply](https://www.ycombinator.com/companies/roundtable/jobs/irJTEsg-sales-development-representative) |
-| Bild AI (YC W25) is hiring – Make housing affordable | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai) |
 
 <!-- table end -->
