@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Artie (YC S23) Is Hiring Senior Enterprise AES | [Apply](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) |
 | Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 | Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng | [Apply](https://www.optery.com/careers/) |
@@ -31,6 +32,5 @@
 | HumanLayer (YC F24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) |
 | Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 | Depot (YC W23) Is Hiring a Staff Infrastructure Engineer | [Apply](https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer) |
-| Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer | [Apply](https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls) |
 
 <!-- table end -->
