@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Subsets (YC S23) is hiring engineers in Copenhagen, Denmark | [Apply](https://www.workatastartup.com/companies/subsets) |
 | Sei AI (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) |
 | Artie (YC S23) Is Hiring Senior Enterprise AES | [Apply](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) |
@@ -31,6 +32,5 @@
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) |
 | HumanLayer (YC F24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/humanlayer/jobs/oBCZzc7-founding-product-engineer) |
-| Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook | [Apply](https://deepnote.com/join-us) |
 
 <!-- table end -->
