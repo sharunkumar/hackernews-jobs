@@ -4,9 +4,10 @@
 
 | Title | Apply |
 |-------|-----|
+| Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking | [Apply](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer) |
 | Subsets (YC S23) is hiring engineers in Copenhagen, Denmark | [Apply](https://www.workatastartup.com/companies/subsets) |
-| Sei AI (YC W22) Is Hiring | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) |
+| Sei AI (YC W22) is hiring an LLM Engineer (India, in-office, Chennai, Gurgaon) | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) |
 | Artie (YC S23) Is Hiring Senior Enterprise AES | [Apply](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) |
 | Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
@@ -31,6 +32,5 @@
 | Jiga (YC W21) Is Hiring Product Designer | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe) |
 | AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM) | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us) |
-| Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern) |
 
 <!-- table end -->
