@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Delty (YC X25) Is Hiring an ML Engineer | [Apply](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking | [Apply](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer) |
 | Subsets (YC S23) is hiring engineers in Copenhagen, Denmark | [Apply](https://www.workatastartup.com/companies/subsets) |
