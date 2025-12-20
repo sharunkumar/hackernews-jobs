@@ -32,6 +32,5 @@
 | RetailReady (YC W24) Is Hiring Associate Product Manager | [Apply](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager) |
 | Jiga (YC W21) Is Hiring Product Designer | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe) |
 | AccessOwl (YC S22) Is Hiring a Technical Account Manager (IAM) | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/dGC3pcO-technical-account-manager-identity-access-management) |
-| Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/0ZGLW69-forward-deployed-engineer-us) |
 
 <!-- table end -->
