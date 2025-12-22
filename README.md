@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI) | [Apply](https://www.useparallel.com/uplane1/careers) |
 | Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US) | [Apply](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer) |
 | Delty (YC X25) Is Hiring an ML Engineer | [Apply](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
@@ -31,6 +32,5 @@
 | Poka Labs (YC S24) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer) |
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer) |
 | RetailReady (YC W24) Is Hiring Associate Product Manager | [Apply](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager) |
-| Jiga (YC W21) Is Hiring Product Designer | [Apply](https://www.ycombinator.com/companies/jiga/jobs/Cco7vyK-product-designer-remote-europe) |
 
 <!-- table end -->
