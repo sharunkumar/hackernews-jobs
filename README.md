@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Keystone (YC S25) is hiring engineer #1 to automate coding | [Apply](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer) |
 | Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI) | [Apply](https://www.useparallel.com/uplane1/careers) |
 | Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US) | [Apply](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer) |
 | Delty (YC X25) Is Hiring an ML Engineer | [Apply](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer) |
@@ -31,6 +32,5 @@
 | Delty (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) |
 | Poka Labs (YC S24) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer) |
 | Better Auth (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer) |
-| RetailReady (YC W24) Is Hiring Associate Product Manager | [Apply](https://www.ycombinator.com/companies/retailready/jobs/KPKDu3D-associate-product-manager) |
 
 <!-- table end -->
