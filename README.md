@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
 | Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace) |
 | Keystone (YC S25) is hiring engineer #1 to automate coding | [Apply](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer) |
 | Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI) | [Apply](https://www.useparallel.com/uplane1/careers) |
@@ -31,6 +32,5 @@
 | Saturn (YC S24) Is Hiring Senior AI Engineer | [Apply](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer) |
 | Rocketable (YC W25) is hiring a founding engineer to automate software companies | [Apply](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform) |
 | Delty (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) |
-| Poka Labs (YC S24) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer) |
 
 <!-- table end -->
