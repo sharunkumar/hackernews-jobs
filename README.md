@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems) | [Apply](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
 | Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
 | Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace) |
@@ -30,6 +31,5 @@
 | Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js) |
 | Emerge Career (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer) |
 | Converge (YC S23) is hiring a martech expert in NYC | [Apply](https://www.runconverge.com/careers/technical-customer-success-manager) |
-| Saturn (YC S24) Is Hiring Senior AI Engineer | [Apply](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer) |
 
 <!-- table end -->
