@@ -31,6 +31,5 @@
 | Converge (YC S23) is hiring a martech expert in NYC | [Apply](https://www.runconverge.com/careers/technical-customer-success-manager) |
 | Saturn (YC S24) Is Hiring Senior AI Engineer | [Apply](https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer) |
 | Rocketable (YC W25) is hiring a founding engineer to automate software companies | [Apply](https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform) |
-| Delty (YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer) |
 
 <!-- table end -->
