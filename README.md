@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SigNoz (YC W21, open source observability platform) Is Hiring across roles | [Apply](https://signoz.io/careers) |
 | Activeloop (YC S18) Is Hiring MTS – Back End Engineer | [Apply](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd) |
 | Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems) | [Apply](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
@@ -30,6 +31,5 @@
 | Truemetrics (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms) |
 | Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada) |
 | Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js) |
-| Emerge Career (YC S22) Is Hiring | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/qQhLEmC-founding-design-engineer) |
 
 <!-- table end -->
