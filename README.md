@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| GoGoGrandparent (YC S16) Is Hiring Tech Leads | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads) |
 | SigNoz (YC W21, open source observability platform) is hiring across roles | [Apply](https://signoz.io/careers) |
 | Activeloop (YC S18) Is Hiring MTS – Back End Engineer | [Apply](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd) |
 | Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems) | [Apply](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497) |
