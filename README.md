@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| ParadeDB (YC S23) Is Hiring Database Engineers | [Apply](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s) |
 | GoGoGrandparent (YC S16) Is Hiring Tech Leads | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads) |
 | SigNoz (YC W21, open source observability platform) is hiring across roles | [Apply](https://signoz.io/careers) |
 | Activeloop (YC S18) Is Hiring MTS – Back End Engineer | [Apply](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd) |
@@ -31,6 +32,5 @@
 | Nango (YC W23) is hiring back-end engineers and dev-rels (remote) | [Apply](https://jobs.ashbyhq.com/Nango) |
 | Truemetrics (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms) |
 | Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada) |
-| Infracost (YC W21) is hiring Sr Node Eng to make $600B/yr cloud spend proactive | [Apply](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-product-engineer-node-js) |
 
 <!-- table end -->
