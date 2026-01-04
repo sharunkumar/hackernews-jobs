@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time) |
 | ParadeDB (YC S23) Is Hiring Database Engineers | [Apply](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s) |
 | GoGoGrandparent (YC S16) Is Hiring Tech Leads | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/w2jGKM7-gogograndparent-yc-s16-is-hiring-tech-leads) |
 | SigNoz (YC W21, open source observability platform) is hiring across roles | [Apply](https://signoz.io/careers) |
@@ -31,6 +32,5 @@
 | Clearspace (YC W23) Is Hiring a Founding Designer | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace) |
 | Nango (YC W23) is hiring back-end engineers and dev-rels (remote) | [Apply](https://jobs.ashbyhq.com/Nango) |
 | Truemetrics (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms) |
-| Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack | [Apply](https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada) |
 
 <!-- table end -->
