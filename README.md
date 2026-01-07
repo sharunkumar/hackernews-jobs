@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US | [Apply](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth) |
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers) |
 | Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time) |
 | ParadeDB (YC S23) Is Hiring Database Engineers | [Apply](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s) |
@@ -24,7 +25,6 @@
 | Artie (YC S23) Is Hiring Senior Enterprise AES | [Apply](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) |
 | Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
-| Optery (YC W22) Hiring CISO, Release Manager, Tech Lead (Node), Full Stack Eng | [Apply](https://www.optery.com/careers/) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Motion (YC W20) Is Hiring Senior Staff Front End Engineers | [Apply](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39) |
 | Almond (YC X25) Is Hiring SWEs and MechEs | [Apply](https://www.ycombinator.com/companies/almond-2/jobs) |
