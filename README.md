@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers) |
 | Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam) | [Apply](https://www.optery.com/careers/) |
 | Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US | [Apply](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth) |
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers) |
@@ -31,6 +32,5 @@
 | Almond (YC X25) Is Hiring SWEs and MechEs | [Apply](https://www.ycombinator.com/companies/almond-2/jobs) |
 | 9 Mothers (YC X26) Is Hiring | [Apply](https://app.dover.com/jobs/9mothers) |
 | Clearspace (YC W23) Is Hiring a Founding Designer | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace) |
-| Nango (YC W23) is hiring back-end engineers and dev-rels (remote) | [Apply](https://jobs.ashbyhq.com/Nango) |
 
 <!-- table end -->
