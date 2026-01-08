@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer) |
 | Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers) |
 | Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam) | [Apply](https://www.optery.com/careers/) |
 | Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US | [Apply](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth) |
