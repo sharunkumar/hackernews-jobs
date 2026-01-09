@@ -4,9 +4,11 @@
 
 | Title | Apply |
 |-------|-----|
+| Replit (YC W18) Is Hiring | [Apply](https://jobs.ashbyhq.com/replit) |
+| IcePanel (YC W23) is hiring full-stack engineers in Vancouver | [Apply](https://forms.icepanel.io/careers/senior-product-engineer) |
 | Mux (YC W16) is hiring a platform engineer that cares about (internal) DX | [Apply](https://www.mux.com/jobs) |
 | Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer) |
-| Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers) |
+| 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers) |
 | Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam) | [Apply](https://www.optery.com/careers/) |
 | Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US | [Apply](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth) |
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers) |
@@ -31,7 +33,5 @@
 | Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Motion (YC W20) Is Hiring Senior Staff Front End Engineers | [Apply](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39) |
-| Almond (YC X25) Is Hiring SWEs and MechEs | [Apply](https://www.ycombinator.com/companies/almond-2/jobs) |
-| 9 Mothers (YC X26) Is Hiring | [Apply](https://app.dover.com/jobs/9mothers) |
 
 <!-- table end -->
