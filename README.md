@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 | Replit (YC W18) Is Hiring | [Apply](https://jobs.ashbyhq.com/replit) |
 | IcePanel (YC W23) is hiring full-stack engineers in Vancouver | [Apply](https://forms.icepanel.io/careers/senior-product-engineer) |
 | Mux (YC W16) is hiring a platform engineer that cares about (internal) DX | [Apply](https://www.mux.com/jobs) |
@@ -32,6 +33,5 @@
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) |
 | Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
-| Motion (YC W20) Is Hiring Senior Staff Front End Engineers | [Apply](https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39) |
 
 <!-- table end -->
