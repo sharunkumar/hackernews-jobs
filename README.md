@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
 | F2 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
@@ -31,6 +32,5 @@
 | Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking | [Apply](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer) |
 | Subsets (YC S23) is hiring engineers in Copenhagen, Denmark | [Apply](https://www.workatastartup.com/companies/subsets) |
 | Sei AI (YC W22) is hiring an LLM Engineer (India, in-office, Chennai, Gurgaon) | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) |
-| Artie (YC S23) Is Hiring Senior Enterprise AES | [Apply](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) |
 
 <!-- table end -->
