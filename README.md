@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| F2 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) |
+| Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 | Replit (YC W18) Is Hiring | [Apply](https://jobs.ashbyhq.com/replit) |
 | IcePanel (YC W23) is hiring full-stack engineers in Vancouver | [Apply](https://forms.icepanel.io/careers/senior-product-engineer) |
@@ -30,7 +32,5 @@
 | Subsets (YC S23) is hiring engineers in Copenhagen, Denmark | [Apply](https://www.workatastartup.com/companies/subsets) |
 | Sei AI (YC W22) is hiring an LLM Engineer (India, in-office, Chennai, Gurgaon) | [Apply](https://www.ycombinator.com/companies/sei/jobs/TYbKqi0-llm-engineer-mid-senior) |
 | Artie (YC S23) Is Hiring Senior Enterprise AES | [Apply](https://www.ycombinator.com/companies/artie/jobs/HyaHWUs-senior-enterprise-ae) |
-| Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/YFeQADI-product-engineer-us) |
-| Rollstack (YC W23) is hiring multiple software engineers (TypeScript) US/Canada | [Apply](https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada) |
 
 <!-- table end -->
