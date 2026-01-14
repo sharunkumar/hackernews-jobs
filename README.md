@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist | [Apply](https://www.coveragecat.com/careers/operations/fractional-operations-specialist) |
 | Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon) | [Apply](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer) |
 | Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
 | F2 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) |
@@ -31,6 +32,5 @@
 | Delty (YC X25) Is Hiring an ML Engineer | [Apply](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | Flick (YC F25) Is Hiring Founding Engineer to Build Figma for AI Filmmaking | [Apply](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer) |
-| Subsets (YC S23) is hiring engineers in Copenhagen, Denmark | [Apply](https://www.workatastartup.com/companies/subsets) |
 
 <!-- table end -->
