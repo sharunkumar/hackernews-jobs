@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://jiga.io/about-us) |
+| Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer) |
 | Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist | [Apply](https://www.coveragecat.com/careers/operations/fractional-operations-specialist) |
 | Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon) | [Apply](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer) |
 | Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
@@ -29,7 +31,5 @@
 | Keystone (YC S25) is hiring engineer #1 to automate coding | [Apply](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer) |
 | Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI) | [Apply](https://www.useparallel.com/uplane1/careers) |
 | Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US) | [Apply](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer) |
-| Delty (YC X25) Is Hiring an ML Engineer | [Apply](https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer) |
-| Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 
 <!-- table end -->
