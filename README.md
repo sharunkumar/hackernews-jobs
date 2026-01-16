@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Aviator (YC S21) is hiring to build multiplayer AI coding platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://jiga.io/about-us) |
 | Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer) |
 | Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist | [Apply](https://www.coveragecat.com/careers/operations/fractional-operations-specialist) |
