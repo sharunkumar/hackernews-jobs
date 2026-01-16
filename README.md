@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/) |
 | Aviator (YC S21) is hiring to build multiplayer AI coding platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://jiga.io/about-us) |
 | Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer) |
@@ -31,6 +32,5 @@
 | Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace) |
 | Keystone (YC S25) is hiring engineer #1 to automate coding | [Apply](https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer) |
 | Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI) | [Apply](https://www.useparallel.com/uplane1/careers) |
-| Depot (YC W23) Is Hiring an Enterprise Support Engineer (Remote/US) | [Apply](https://www.ycombinator.com/companies/depot/jobs/jhGxVjO-enterprise-support-engineer) |
 
 <!-- table end -->
