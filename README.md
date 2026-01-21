@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
+| Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql) |
 | Channel3 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer) |
 | Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/) |
 | Aviator (YC S21) is hiring to build multiplayer AI coding platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
@@ -29,7 +31,5 @@
 | Activeloop (YC S18) Is Hiring MTS – Back End Engineer | [Apply](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd) |
 | Hive (YC S14) Is Hiring a Staff Software Engineer (Data Systems) | [Apply](https://jobs.ashbyhq.com/hive.co/cb0dc490-0e32-4734-8d91-8b56a31ed497) |
 | Crimson (YC X25) is hiring founding engineers in London | [Apply](https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack) |
-| Langfuse (YC W23) Is Hiring in Berlin, Germany | [Apply](https://langfuse.com/careers) |
-| Clearspace (YC W23) Is Hiring a Founding Network Engineer (VPN and Proxy) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/5LtM86I-founding-network-engineer-at-clearspace) |
 
 <!-- table end -->
