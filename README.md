@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration) |
 | Flowtel (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior) |
 | Jerry (YC S17) Is Hiring | [Apply](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace) |
 | Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees | [Apply](https://atg.science/) |
@@ -31,6 +32,5 @@
 | Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time) |
 | ParadeDB (YC S23) Is Hiring Database Engineers | [Apply](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s) |
 | SigNoz (YC W21, open source observability platform) is hiring across roles | [Apply](https://signoz.io/careers) |
-| Activeloop (YC S18) Is Hiring MTS – Back End Engineer | [Apply](https://careers.activeloop.ai/?ashby_jid=d8c54147-5fc8-48ba-a097-a6ae046c42bd) |
 
 <!-- table end -->
