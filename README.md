@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| TrueVault (YC W14) is hiring a Growth Lead to test different growth channels | [Apply](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead) |
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration) |
 | Flowtel (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior) |
 | Jerry (YC S17) Is Hiring | [Apply](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace) |
@@ -31,6 +32,5 @@
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers) |
 | Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time) |
 | ParadeDB (YC S23) Is Hiring Database Engineers | [Apply](https://paradedb.notion.site/?p=172ea4ce9deb80898ef5d5097bd65544&pm=s) |
-| SigNoz (YC W21, open source observability platform) is hiring across roles | [Apply](https://signoz.io/careers) |
 
 <!-- table end -->
