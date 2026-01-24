@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Telli (YC F24) is hiring eng, design, growth [on-site, Berlin] | [Apply](https://careers.telli.com/) |
 | Noora Health (YC W14) Is Hiring AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) |
 | TrueVault (YC W14) is hiring a Growth Lead to test different growth channels | [Apply](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead) |
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration) |
@@ -31,6 +32,5 @@
 | Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam) | [Apply](https://www.optery.com/careers/) |
 | Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US | [Apply](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth) |
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-gogograndparent-yc-s16-is-hiring-backend-and-full-stack-engineers) |
-| Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time) |
 
 <!-- table end -->
