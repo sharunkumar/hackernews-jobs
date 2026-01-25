@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| First Design Engineer Hire – Build Games at Gym Class (YC W22) | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal) |
 | Metriport (YC S22) is hiring a security eng to harden healthcare data infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
 | Telli (YC F24) is hiring eng, design, growth [on-site, Berlin] | [Apply](https://careers.telli.com/) |
 | Noora Health (YC W14) Is Hiring AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) |
@@ -31,6 +32,5 @@
 | Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer) |
 | 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers) |
 | Optery (YC W22) Hiring a CISO and Web Scraping Engineers (Node) (US and Latam) | [Apply](https://www.optery.com/careers/) |
-| Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US | [Apply](https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth) |
 
 <!-- table end -->
