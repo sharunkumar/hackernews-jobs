@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Artie (YC S23) Is Hiring a Founding Recruiter | [Apply](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter) |
+| 9 Mothers (YC X26, Defense Tech) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Nango (YC W23, Dev Infrastructure) Is Hiring Remotely | [Apply](https://jobs.ashbyhq.com/Nango) |
 | First Design Engineer Hire – Build Games at Gym Class (YC W22) | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal) |
 | Metriport (YC S22) is hiring a security eng to harden healthcare data infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
@@ -29,7 +31,5 @@
 | UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 | Replit (YC W18) Is Hiring | [Apply](https://jobs.ashbyhq.com/replit) |
 | IcePanel (YC W23) is hiring full-stack engineers in Vancouver | [Apply](https://forms.icepanel.io/careers/senior-product-engineer) |
-| Mux (YC W16) is hiring a platform engineer that cares about (internal) DX | [Apply](https://www.mux.com/jobs) |
-| Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer) |
 
 <!-- table end -->
