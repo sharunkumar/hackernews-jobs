@@ -31,6 +31,5 @@
 | IcePanel (YC W23) is hiring full-stack engineers in Vancouver | [Apply](https://forms.icepanel.io/careers/senior-product-engineer) |
 | Mux (YC W16) is hiring a platform engineer that cares about (internal) DX | [Apply](https://www.mux.com/jobs) |
 | Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers | [Apply](https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer) |
-| 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers) |
 
 <!-- table end -->
