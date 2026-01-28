@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kyber (YC W23) Is Hiring a Staff Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead) |
 | Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer | [Apply](https://www.ycombinator.com/companies/hypercubic/jobs) |
 | Artie (YC S23) Is Hiring a Founding Recruiter | [Apply](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter) |
 | 9 Mothers (YC X26, Defense Tech) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
@@ -30,6 +31,5 @@
 | F2 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
-| Replit (YC W18) Is Hiring | [Apply](https://jobs.ashbyhq.com/replit) |
 
 <!-- table end -->
