@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer | [Apply](https://www.ycombinator.com/companies/hypercubic/jobs) |
 | Artie (YC S23) Is Hiring a Founding Recruiter | [Apply](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter) |
 | 9 Mothers (YC X26, Defense Tech) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Nango (YC W23, Dev Infrastructure) Is Hiring Remotely | [Apply](https://jobs.ashbyhq.com/Nango) |
@@ -30,6 +31,5 @@
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 | Replit (YC W18) Is Hiring | [Apply](https://jobs.ashbyhq.com/replit) |
-| IcePanel (YC W23) is hiring full-stack engineers in Vancouver | [Apply](https://forms.icepanel.io/careers/senior-product-engineer) |
 
 <!-- table end -->
