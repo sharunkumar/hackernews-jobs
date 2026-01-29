@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Questom (YC F25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer) |
 | Kyber (YC W23) Is Hiring a Staff Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead) |
 | Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer | [Apply](https://www.ycombinator.com/companies/hypercubic/jobs) |
 | Artie (YC S23) Is Hiring a Founding Recruiter | [Apply](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter) |
@@ -30,6 +31,5 @@
 | Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
 | F2 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
-| UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance | [Apply](https://up.codes/careers?utm_source=HN) |
 
 <!-- table end -->
