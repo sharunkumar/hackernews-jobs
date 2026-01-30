@@ -4,6 +4,9 @@
 
 | Title | Apply |
 |-------|-----|
+| Pangolin (YC S25) is hiring software engineers (open-source, Go, networking) | [Apply](https://docs.pangolin.net/careers/join-us) |
+| BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers | [Apply](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s) |
+| Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9) |
 | Reflex (YC W23) Senior Software Engineer Infra | [Apply](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra) |
 | Questom (YC F25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer) |
 | Kyber (YC W23) Is Hiring a Staff Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead) |
@@ -29,8 +32,5 @@
 | Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer) |
 | Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist | [Apply](https://www.coveragecat.com/careers/operations/fractional-operations-specialist) |
 | Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon) | [Apply](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer) |
-| Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
-| F2 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/f2/jobs/cJsc7Fe-product-designer) |
-| Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 
 <!-- table end -->
