@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
 | Pangolin (YC S25) is hiring software engineers (open-source, Go, networking) | [Apply](https://docs.pangolin.net/careers/join-us) |
 | BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers | [Apply](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s) |
 | Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9) |
@@ -31,6 +32,5 @@
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://jiga.io/about-us) |
 | Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer) |
 | Coverage Cat (YC S22) Is Hiring a Fractional Operations Specialist | [Apply](https://www.coveragecat.com/careers/operations/fractional-operations-specialist) |
-| Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon) | [Apply](https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer) |
 
 <!-- table end -->
