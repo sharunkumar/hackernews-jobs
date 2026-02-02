@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
 | Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
 | Pangolin (YC S25) is hiring software engineers (open-source, Go, networking) | [Apply](https://docs.pangolin.net/careers/join-us) |
