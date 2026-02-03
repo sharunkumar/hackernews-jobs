@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Emerge Career (YC S22) Is Hiring a Founding Product Designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
+| Emerge Career (YC S22) is hiring a product designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
 | Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
