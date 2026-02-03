@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Emerge Career (YC S22) Is Hiring a Founding Product Designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
 | Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
@@ -32,6 +33,5 @@
 | Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/) |
 | Aviator (YC S21) is hiring to build multiplayer AI coding platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
 | Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://jiga.io/about-us) |
-| Nao Labs (Open-Source Analytics Agent, YC X25) Is Hiring | [Apply](https://www.ycombinator.com/companies/nao-labs/jobs/KjOBhf5-founding-software-engineer) |
 
 <!-- table end -->
