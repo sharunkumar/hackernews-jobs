@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person) | [Apply](https://www.runconverge.com/careers/product-engineer) |
 | Emerge Career (YC S22) is hiring a product designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
@@ -32,6 +33,5 @@
 | Channel3 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer) |
 | Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/) |
 | Aviator (YC S21) is hiring to build multiplayer AI coding platform | [Apply](https://www.ycombinator.com/companies/aviator/jobs) |
-| Jiga (YC W21) Is Hiring Full Stack Engineers | [Apply](https://jiga.io/about-us) |
 
 <!-- table end -->
