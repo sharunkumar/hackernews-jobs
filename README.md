@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Maihem (YC W24): hiring sr robotics perception engineer (London, on-site) | [Apply](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758) |
 | Freshpaint (YC S19) Is Hiring a Senior SWE, Data | [Apply](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761) |
 | Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person) | [Apply](https://www.runconverge.com/careers/product-engineer) |
 | Emerge Career (YC S22) is hiring a product designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
@@ -32,6 +33,5 @@
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql) |
 | Channel3 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer) |
-| Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs/) |
 
 <!-- table end -->
