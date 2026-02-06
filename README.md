@@ -4,14 +4,14 @@
 
 | Title | Apply |
 |-------|-----|
-| Maihem (YC W24): hiring sr robotics perception engineer (London, on-site) | [Apply](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758) |
+| Maihem (YC W24): hiring senior robotics perception engineer (London, on-site) | [Apply](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758) |
 | Freshpaint (YC S19) Is Hiring a Senior SWE, Data | [Apply](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761) |
 | Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person) | [Apply](https://www.runconverge.com/careers/product-engineer) |
 | Emerge Career (YC S22) is hiring a product designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
 | Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
-| Pangolin (YC S25) is hiring software engineers (open-source, Go, networking) | [Apply](https://docs.pangolin.net/careers/join-us) |
+| Pangolin (YC S25) is hiring software engineers (open-source, full-stack) | [Apply](https://docs.pangolin.net/careers/join-us) |
 | BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers | [Apply](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s) |
 | Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9) |
 | Reflex (YC W23) Senior Software Engineer Infra | [Apply](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra) |
