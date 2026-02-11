@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| CoLoop (YC S21) Is Hiring Ex Technical Founders in London | [Apply](https://www.workatastartup.com/jobs/90016) |
 | Toma (YC W24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products) |
 | Maihem (YC W24): hiring senior robotics perception engineer (London, on-site) | [Apply](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758) |
 | Freshpaint (YC S19) Is Hiring a Senior SWE, Data | [Apply](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761) |
@@ -33,6 +34,5 @@
 | Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees | [Apply](https://atg.science/) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | Infracost (YC W21) Is Hiring Sr Back End Eng (Node.js+SQL) to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/Sr9rmHs-senior-backend-engineer-node-js-sql) |
-| Channel3 (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/channel3/jobs/3DIAYYY-backend-engineer) |
 
 <!-- table end -->
