@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job | [Apply](http://qualify.gauntletAI.com) |
 | GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC | [Apply](https://www.workatastartup.com/companies/govdash) |
 | CoLoop (YC S21) Is Hiring Ex Technical Founders in London | [Apply](https://www.workatastartup.com/jobs/90016) |
 | Toma (YC W24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products) |
@@ -32,6 +33,5 @@
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration) |
 | Flowtel (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior) |
 | Jerry (YC S17) Is Hiring | [Apply](https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace) |
-| Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees | [Apply](https://atg.science/) |
 
 <!-- table end -->
