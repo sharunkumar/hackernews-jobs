@@ -31,6 +31,5 @@
 | Noora Health (YC W14) Is Hiring AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) |
 | TrueVault (YC W14) is hiring a Growth Lead to test different growth channels | [Apply](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead) |
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration) |
-| Flowtel (YC W25) Is Hiring | [Apply](https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior) |
 
 <!-- table end -->
