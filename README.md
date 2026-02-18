@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern) |
 | Cogram (YC W22) – Hiring former technical founders | [Apply](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer) |
 | GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC | [Apply](https://www.workatastartup.com/companies/govdash) |
 | CoLoop (YC S21) Is Hiring Ex Technical Founders in London | [Apply](https://www.workatastartup.com/jobs/90016) |
@@ -30,6 +31,5 @@
 | Telli (YC F24) is hiring eng, design, growth [on-site, Berlin] | [Apply](https://careers.telli.com/) |
 | Noora Health (YC W14) Is Hiring AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) |
 | TrueVault (YC W14) is hiring a Growth Lead to test different growth channels | [Apply](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead) |
-| AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration) |
 
 <!-- table end -->
