@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
+| Stardex (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration) |
 | Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern) |
 | Cogram (YC W22) – Hiring former technical founders | [Apply](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer) |
 | GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC | [Apply](https://www.workatastartup.com/companies/govdash) |
@@ -29,7 +31,5 @@
 | First Design Engineer Hire – Build Games at Gym Class (YC W22) | [Apply](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal) |
 | Metriport (YC S22) is hiring a security eng to harden healthcare data infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
 | Telli (YC F24) is hiring eng, design, growth [on-site, Berlin] | [Apply](https://careers.telli.com/) |
-| Noora Health (YC W14) Is Hiring AI/ML Engineer | [Apply](https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer) |
-| TrueVault (YC W14) is hiring a Growth Lead to test different growth channels | [Apply](https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead) |
 
 <!-- table end -->
