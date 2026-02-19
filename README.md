@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Metriport (YC S22) is hiring a security engineer to harden healthcare infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
 | Activeloop (YC S18) Is Hiring Back End Engineer (Go) | [Apply](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f) |
 | Weave (YC W25) Is Hiring ML, Design, and Product Engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
 | Flexport Is Hiring Engineers in Amsterdam | [Apply](https://flexport.com/careers) |
@@ -30,6 +31,5 @@
 | Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer | [Apply](https://www.ycombinator.com/companies/hypercubic/jobs) |
 | Artie (YC S23) Is Hiring a Founding Recruiter | [Apply](https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter) |
 | 9 Mothers (YC X26, Defense Tech) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
-| Nango (YC W23, Dev Infrastructure) Is Hiring Remotely | [Apply](https://jobs.ashbyhq.com/Nango) |
 
 <!-- table end -->
