@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hyperbound (YC S23, Series A) needs a Engineer with something to prove | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove) |
 | Metriport (YC S22) is hiring a security engineer to harden healthcare infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
 | Activeloop (YC S18) Is Hiring Back End Engineer (Go) | [Apply](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f) |
 | Weave (YC W25) Is Hiring ML, Design, and Product Engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
