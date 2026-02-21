@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 | Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
 | 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Hyperbound (YC S23, Series A) needs a Engineer with something to prove | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove) |
@@ -31,6 +32,5 @@
 | Reflex (YC W23) Senior Software Engineer Infra | [Apply](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra) |
 | Questom (YC F25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer) |
 | Kyber (YC W23) Is Hiring a Staff Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead) |
-| Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer | [Apply](https://www.ycombinator.com/companies/hypercubic/jobs) |
 
 <!-- table end -->
