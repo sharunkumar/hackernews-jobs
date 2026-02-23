@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria | [Apply](https://bitmovin.com/careers/8023403002/) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 | Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
 | 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
@@ -31,6 +32,5 @@
 | Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9) |
 | Reflex (YC W23) Senior Software Engineer Infra | [Apply](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra) |
 | Questom (YC F25) is hiring an engineer | [Apply](https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer) |
-| Kyber (YC W23) Is Hiring a Staff Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead) |
 
 <!-- table end -->
