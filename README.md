@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SIM (YC X25) Is Hiring the Best Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform) |
 | Hadrius (YC W23) Is Hiring Designers Who Code | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer) |
 | Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria | [Apply](https://bitmovin.com/careers/8023403002/) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
@@ -31,6 +32,5 @@
 | Pangolin (YC S25) is hiring software engineers (open-source, full-stack) | [Apply](https://docs.pangolin.net/careers/join-us) |
 | BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers | [Apply](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s) |
 | Photoroom (YC S20) Is Hiring a Head of Cross-Platform (Rust) in Paris | [Apply](https://jobs.ashbyhq.com/photoroom/dc994a7c-e104-46e1-81c3-b88d635398b9) |
-| Reflex (YC W23) Senior Software Engineer Infra | [Apply](https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra) |
 
 <!-- table end -->
