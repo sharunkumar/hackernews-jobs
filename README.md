@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis AI (YC W24) is hiring deployment lead to accelerate medication access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist) |
 | Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer) |
 | Corgi Labs (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) |
 | Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng | [Apply](https://jobs.ashbyhq.com/verge-genomics) |
@@ -31,6 +32,5 @@
 | Emerge Career (YC S22) is hiring a product designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
-| Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
 
 <!-- table end -->
