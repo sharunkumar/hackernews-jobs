@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Corgi Labs (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) |
 | Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng | [Apply](https://jobs.ashbyhq.com/verge-genomics) |
 | SIM (YC X25) Is Hiring the Best Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform) |
 | Hadrius (YC W23) Is Hiring Designers Who Code | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer) |
@@ -31,6 +32,5 @@
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
 | Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
 | Pangolin (YC S25) is hiring software engineers (open-source, full-stack) | [Apply](https://docs.pangolin.net/careers/join-us) |
-| BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers | [Apply](https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&pm=s) |
 
 <!-- table end -->
