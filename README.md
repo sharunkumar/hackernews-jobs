@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer) |
 | Corgi Labs (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) |
 | Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng | [Apply](https://jobs.ashbyhq.com/verge-genomics) |
 | SIM (YC X25) Is Hiring the Best Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform) |
@@ -31,6 +32,5 @@
 | Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer) |
 | Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer) |
-| Pangolin (YC S25) is hiring software engineers (open-source, full-stack) | [Apply](https://docs.pangolin.net/careers/join-us) |
 
 <!-- table end -->
