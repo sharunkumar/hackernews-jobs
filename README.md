@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable | [Apply](https://www.workatastartup.com/jobs/80596) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
 | Trellis AI (YC W24) is hiring deployment lead to accelerate medication access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist) |
 | Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer) |
@@ -31,6 +32,5 @@
 | Freshpaint (YC S19) Is Hiring a Senior SWE, Data | [Apply](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761) |
 | Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person) | [Apply](https://www.runconverge.com/careers/product-engineer) |
 | Emerge Career (YC S22) is hiring a product designer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer) |
-| Clearspace (YC W23) Is Hiring an Applied Researcher (ML) | [Apply](https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace) |
 
 <!-- table end -->
