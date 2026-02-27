@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA | [Apply](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer) |
 | LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity | [Apply](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) |
 | Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable | [Apply](https://www.workatastartup.com/jobs/80596) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
@@ -31,6 +32,5 @@
 | Toma (YC W24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products) |
 | Maihem (YC W24): hiring senior robotics perception engineer (London, on-site) | [Apply](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758) |
 | Freshpaint (YC S19) Is Hiring a Senior SWE, Data | [Apply](https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761) |
-| Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person) | [Apply](https://www.runconverge.com/careers/product-engineer) |
 
 <!-- table end -->
