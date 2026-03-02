@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Reflex (YC W23) Is Hiring Software Engineers – Python | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Kyber (YC W23) Is Hiring an Enterprise Account Executive | [Apply](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae) |
 | Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA | [Apply](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer) |
 | LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity | [Apply](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) |
@@ -31,6 +32,5 @@
 | GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC | [Apply](https://www.workatastartup.com/companies/govdash) |
 | CoLoop (YC S21) Is Hiring Ex Technical Founders in London | [Apply](https://www.workatastartup.com/jobs/90016) |
 | Toma (YC W24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products) |
-| Maihem (YC W24): hiring senior robotics perception engineer (London, on-site) | [Apply](https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758) |
 
 <!-- table end -->
