@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us) |
 | Reflex (YC W23) Is Hiring Software Engineers – Python | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Kyber (YC W23) Is Hiring an Enterprise Account Executive | [Apply](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae) |
 | Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA | [Apply](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer) |
@@ -31,6 +32,5 @@
 | Cogram (YC W22) – Hiring former technical founders | [Apply](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer) |
 | GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC | [Apply](https://www.workatastartup.com/companies/govdash) |
 | CoLoop (YC S21) Is Hiring Ex Technical Founders in London | [Apply](https://www.workatastartup.com/jobs/90016) |
-| Toma (YC W24) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products) |
 
 <!-- table end -->
