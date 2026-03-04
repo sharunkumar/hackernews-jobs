@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra | [Apply](https://roboflow.com/careers) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us) |
 | Reflex (YC W23) Is Hiring Software Engineers – Python | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Kyber (YC W23) Is Hiring an Enterprise Account Executive | [Apply](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae) |
@@ -31,6 +32,5 @@
 | Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern) |
 | Cogram (YC W22) – Hiring former technical founders | [Apply](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer) |
 | GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC | [Apply](https://www.workatastartup.com/companies/govdash) |
-| CoLoop (YC S21) Is Hiring Ex Technical Founders in London | [Apply](https://www.workatastartup.com/jobs/90016) |
 
 <!-- table end -->
