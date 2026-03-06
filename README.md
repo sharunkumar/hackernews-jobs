@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Stardex (YC S21) is hiring customer success engineers | [Apply](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration) |
 | Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant) |
 | Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra | [Apply](https://roboflow.com/careers) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us) |
@@ -32,6 +33,5 @@
 | Stardex (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration) |
 | Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern) |
 | Cogram (YC W22) – Hiring former technical founders | [Apply](https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer) |
-| GovDash (YC W22) Is Hiring Senior Engineers (Product and Search) in NYC | [Apply](https://www.workatastartup.com/companies/govdash) |
 
 <!-- table end -->
