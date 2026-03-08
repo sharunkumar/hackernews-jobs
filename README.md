@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| SigNoz (YC W21, open source Datadog) Is Hiring across roles | [Apply](https://signoz.io/careers) |
+| SigNoz (YC W21) is hiring for engineering, growth and product roles | [Apply](https://signoz.io/careers) |
 | Multifactor (YC F25) Is Hiring an Engineering Lead | [Apply](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead) |
 | Stardex (YC S21) is hiring customer success engineers | [Apply](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration) |
 | Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant) |
