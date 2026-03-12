@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite) | [Apply](https://www.runconverge.com/careers/founding-platform-engineer) |
+| Hive (YC S14) is hiring scrappy product managers and product/data engineers | [Apply](https://jobs.ashbyhq.com/hive.co) |
 | Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
 | SigNoz (YC W21) is hiring for engineering, growth and product roles | [Apply](https://signoz.io/careers) |
 | Multifactor (YC F25) Is Hiring an Engineering Lead | [Apply](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead) |
@@ -33,7 +35,5 @@
 | Weave (YC W25) Is Hiring ML, Design, and Product Engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
 | Flexport Is Hiring Engineers in Amsterdam | [Apply](https://flexport.com/careers) |
 | Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
-| Stardex (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration) |
-| Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern) |
 
 <!-- table end -->
