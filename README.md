@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (YC W23, API Access for Agents and Apps) Is Hiring | [Apply](https://jobs.ashbyhq.com/Nango) |
 | 9 Mothers Defense (YC P26) Is Hiring in Austin | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite) | [Apply](https://www.runconverge.com/careers/founding-platform-engineer) |
 | Hive (YC S14) is hiring scrappy product managers and product/data engineers | [Apply](https://jobs.ashbyhq.com/hive.co) |
@@ -34,6 +35,5 @@
 | Metriport (YC S22) is hiring a security engineer to harden healthcare infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
 | Activeloop (YC S18) Is Hiring Back End Engineer (Go) | [Apply](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f) |
 | Weave (YC W25) Is Hiring ML, Design, and Product Engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
-| Flexport Is Hiring Engineers in Amsterdam | [Apply](https://flexport.com/careers) |
 
 <!-- table end -->
