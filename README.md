@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead) |
 | Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs | [Apply](https://www.kaizenautomation.com/careers) |
 | Nango (YC W23, API Access for Agents and Apps) Is Hiring | [Apply](https://jobs.ashbyhq.com/Nango) |
 | 9 Mothers Defense (YC P26) Is Hiring in Austin | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
@@ -34,6 +35,5 @@
 | 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Hyperbound (YC S23, Series A) needs a Engineer with something to prove | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove) |
 | Metriport (YC S22) is hiring a security engineer to harden healthcare infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
-| Activeloop (YC S18) Is Hiring Back End Engineer (Go) | [Apply](https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f) |
 
 <!-- table end -->
