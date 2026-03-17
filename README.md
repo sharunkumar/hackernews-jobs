@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Spice Data (YC S19) Is Hiring a Product Specialist | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad) |
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead) |
 | Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs | [Apply](https://www.kaizenautomation.com/careers) |
 | Nango (YC W23, API Access for Agents and Apps) Is Hiring | [Apply](https://jobs.ashbyhq.com/Nango) |
@@ -34,6 +35,5 @@
 | Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
 | 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Hyperbound (YC S23, Series A) needs a Engineer with something to prove | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove) |
-| Metriport (YC S22) is hiring a security engineer to harden healthcare infra | [Apply](https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer) |
 
 <!-- table end -->
