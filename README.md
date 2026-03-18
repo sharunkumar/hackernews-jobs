@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ndea (YC W26) is hiring a symbolic RL search guidance lead | [Apply](https://ndea.com/jobs/search-guidance) |
 | Spice Data (YC S19) Is Hiring a Product Specialist | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad) |
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead) |
 | Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs | [Apply](https://www.kaizenautomation.com/careers) |
@@ -34,6 +35,5 @@
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 | Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
 | 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
-| Hyperbound (YC S23, Series A) needs a Engineer with something to prove | [Apply](https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove) |
 
 <!-- table end -->
