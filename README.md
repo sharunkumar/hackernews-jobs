@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| GoGoGrandparent (YC S16) is hiring Back end Engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
 | Ndea (YC W26) is hiring a symbolic RL search guidance lead | [Apply](https://ndea.com/jobs/search-guidance) |
 | Spice Data (YC S19) Is Hiring a Product Specialist | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad) |
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead) |
@@ -34,6 +35,5 @@
 | Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria | [Apply](https://bitmovin.com/careers/8023403002/) |
 | Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 | Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health | [Apply](https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424) |
-| 9 Mothers (YC X26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 
 <!-- table end -->
