@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions | [Apply](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn) |
 | Lago (YC S21) Is Hiring Product Engineers (Growth Team) | [Apply](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link) |
 | GoGoGrandparent (YC S16) is hiring Back end Engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
 | Ndea (YC W26) is hiring a symbolic RL search guidance lead | [Apply](https://ndea.com/jobs/search-guidance) |
@@ -34,6 +35,5 @@
 | SIM (YC X25) Is Hiring the Best Engineers in San Francisco | [Apply](https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform) |
 | Hadrius (YC W23) Is Hiring Designers Who Code | [Apply](https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer) |
 | Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria | [Apply](https://bitmovin.com/careers/8023403002/) |
-| Padlet (YC W13) Is Hiring in San Francisco and Singapore | [Apply](https://padlet.jobs) |
 
 <!-- table end -->
