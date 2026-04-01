@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Wasmer (YC S19) Is Hiring – Rust and DevRel Positions | [Apply](https://www.workatastartup.com/companies/wasmer) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer) |
 | InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer | [Apply](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer) |
 | Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers | [Apply](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer) |
@@ -34,6 +35,5 @@
 | Trellis AI (YC W24) is hiring deployment lead to accelerate medication access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist) |
 | Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer) |
 | Corgi Labs (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) |
-| Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng | [Apply](https://jobs.ashbyhq.com/verge-genomics) |
 
 <!-- table end -->
