@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin) | [Apply](http://hi.telli.com/join-us) |
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker) |
 | Wasmer (YC S19) Is Hiring – Rust and DevRel Positions | [Apply](https://www.workatastartup.com/companies/wasmer) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer) |
@@ -34,6 +35,5 @@
 | Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable | [Apply](https://www.workatastartup.com/jobs/80596) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
 | Trellis AI (YC W24) is hiring deployment lead to accelerate medication access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist) |
-| Event Horizon Labs (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer) |
 
 <!-- table end -->
