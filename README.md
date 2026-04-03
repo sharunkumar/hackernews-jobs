@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust) | [Apply](https://paradedb.notion.site/) |
+| Zep AI Is Hiring – Building the Agent Context Layer (YC W24) | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
 | Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin) | [Apply](http://hi.telli.com/join-us) |
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker) |
 | Wasmer (YC S19) Is Hiring – Rust and DevRel Positions | [Apply](https://www.workatastartup.com/companies/wasmer) |
@@ -33,7 +35,5 @@
 | Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA | [Apply](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer) |
 | LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity | [Apply](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) |
 | Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable | [Apply](https://www.workatastartup.com/jobs/80596) |
-| Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
-| Trellis AI (YC W24) is hiring deployment lead to accelerate medication access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist) |
 
 <!-- table end -->
