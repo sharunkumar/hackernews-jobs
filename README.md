@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mbodi AI (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls) |
 | Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
 | ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust) | [Apply](https://paradedb.notion.site/) |
 | Zep AI Is Hiring – Building the Agent Context Layer (YC W24) | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
@@ -34,6 +35,5 @@
 | Reflex (YC W23) Is Hiring Software Engineers – Python | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Kyber (YC W23) Is Hiring an Enterprise Account Executive | [Apply](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae) |
 | Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA | [Apply](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer) |
-| LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity | [Apply](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) |
 
 <!-- table end -->
