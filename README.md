@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
 | Mbodi AI (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls) |
 | Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
 | ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust) | [Apply](https://paradedb.notion.site/) |
@@ -34,6 +35,5 @@
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us) |
 | Reflex (YC W23) Is Hiring Software Engineers – Python | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Kyber (YC W23) Is Hiring an Enterprise Account Executive | [Apply](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae) |
-| Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA | [Apply](https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer) |
 
 <!-- table end -->
