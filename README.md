@@ -34,6 +34,5 @@
 | Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra | [Apply](https://roboflow.com/careers) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us) |
 | Reflex (YC W23) Is Hiring Software Engineers – Python | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
-| Kyber (YC W23) Is Hiring an Enterprise Account Executive | [Apply](https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae) |
 
 <!-- table end -->
