@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| 9 Mothers (YC P26) Is Hiring – Lead Robotics and More | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
 | Mbodi AI (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls) |
 | Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
@@ -32,6 +33,5 @@
 | Stardex (YC S21) is hiring customer success engineers | [Apply](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration) |
 | Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant) |
 | Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra | [Apply](https://roboflow.com/careers) |
-| Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us) |
 
 <!-- table end -->
