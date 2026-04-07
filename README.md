@@ -33,6 +33,5 @@
 | Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant) |
 | Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra | [Apply](https://roboflow.com/careers) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us) |
-| Reflex (YC W23) Is Hiring Software Engineers – Python | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 
 <!-- table end -->
