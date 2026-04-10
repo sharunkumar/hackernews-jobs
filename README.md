@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) |
 | 9 Mothers (YC P26) Is Hiring – Lead Robotics and More | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
@@ -32,6 +33,5 @@
 | SigNoz (YC W21) is hiring for engineering, growth and product roles | [Apply](https://signoz.io/careers) |
 | Multifactor (YC F25) Is Hiring an Engineering Lead | [Apply](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead) |
 | Stardex (YC S21) is hiring customer success engineers | [Apply](https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration) |
-| Structured AI (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant) |
 
 <!-- table end -->
