@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Adaptional (YC S25) Is Hiring Founding AI Engineers | [Apply](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer) |
 | Proliferate (YC S25) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 | MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K | [Apply](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
@@ -32,6 +33,5 @@
 | 9 Mothers Defense (YC P26) Is Hiring in Austin | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite) | [Apply](https://www.runconverge.com/careers/founding-platform-engineer) |
 | Hive (YC S14) is hiring scrappy product managers and product/data engineers | [Apply](https://jobs.ashbyhq.com/hive.co) |
-| Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
 
 <!-- table end -->
