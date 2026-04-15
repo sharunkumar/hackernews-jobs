@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K | [Apply](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) |
@@ -32,6 +33,5 @@
 | Hive (YC S14) is hiring scrappy product managers and product/data engineers | [Apply](https://jobs.ashbyhq.com/hive.co) |
 | Meticulous (YC S21) is hiring to redefine software dev | [Apply](https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e) |
 | SigNoz (YC W21) is hiring for engineering, growth and product roles | [Apply](https://signoz.io/careers) |
-| Multifactor (YC F25) Is Hiring an Engineering Lead | [Apply](https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead) |
 
 <!-- table end -->
