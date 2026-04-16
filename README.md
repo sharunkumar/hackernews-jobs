@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Adaptional (YC S25) Is Hiring Founding AI Engineers | [Apply](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer) |
+| Adaptional (YC S25) is hiring AI engineers | [Apply](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer) |
 | Proliferate (YC S25) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 | MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K | [Apply](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
