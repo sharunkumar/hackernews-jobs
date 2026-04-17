@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Substrate AI Is Hiring Harness Engineers | [Apply](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead) |
 | Adaptional (YC S25) is hiring AI engineers | [Apply](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer) |
 | Proliferate (YC S25) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
@@ -31,6 +32,5 @@
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead) |
 | Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs | [Apply](https://www.kaizenautomation.com/careers) |
 | Nango (YC W23, API Access for Agents and Apps) Is Hiring | [Apply](https://jobs.ashbyhq.com/Nango) |
-| 9 Mothers Defense (YC P26) Is Hiring in Austin | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 
 <!-- table end -->
