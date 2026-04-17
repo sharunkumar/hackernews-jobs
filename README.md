@@ -32,6 +32,5 @@
 | Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs | [Apply](https://www.kaizenautomation.com/careers) |
 | Nango (YC W23, API Access for Agents and Apps) Is Hiring | [Apply](https://jobs.ashbyhq.com/Nango) |
 | 9 Mothers Defense (YC P26) Is Hiring in Austin | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
-| Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite) | [Apply](https://www.runconverge.com/careers/founding-platform-engineer) |
 
 <!-- table end -->
