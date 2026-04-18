@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4 | [Apply](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead) |
 | Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering) |
 | Substrate AI Is Hiring Harness Engineers | [Apply](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead) |
@@ -31,6 +32,5 @@
 | Ndea (YC W26) is hiring a symbolic RL search guidance lead | [Apply](https://ndea.com/jobs/search-guidance) |
 | Spice Data (YC S19) Is Hiring a Product Specialist | [Apply](https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad) |
 | AnswerThis (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead) |
-| Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs | [Apply](https://www.kaizenautomation.com/careers) |
 
 <!-- table end -->
