@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| UpCodes (YC S17) Is Hiring SDRs to Help Make Construction More Productive | [Apply](https://up.codes/careers?utm_source=HN) |
+| UpCodes (YC S17) is hiring SDRs to help make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
 | Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4 | [Apply](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead) |
 | Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering) |
 | Substrate AI Is Hiring Harness Engineers | [Apply](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) |
