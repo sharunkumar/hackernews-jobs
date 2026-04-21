@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis AI (YC W24) Is hiring engineers to build self-improving agents | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time) |
 | Bloom (YC P26) Is Hiring | [Apply](https://www.ycombinator.com/companies/trybloom/jobs) |
 | UpCodes (YC S17) is hiring SDRs to help make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
 | Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4 | [Apply](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead) |
@@ -31,6 +32,5 @@
 | Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions | [Apply](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn) |
 | Lago (YC S21) Is Hiring Product Engineers (Growth Team) | [Apply](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link) |
 | GoGoGrandparent (YC S16) is hiring Back end Engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
-| Ndea (YC W26) is hiring a symbolic RL search guidance lead | [Apply](https://ndea.com/jobs/search-guidance) |
 
 <!-- table end -->
