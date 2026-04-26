@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence) | [Apply](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us/) |
 | Trellis AI (YC W24) Is hiring engineers to build self-improving agents | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time) |
 | Bloom (YC P26) Is Hiring | [Apply](https://www.ycombinator.com/companies/trybloom/jobs) |
@@ -31,6 +32,5 @@
 | InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer | [Apply](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer) |
 | Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers | [Apply](https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer) |
 | Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions | [Apply](https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn) |
-| Lago (YC S21) Is Hiring Product Engineers (Growth Team) | [Apply](https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link) |
 
 <!-- table end -->
