@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence) | [Apply](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) |
+| Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence) | [Apply](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us/) |
 | Trellis AI (YC W24) Is hiring engineers to build self-improving agents | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time) |
 | Bloom (YC P26) Is Hiring | [Apply](https://www.ycombinator.com/companies/trybloom/jobs) |
