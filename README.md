@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer) |
 | Gooseworks (YC W23) Is Hiring a Founding Growth Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer) |
 | Stardex Is Hiring a Founding Customer Success Lead | [Apply](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead) |
 | Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628) |
@@ -32,6 +33,5 @@
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker) |
 | Wasmer (YC S19) Is Hiring – Rust and DevRel Positions | [Apply](https://www.workatastartup.com/companies/wasmer) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer) |
-| InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer | [Apply](https://inpharmd.com/jobs/senior-ruby-on-rails-engineer) |
 
 <!-- table end -->
