@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit | [Apply](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer) |
 | Proliferate (YC S25) Is Hiring- 200k for junior engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer) |
 | Gooseworks (YC W23) Is Hiring a Founding Growth Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer) |
@@ -32,6 +33,5 @@
 | Zep AI Is Hiring – Building the Agent Context Layer (YC W24) | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
 | Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin) | [Apply](http://hi.telli.com/join-us) |
 | InspectMind AI (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker) |
-| Wasmer (YC S19) Is Hiring – Rust and DevRel Positions | [Apply](https://www.workatastartup.com/companies/wasmer) |
 
 <!-- table end -->
