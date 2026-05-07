@@ -4,7 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
-| Coverage Cat (YC S22) Seeks Fractional Engineer to build AI Growth Toolkit | [Apply](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer) |
+| Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit | [Apply](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer) |
 | Proliferate (YC S25) Is Hiring- 200k for junior engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer) |
 | Gooseworks (YC W23) Is Hiring a Founding Growth Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer) |
