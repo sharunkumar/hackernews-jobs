@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mux (YC W16) Is Hiring | [Apply](https://www.mux.com/jobs) |
 | GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal | [Apply](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems) |
 | Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit | [Apply](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer) |
 | Proliferate (YC S25) Is Hiring- 200k for junior engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
@@ -32,6 +33,5 @@
 | Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
 | ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust) | [Apply](https://paradedb.notion.site/) |
 | Zep AI Is Hiring – Building the Agent Context Layer (YC W24) | [Apply](https://www.ycombinator.com/companies/zep-ai/jobs) |
-| Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin) | [Apply](http://hi.telli.com/join-us) |
 
 <!-- table end -->
