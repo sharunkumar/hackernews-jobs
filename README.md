@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bild AI (YC W25) Is Hiring Founding Product Engineers | [Apply](https://bild.ai/jobs) |
 | 9 Mothers (YC P26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Mux (YC W16) Is Hiring | [Apply](https://www.mux.com/jobs) |
 | GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal | [Apply](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems) |
@@ -32,6 +33,5 @@
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
 | Mbodi AI (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls) |
 | Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
-| ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust) | [Apply](https://paradedb.notion.site/) |
 
 <!-- table end -->
