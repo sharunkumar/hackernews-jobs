@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Substrate (YC S24) Is Hiring a Technical Success Manager | [Apply](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager) |
 | Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship | [Apply](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship) |
 | Bild AI (YC W25) Is Hiring Founding Product Engineers | [Apply](https://bild.ai/jobs) |
 | 9 Mothers (YC P26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
@@ -32,6 +33,5 @@
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) |
 | 9 Mothers (YC P26) Is Hiring – Lead Robotics and More | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
-| Mbodi AI (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls) |
 
 <!-- table end -->
