@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 | Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern | [Apply](https://www.workatastartup.com/companies/terranox-ai) |
 | Substrate (YC S24) Is Hiring a Technical Success Manager | [Apply](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager) |
 | Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship | [Apply](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship) |
