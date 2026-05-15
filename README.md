@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles | [Apply](https://signoz.io/careers) |
 | Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 | Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern | [Apply](https://www.workatastartup.com/companies/terranox-ai) |
@@ -34,6 +35,5 @@
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) |
-| 9 Mothers (YC P26) Is Hiring – Lead Robotics and More | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 
 <!-- table end -->
