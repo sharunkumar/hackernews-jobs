@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles | [Apply](https://signoz.io/careers) |
 | Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 | Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern | [Apply](https://www.workatastartup.com/companies/terranox-ai) |
 | Substrate (YC S24) Is Hiring a Technical Success Manager | [Apply](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager) |
