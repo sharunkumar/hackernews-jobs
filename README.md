@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kyber (YC W23) Is Hiring a Founding Marketer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles | [Apply](https://signoz.io/careers) |
 | Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
@@ -34,6 +35,5 @@
 | MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K | [Apply](https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers) |
 | Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer) |
-| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer) |
 
 <!-- table end -->
