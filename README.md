@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Circle Medical (YC S15) Is Hiring a Mobile Engineer | [Apply](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
 | Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer) |
 | Kyber (YC W23) Is Hiring a Founding Marketer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community) |
@@ -33,6 +34,5 @@
 | Substrate AI Is Hiring Harness Engineers | [Apply](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead) |
 | Adaptional (YC S25) is hiring AI engineers | [Apply](https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer) |
-| Proliferate (YC S25) Is Hiring Founding Engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 
 <!-- table end -->
