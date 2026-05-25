@@ -4,6 +4,9 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
+| RentFlow (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead) |
+| Hive (YC S14) is hiring sr back-end developers (CA/US remote OK) | [Apply](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481) |
 | Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking | [Apply](https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer) |
 | Circle Medical (YC S15) Is Hiring a Mobile Engineer | [Apply](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
@@ -31,8 +34,5 @@
 | Bloom (YC P26) Is Hiring | [Apply](https://www.ycombinator.com/companies/trybloom/jobs) |
 | UpCodes (YC S17) is hiring SDRs to help make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
 | Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4 | [Apply](https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead) |
-| Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering) |
-| Substrate AI Is Hiring Harness Engineers | [Apply](https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer) |
-| RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead) |
 
 <!-- table end -->
