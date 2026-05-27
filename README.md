@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Sage Care (YC S24) Is Hiring Software Engineers | [Apply](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
 | RentFlow (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead) |
@@ -18,7 +19,6 @@
 | Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 | Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern | [Apply](https://www.workatastartup.com/companies/terranox-ai) |
 | Substrate (YC S24) Is Hiring a Technical Success Manager | [Apply](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager) |
-| Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship | [Apply](https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship) |
 | Bild AI (YC W25) Is Hiring Founding Product Engineers | [Apply](https://bild.ai/jobs) |
 | 9 Mothers (YC P26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Mux (YC W16) Is Hiring | [Apply](https://www.mux.com/jobs) |
