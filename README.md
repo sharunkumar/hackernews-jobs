@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) |
 | Pelica (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer) |
 | Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Sage Care (YC S24) Is Hiring Software Engineers | [Apply](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) |
@@ -33,6 +34,5 @@
 | Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence) | [Apply](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us/) |
 | Trellis AI (YC W24) Is hiring engineers to build self-improving agents | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time) |
-| Bloom (YC P26) Is Hiring | [Apply](https://www.ycombinator.com/companies/trybloom/jobs) |
 
 <!-- table end -->
