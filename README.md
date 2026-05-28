@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Pelica (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer) |
 | Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Sage Care (YC S24) Is Hiring Software Engineers | [Apply](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
@@ -33,6 +34,5 @@
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us/) |
 | Trellis AI (YC W24) Is hiring engineers to build self-improving agents | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time) |
 | Bloom (YC P26) Is Hiring | [Apply](https://www.ycombinator.com/companies/trybloom/jobs) |
-| UpCodes (YC S17) is hiring SDRs to help make construction more productive | [Apply](https://up.codes/careers?utm_source=HN) |
 
 <!-- table end -->
