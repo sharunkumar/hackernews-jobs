@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Cedana (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) |
 | Pelica (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer) |
 | Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
@@ -33,6 +34,5 @@
 | Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628) |
 | Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence) | [Apply](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) |
 | Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us/) |
-| Trellis AI (YC W24) Is hiring engineers to build self-improving agents | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time) |
 
 <!-- table end -->
