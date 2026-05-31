@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
 | Cedana (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) |
 | Pelica (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer) |
@@ -33,6 +34,5 @@
 | Stardex Is Hiring a Founding Customer Success Lead | [Apply](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead) |
 | Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628) |
 | Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence) | [Apply](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) |
-| Jiga (YC W21) Is Hiring | [Apply](https://jiga.io/about-us/) |
 
 <!-- table end -->
