@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Great Question (YC W21) Is Hiring Applied AI Interns | [Apply](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern) |
 | Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
 | Cedana (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc) |
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) |
@@ -33,6 +34,5 @@
 | Gooseworks (YC W23) Is Hiring a Founding Growth Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer) |
 | Stardex Is Hiring a Founding Customer Success Lead | [Apply](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead) |
 | Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628) |
-| Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence) | [Apply](https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health) |
 
 <!-- table end -->
