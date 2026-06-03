@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers | [Apply](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai) |
 | Great Question (YC W21) Is Hiring Applied AI Interns | [Apply](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern) |
 | Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
 | Cedana (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc) |
@@ -32,6 +33,5 @@
 | Proliferate (YC S25) Is Hiring- 200k for junior engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer) |
 | Gooseworks (YC W23) Is Hiring a Founding Growth Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer) |
-| Stardex Is Hiring a Founding Customer Success Lead | [Apply](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead) |
 
 <!-- table end -->
