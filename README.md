@@ -33,6 +33,5 @@
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer) |
 | Gooseworks (YC W23) Is Hiring a Founding Growth Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer) |
 | Stardex Is Hiring a Founding Customer Success Lead | [Apply](https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead) |
-| Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote) | [Apply](https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628) |
 
 <!-- table end -->
