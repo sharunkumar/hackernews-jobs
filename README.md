@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (YC W23, dev infra) is hiring staff back end engineers | [Apply](https://nango.dev/careers) |
 | Zettascale (YC S24) Is Hiring Founding FPGA Engineers | [Apply](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect) |
 | AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 | Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers | [Apply](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai) |
@@ -32,6 +33,5 @@
 | Mux (YC W16) Is Hiring | [Apply](https://www.mux.com/jobs) |
 | GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal | [Apply](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems) |
 | Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit | [Apply](https://www.coveragecat.com/careers/engineering/fractional-growth-engineer) |
-| Proliferate (YC S25) Is Hiring- 200k for junior engineers | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 
 <!-- table end -->
