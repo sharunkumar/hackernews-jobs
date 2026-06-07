@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| 9 Mothers (YC P26) Is Hiring | [Apply](https://9mothers.com/careers) |
 | Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer) |
 | Nango (YC W23, dev infra) is hiring staff back end engineers | [Apply](https://nango.dev/careers) |
 | Zettascale (YC S24) Is Hiring Founding FPGA Engineers | [Apply](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect) |
@@ -32,6 +33,5 @@
 | Bild AI (YC W25) Is Hiring Founding Product Engineers | [Apply](https://bild.ai/jobs) |
 | 9 Mothers (YC P26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 | Mux (YC W16) Is Hiring | [Apply](https://www.mux.com/jobs) |
-| GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal | [Apply](https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems) |
 
 <!-- table end -->
