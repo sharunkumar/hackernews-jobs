@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| GoGoGrandparent (YC S16) is hiring Back end Engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
 | Proliferate (YC S25) is hiring to building open source Codex | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 | 9 Mothers (YC P26) Is Hiring | [Apply](https://9mothers.com/careers) |
 | Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer) |
@@ -32,6 +33,5 @@
 | Terranox AI (YC W26) Is Hiring a Founding AI/ML Engineer and Summer AI/ML Intern | [Apply](https://www.workatastartup.com/companies/terranox-ai) |
 | Substrate (YC S24) Is Hiring a Technical Success Manager | [Apply](https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager) |
 | Bild AI (YC W25) Is Hiring Founding Product Engineers | [Apply](https://bild.ai/jobs) |
-| 9 Mothers (YC P26) Is Hiring | [Apply](https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q) |
 
 <!-- table end -->
