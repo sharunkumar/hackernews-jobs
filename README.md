@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead) |
 | Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany | [Apply](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office) |
 | Hazel (YC W24) Is Hiring a Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
 | Emerge Career (YC S22) Is Hiring a Founding Growth Marketer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer) |
@@ -32,6 +33,5 @@
 | Kyber (YC W23) Is Hiring a Founding Marketer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
 | SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles | [Apply](https://signoz.io/careers) |
-| Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware | [Apply](https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate) |
 
 <!-- table end -->
