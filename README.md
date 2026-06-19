@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand | [Apply](https://www.flexport.com/company/careers/) |
 | Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead) |
 | Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany | [Apply](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office) |
 | Hazel (YC W24) Is Hiring a Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
@@ -32,6 +33,5 @@
 | Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer) |
 | Kyber (YC W23) Is Hiring a Founding Marketer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers) |
-| SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles | [Apply](https://signoz.io/careers) |
 
 <!-- table end -->
