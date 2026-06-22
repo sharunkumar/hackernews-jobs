@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
 | Wildcard (YC W25) is hiring an applied ML engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer) |
 | Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand | [Apply](https://www.flexport.com/company/careers/) |
 | Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead) |
@@ -32,6 +33,5 @@
 | Circle Medical (YC S15) Is Hiring a Mobile Engineer | [Apply](https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
 | Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote) | [Apply](https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer) |
-| Kyber (YC W23) Is Hiring a Founding Marketer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community) |
 
 <!-- table end -->
