@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nox Metals (YC S25) Is Hiring SWE | [Apply](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) |
 | Besimple AI (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data) |
@@ -33,6 +34,5 @@
 | Sage Care (YC S24) Is Hiring Software Engineers | [Apply](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
 | RentFlow (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead) |
-| Hive (YC S14) is hiring sr back-end developers (CA/US remote OK) | [Apply](https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481) |
 
 <!-- table end -->
