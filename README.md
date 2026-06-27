@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Supabase (YC S20) Is Hiring for Multigres | [Apply](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228) |
 | Nox Metals (YC S25) Is Hiring SWE | [Apply](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) |
@@ -33,6 +34,5 @@
 | Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
 | Sage Care (YC S24) Is Hiring Software Engineers | [Apply](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
-| RentFlow (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead) |
 
 <!-- table end -->
