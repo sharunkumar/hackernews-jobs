@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Manufact (YC S25) Is Hiring a Developer Advocate in SF | [Apply](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel) |
 | Supabase (YC S20) Is Hiring for Multigres | [Apply](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228) |
 | Nox Metals (YC S25) Is Hiring SWE | [Apply](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
@@ -32,6 +33,5 @@
 | RamAIn (YC W26) Is Hiring | [Apply](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) |
 | Pelica (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer) |
 | Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs) |
-| Sage Care (YC S24) Is Hiring Software Engineers | [Apply](https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer) |
 
 <!-- table end -->
