@@ -32,6 +32,5 @@
 | Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers | [Apply](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai) |
 | Great Question (YC W21) Is Hiring Applied AI Interns | [Apply](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern) |
 | Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site] | [Apply](https://hi.telli.com/join-us) |
-| Cedana (YC S23) Is Hiring | [Apply](https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc) |
 
 <!-- table end -->
