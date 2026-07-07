@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Lago (YC S21) Is Hiring for Our GTM Team | [Apply](https://jobs.ashbyhq.com/lago) |
 | Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead) |
 | Hazel (YC W24) Is Hiring for Our Largest Government Contract | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
@@ -31,6 +32,5 @@
 | Zettascale (YC S24) Is Hiring Founding FPGA Engineers | [Apply](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect) |
 | AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 | Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers | [Apply](https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai) |
-| Great Question (YC W21) Is Hiring Applied AI Interns | [Apply](https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern) |
 
 <!-- table end -->
