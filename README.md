@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Wildcard (YC W25) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Lago (YC S21) Is Hiring for Our GTM Team | [Apply](https://jobs.ashbyhq.com/lago) |
@@ -31,6 +32,5 @@
 | Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer) |
 | Nango (YC W23, dev infra) is hiring staff back end engineers | [Apply](https://nango.dev/careers) |
 | Zettascale (YC S24) Is Hiring Founding FPGA Engineers | [Apply](https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect) |
-| AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools | [Apply](https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus) |
 
 <!-- table end -->
