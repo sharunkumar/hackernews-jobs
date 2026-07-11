@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Moss (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) |
 | Laylo (YC S20) Is Hiring a Head of Finance | [Apply](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance) |
 | Wildcard (YC W25) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive) |
@@ -31,6 +32,5 @@
 | Proliferate (YC S25) is hiring to building open source Codex | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 | 9 Mothers (YC P26) Is Hiring | [Apply](https://9mothers.com/careers) |
 | Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics) | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer) |
-| Nango (YC W23, dev infra) is hiring staff back end engineers | [Apply](https://nango.dev/careers) |
 
 <!-- table end -->
