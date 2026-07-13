@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| PgDog (YC P25) Is Hiring a Founding Software Engineer | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success) |
 | Moss (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) |
 | Laylo (YC S20) Is Hiring a Head of Finance | [Apply](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance) |
@@ -31,6 +32,5 @@
 | Emerge Career (YC S22) Is Hiring a Founding Growth Marketer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer) |
 | GoGoGrandparent (YC S16) is hiring Back end Engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
 | Proliferate (YC S25) is hiring to building open source Codex | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
-| 9 Mothers (YC P26) Is Hiring | [Apply](https://9mothers.com/careers) |
 
 <!-- table end -->
