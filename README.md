@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF) | [Apply](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7) |
 | PgDog (YC P25) Is Hiring a Founding Software Engineer | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success) |
 | Moss (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) |
@@ -31,6 +32,5 @@
 | Hazel (YC W24) Is Hiring a Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
 | Emerge Career (YC S22) Is Hiring a Founding Growth Marketer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer) |
 | GoGoGrandparent (YC S16) is hiring Back end Engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
-| Proliferate (YC S25) is hiring to building open source Codex | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer) |
 
 <!-- table end -->
