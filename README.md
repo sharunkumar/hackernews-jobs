@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Jiga (YC W21) is hiring the best people to make manufacturing great again | [Apply](https://jiga.io/about-us/) |
 | Kontigo (YC S24) Is Hiring (Head of Security) | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security) |
 | SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF) | [Apply](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7) |
 | PgDog (YC P25) Is Hiring a Founding Software Engineer | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
@@ -31,6 +32,5 @@
 | Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access | [Apply](https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead) |
 | Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany | [Apply](https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office) |
 | Hazel (YC W24) Is Hiring a Full Stack Engineer | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
-| Emerge Career (YC S22) Is Hiring a Founding Growth Marketer | [Apply](https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer) |
 
 <!-- table end -->
