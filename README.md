@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| DrDroid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) |
 | Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud | [Apply](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer) |
 | Adaptional (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adaptional/jobs) |
 | Artie (YC S23) Is Hiring Software Engineers | [Apply](https://jobs.ashbyhq.com/artie) |
@@ -31,6 +32,5 @@
 | Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) |
 | Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
 | Wildcard (YC W25) is hiring an applied ML engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer) |
-| Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand | [Apply](https://www.flexport.com/company/careers/) |
 
 <!-- table end -->
