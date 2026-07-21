@@ -31,6 +31,5 @@
 | Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design | [Apply](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn) |
 | Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) |
 | Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers | [Apply](https://jobs.ashbyhq.com/charge-robotics) |
-| Wildcard (YC W25) is hiring an applied ML engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer) |
 
 <!-- table end -->
