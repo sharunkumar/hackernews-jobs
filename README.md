@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
 | Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) |
 | DrDroid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) |
 | Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud | [Apply](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer) |
@@ -30,6 +31,5 @@
 | Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) |
 | Besimple AI (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data) |
 | Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design | [Apply](https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn) |
-| Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) |
 
 <!-- table end -->
