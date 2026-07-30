@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
 | SalesPatriot (YC W25) Is Hiring FDEs | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
 | PgDog (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 | UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
@@ -30,6 +31,5 @@
 | Supabase (YC S20) Is Hiring for Multigres | [Apply](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228) |
 | Nox Metals (YC S25) Is Hiring SWE | [Apply](https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer) |
 | Hightouch (YC S19) Is Hiring | [Apply](https://hightouch.com/careers#open-positions) |
-| Liva AI (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) |
 
 <!-- table end -->
