@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Miso (YC S16) is hiring for U.S. expansion | [Apply](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
 | Rise Reforming (YC S26) Is Hiring | [Apply](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer) |
 | Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
@@ -30,6 +31,5 @@
 | Hazel (YC W24) Is Hiring for Our Largest Government Contract | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
 | Proliferate (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer) |
 | Manufact (YC S25) Is Hiring a Developer Advocate in SF | [Apply](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel) |
-| Supabase (YC S20) Is Hiring for Multigres | [Apply](https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228) |
 
 <!-- table end -->
