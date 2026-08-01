@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kontigo (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer) |
 | Loops (YC W22) Is Hiring a Product Educator | [Apply](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator) |
 | Miso (YC S16) is hiring for U.S. expansion | [Apply](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
@@ -31,6 +32,5 @@
 | Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead) |
 | Hazel (YC W24) Is Hiring for Our Largest Government Contract | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
 | Proliferate (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer) |
-| Manufact (YC S25) Is Hiring a Developer Advocate in SF | [Apply](https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel) |
 
 <!-- table end -->
