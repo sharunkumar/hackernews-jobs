@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Great Question (YC W21) Is Hiring Senior Demand Gen Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager) |
 | Morph (YC S23) Is Hiring Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff) |
 | Kontigo (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer) |
 | Loops (YC W22) Is Hiring a Product Educator | [Apply](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator) |
@@ -31,6 +32,5 @@
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Lago (YC S21) Is Hiring for Our GTM Team | [Apply](https://jobs.ashbyhq.com/lago) |
 | Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead) |
-| Hazel (YC W24) Is Hiring for Our Largest Government Contract | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
 
 <!-- table end -->
