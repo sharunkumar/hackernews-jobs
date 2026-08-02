@@ -4,11 +4,12 @@
 
 | Title | Apply |
 |-------|-----|
+| Morph (YC S23) Is Hiring Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff) |
 | Kontigo (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer) |
 | Loops (YC W22) Is Hiring a Product Educator | [Apply](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator) |
 | Miso (YC S16) is hiring for U.S. expansion | [Apply](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
-| Rise Reforming (YC S26) Is Hiring | [Apply](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer) |
+| Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer | [Apply](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer) |
 | Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
 | SalesPatriot (YC W25) Is Hiring FDEs | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
 | PgDog (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
@@ -31,6 +32,5 @@
 | Lago (YC S21) Is Hiring for Our GTM Team | [Apply](https://jobs.ashbyhq.com/lago) |
 | Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left | [Apply](https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead) |
 | Hazel (YC W24) Is Hiring for Our Largest Government Contract | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci) |
-| Proliferate (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer) |
 
 <!-- table end -->
