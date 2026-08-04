@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Roame (YC S23) Is Hiring Lead Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer) |
 | Great Question (YC W21) Is Hiring Senior Demand Gen Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager) |
 | Morph (YC S23) Is Hiring Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff) |
