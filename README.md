@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead) |
 | Roame (YC S23) Is Hiring Lead Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer) |
 | Great Question (YC W21) Is Hiring Senior Demand Gen Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager) |
@@ -32,6 +33,5 @@
 | Wildcard (YC W25) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
-| Lago (YC S21) Is Hiring for Our GTM Team | [Apply](https://jobs.ashbyhq.com/lago) |
 
 <!-- table end -->
