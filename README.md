@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Reflex (YC W23) Is hiring Growth and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer) |
+| GiveCampus (YC S15) Is Hiring Engineering Managers | [Apply](https://job-boards.greenhouse.io/givecampus/jobs/4112793009) |
 | Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead) |
 | Roame (YC S23) Is Hiring Lead Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer) |
@@ -31,7 +33,5 @@
 | Moss (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) |
 | Laylo (YC S20) Is Hiring a Head of Finance | [Apply](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance) |
 | Wildcard (YC W25) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer) |
-| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive) |
-| 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 
 <!-- table end -->
