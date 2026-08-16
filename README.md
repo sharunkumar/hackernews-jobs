@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Tasklet (YC P26) Is Hiring a Head of Design Engineering | [Apply](https://tasklet.ai/careers/head-of-design-engineering) |
 | Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer) |
 | Voltair (YC W26) Is Hiring a Test Flight Engineer | [Apply](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer) |
 | ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform) | [Apply](https://atg.science/careers) |
@@ -33,6 +34,5 @@
 | SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF) | [Apply](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7) |
 | PgDog (YC P25) Is Hiring a Founding Software Engineer | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success) |
-| Moss (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) |
 
 <!-- table end -->
