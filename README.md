@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Voltair (YC W26) Is Hiring a Test Flight Engineer | [Apply](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer) |
 | ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform) | [Apply](https://atg.science/careers) |
 | Reflex (YC W23) Is hiring Growth and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer) |
 | GiveCampus (YC S15) Is Hiring Engineering Managers | [Apply](https://job-boards.greenhouse.io/givecampus/jobs/4112793009) |
@@ -33,6 +34,5 @@
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success) |
 | Moss (YC F25) Is Hiring | [Apply](https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk) |
 | Laylo (YC S20) Is Hiring a Head of Finance | [Apply](https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance) |
-| Wildcard (YC W25) Is Hiring a Founding Engineer | [Apply](https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer) |
 
 <!-- table end -->
