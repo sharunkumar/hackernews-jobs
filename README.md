@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern) |
 | Proof of Human (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) |
 | Tasklet (YC P26) Is Hiring a Head of Design Engineering | [Apply](https://tasklet.ai/careers/head-of-design-engineering) |
 | Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer) |
@@ -33,6 +34,5 @@
 | Jiga (YC W21) is hiring the best people to make manufacturing great again | [Apply](https://jiga.io/about-us/) |
 | Kontigo (YC S24) Is Hiring (Head of Security) | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security) |
 | SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF) | [Apply](https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7) |
-| PgDog (YC P25) Is Hiring a Founding Software Engineer | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 
 <!-- table end -->
