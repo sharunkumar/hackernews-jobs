@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
 | LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers | [Apply](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6) |
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern) |
 | Proof of Human (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) |
@@ -33,6 +34,5 @@
 | Adaptional (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adaptional/jobs) |
 | Artie (YC S23) Is Hiring Software Engineers | [Apply](https://jobs.ashbyhq.com/artie) |
 | Jiga (YC W21) is hiring the best people to make manufacturing great again | [Apply](https://jiga.io/about-us/) |
-| Kontigo (YC S24) Is Hiring (Head of Security) | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security) |
 
 <!-- table end -->
