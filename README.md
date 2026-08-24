@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff | [Apply](https://www.ycombinator.com/companies/autostep/jobs) |
 | SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
 | LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers | [Apply](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6) |
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern) |
@@ -33,6 +34,5 @@
 | Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud | [Apply](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer) |
 | Adaptional (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adaptional/jobs) |
 | Artie (YC S23) Is Hiring Software Engineers | [Apply](https://jobs.ashbyhq.com/artie) |
-| Jiga (YC W21) is hiring the best people to make manufacturing great again | [Apply](https://jiga.io/about-us/) |
 
 <!-- table end -->
