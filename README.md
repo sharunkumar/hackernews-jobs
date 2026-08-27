@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Adentris (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python) |
 | Proliferate (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer) |
 | Clara (YC P26) is hiring a growth engineer to bring AI doctors to market | [Apply](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer) |
 | Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff | [Apply](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4) |
@@ -33,6 +34,5 @@
 | UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
 | Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) |
 | DrDroid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) |
-| Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud | [Apply](https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer) |
 
 <!-- table end -->
