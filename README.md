@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering) |
+| GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
 | Bild AI (YC W25) is hiring product and AI engineers | [Apply](https://www.bild.ai/jobs) |
 | Adentris (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python) |
 | Proliferate (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer) |
@@ -33,6 +35,5 @@
 | SalesPatriot (YC W25) Is Hiring FDEs | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
 | PgDog (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 | UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
-| Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) |
 
 <!-- table end -->
