@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Bild AI (YC W25) is hiring product and AI engineers | [Apply](https://www.bild.ai/jobs) |
 | Adentris (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python) |
 | Proliferate (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer) |
 | Clara (YC P26) is hiring a growth engineer to bring AI doctors to market | [Apply](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer) |
@@ -33,6 +34,5 @@
 | PgDog (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 | UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper | [Apply](https://up.codes/careers?utm_source=HN) |
 | Kyber (YC W23) Is Hiring a Head of Engineering | [Apply](https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering) |
-| DrDroid (YC W23) Is Hiring | [Apply](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) |
 
 <!-- table end -->
