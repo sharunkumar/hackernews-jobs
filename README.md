@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
 | Artie (YC S23) Is Hiring Technical AES | [Apply](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1) |
 | Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering) |
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
@@ -34,6 +35,5 @@
 | Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer | [Apply](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer) |
 | Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
 | SalesPatriot (YC W25) Is Hiring FDEs | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
-| PgDog (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer) |
 
 <!-- table end -->
