@@ -34,6 +34,5 @@
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
 | Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer | [Apply](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer) |
 | Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
-| SalesPatriot (YC W25) Is Hiring FDEs | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
 
 <!-- table end -->
