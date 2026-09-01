@@ -33,6 +33,5 @@
 | Loops (YC W22) Is Hiring a Product Educator | [Apply](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator) |
 | Miso (YC S16) is hiring for U.S. expansion | [Apply](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
-| Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer | [Apply](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer) |
 
 <!-- table end -->
