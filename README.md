@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
 | Artie (YC S23) Is Hiring Technical AES | [Apply](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1) |
 | Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering) |
@@ -33,6 +34,5 @@
 | Miso (YC S16) is hiring for U.S. expansion | [Apply](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
 | Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer | [Apply](https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer) |
-| Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
 
 <!-- table end -->
