@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Gooseworks (YC W23) Is Hiring – Founding Creative Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Nango (YC W23) is hiring across eng, product and GTM (SF and remote) | [Apply](https://nango.dev/careers) |
 | Telli (YC F24) is hiring engineers and designers [Berlin, on-site] | [Apply](https://careers.telli.com/) |
@@ -32,6 +33,5 @@
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer) |
 | Great Question (YC W21) Is Hiring Senior Demand Gen Manager | [Apply](https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager) |
 | Morph (YC S23) Is Hiring Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff) |
-| Kontigo (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer) |
 
 <!-- table end -->
