@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (YC W23) is hiring across eng, product and GTM (SF and remote) | [Apply](https://nango.dev/careers) |
 | Telli (YC F24) is hiring engineers and designers [Berlin, on-site] | [Apply](https://careers.telli.com/) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
@@ -32,6 +33,5 @@
 | Morph (YC S23) Is Hiring Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff) |
 | Kontigo (YC S24) Is Hiring | [Apply](https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer) |
 | Loops (YC W22) Is Hiring a Product Educator | [Apply](https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator) |
-| Miso (YC S16) is hiring for U.S. expansion | [Apply](https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion) |
 
 <!-- table end -->
