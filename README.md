@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Opalite Health (YC W26) Is Hiring – Founding GTM | [Apply](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm) |
 | SubImage (YC W25) Is Hiring a Founding Engineer in SF | [Apply](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
 | Gooseworks (YC W23) Is Hiring – Founding Creative Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer) |
@@ -32,6 +33,5 @@
 | GiveCampus (YC S15) Is Hiring Engineering Managers | [Apply](https://job-boards.greenhouse.io/givecampus/jobs/4112793009) |
 | Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead) |
 | Roame (YC S23) Is Hiring Lead Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer) |
-| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer) |
 
 <!-- table end -->
