@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Roame (YC S23) Is Hiring Viral Content Editor | [Apply](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor) |
 | Opalite Health (YC W26) Is Hiring – Founding GTM | [Apply](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm) |
 | SubImage (YC W25) Is Hiring a Founding Engineer in SF | [Apply](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
@@ -32,6 +33,5 @@
 | Reflex (YC W23) Is hiring Growth and GTM Roles | [Apply](https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer) |
 | GiveCampus (YC S15) Is Hiring Engineering Managers | [Apply](https://job-boards.greenhouse.io/givecampus/jobs/4112793009) |
 | Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead) |
-| Roame (YC S23) Is Hiring Lead Engineer | [Apply](https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer) |
 
 <!-- table end -->
