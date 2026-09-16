@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Kyber (YC W23) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer) |
 | Jiga (YC W21) Is Hiring Product Engineer (Remote/US) | [Apply](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) |
 | Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide) | [Apply](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013) |
 | Cua (YC P25) Is Hiring a Founding Technical GTM Lead | [Apply](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead) |
@@ -32,6 +33,5 @@
 | Proof of Human (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) |
 | Tasklet (YC P26) Is Hiring a Head of Design Engineering | [Apply](https://tasklet.ai/careers/head-of-design-engineering) |
 | Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer) |
-| Voltair (YC W26) Is Hiring a Test Flight Engineer | [Apply](https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer) |
 
 <!-- table end -->
