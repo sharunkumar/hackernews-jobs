@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
 | Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI | [Apply](https://zscc.ai/careers?job_id=109821) |
 | Kyber (YC W23) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer) |
 | Jiga (YC W21) Is Hiring Product Engineer (Remote/US) | [Apply](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) |
@@ -32,6 +33,5 @@
 | LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers | [Apply](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6) |
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern) |
 | Proof of Human (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) |
-| Tasklet (YC P26) Is Hiring a Head of Design Engineering | [Apply](https://tasklet.ai/careers/head-of-design-engineering) |
 
 <!-- table end -->
