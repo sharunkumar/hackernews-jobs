@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Supabase (YC S20) Is Hiring for OrioleDB | [Apply](https://supabase.link/orioledbjob) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
 | Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI | [Apply](https://zscc.ai/careers?job_id=109821) |
 | Kyber (YC W23) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer) |
@@ -32,6 +33,5 @@
 | SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
 | LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers | [Apply](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6) |
 | Sixtyfour (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern) |
-| Proof of Human (YC S23) Is Hiring a Member of Technical Staff | [Apply](https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff) |
 
 <!-- table end -->
