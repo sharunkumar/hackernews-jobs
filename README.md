@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Stable (YC W20) Is Hiring Product Engineers | [Apply](https://www.usestable.com/careers/product-engineer) |
 | QuestDB (YC S20) Is Hiring a Sales Engineer | [Apply](https://questdb.com/careers/pre-sales-engineer-north-america/) |
 | Supabase (YC S20) Is Hiring for OrioleDB | [Apply](https://supabase.link/orioledbjob) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
@@ -32,6 +33,5 @@
 | Clara (YC P26) is hiring a growth engineer to bring AI doctors to market | [Apply](https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer) |
 | Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff | [Apply](https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4) |
 | SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers | [Apply](https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer) |
-| LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers | [Apply](https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6) |
 
 <!-- table end -->
