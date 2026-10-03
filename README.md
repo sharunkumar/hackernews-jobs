@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations) |
 | Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) |
 | Truemetrics (YC S23) Is Hiring a GTM Founder's Associate | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate) |
 | Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer) |
@@ -32,6 +33,5 @@
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
 | Bild AI (YC W25) is hiring product and AI engineers | [Apply](https://www.bild.ai/jobs) |
 | Adentris (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python) |
-| Proliferate (YC S25) Is Hiring | [Apply](https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer) |
 
 <!-- table end -->
