@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/weave-os) |
 | RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations) |
 | Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) |
 | Truemetrics (YC S23) Is Hiring a GTM Founder's Associate | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate) |
@@ -32,6 +33,5 @@
 | Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering) |
 | GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
 | Bild AI (YC W25) is hiring product and AI engineers | [Apply](https://www.bild.ai/jobs) |
-| Adentris (YC P25) Is Hiring | [Apply](https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python) |
 
 <!-- table end -->
