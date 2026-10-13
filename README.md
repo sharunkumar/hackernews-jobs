@@ -4,6 +4,8 @@
 
 | Title | Apply |
 |-------|-----|
+| PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery | [Apply](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) |
+| Coris (YC S22) Is Hiring Back End Engineer | [Apply](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/weave-os) |
 | RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations) |
 | Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) |
@@ -31,7 +33,5 @@
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
 | Artie (YC S23) Is Hiring Technical AES | [Apply](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1) |
 | Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research | [Apply](https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering) |
-| GoGoGrandparent (YC S16) is hiring back end engineers | [Apply](https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer) |
-| Bild AI (YC W25) is hiring product and AI engineers | [Apply](https://www.bild.ai/jobs) |
 
 <!-- table end -->
