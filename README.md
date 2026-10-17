@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Flexport Is Hiring a Biz Ops Leader in Office of CEO | [Apply](https://www.flexport.com/company/careers/) |
 | Piramidal (YC W24) Is Hiring | [Apply](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009) |
 | PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery | [Apply](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) |
 | Coris (YC S22) Is Hiring Back End Engineer | [Apply](https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations) |
@@ -32,6 +33,5 @@
 | Telli (YC F24) is hiring engineers and designers [Berlin, on-site] | [Apply](https://careers.telli.com/) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/workweave) |
-| Artie (YC S23) Is Hiring Technical AES | [Apply](https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1) |
 
 <!-- table end -->
