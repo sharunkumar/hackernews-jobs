@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Evidence (YC S21) Is Hiring Software Engineers | [Apply](https://evidence.dev/jobs) |
 | Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers | [Apply](https://www.artie.com/careers) |
 | Flexport Is Hiring a Biz Ops Leader in Office of CEO | [Apply](https://www.flexport.com/company/careers/) |
 | Piramidal (YC W24) Is Hiring | [Apply](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009) |
