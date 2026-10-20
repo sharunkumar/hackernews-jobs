@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hazel (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci) |
 | Evidence (YC S21) Is Hiring Software Engineers | [Apply](https://evidence.dev/jobs) |
 | Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers | [Apply](https://www.artie.com/careers) |
 | Flexport Is Hiring a Biz Ops Leader in Office of CEO | [Apply](https://www.flexport.com/company/careers/) |
@@ -33,6 +34,5 @@
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Nango (YC W23) is hiring across eng, product and GTM (SF and remote) | [Apply](https://nango.dev/careers) |
 | Telli (YC F24) is hiring engineers and designers [Berlin, on-site] | [Apply](https://careers.telli.com/) |
-| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer) |
 
 <!-- table end -->
