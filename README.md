@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel | [Apply](https://nango.dev/careers) |
 | Converge (YC S23) Is Hiring a Founding Platform Engineer | [Apply](https://www.runconverge.com/careers/founding-platform-engineer) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Hazel (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci) |
@@ -34,6 +35,5 @@
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
 | Gooseworks (YC W23) Is Hiring – Founding Creative Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
-| Nango (YC W23) is hiring across eng, product and GTM (SF and remote) | [Apply](https://nango.dev/careers) |
 
 <!-- table end -->
