@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Converge (YC S23) Is Hiring a Founding Platform Engineer | [Apply](https://www.runconverge.com/careers/founding-platform-engineer) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Hazel (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci) |
 | Evidence (YC S21) Is Hiring Software Engineers | [Apply](https://evidence.dev/jobs) |
@@ -34,6 +35,5 @@
 | Gooseworks (YC W23) Is Hiring – Founding Creative Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 | Nango (YC W23) is hiring across eng, product and GTM (SF and remote) | [Apply](https://nango.dev/careers) |
-| Telli (YC F24) is hiring engineers and designers [Berlin, on-site] | [Apply](https://careers.telli.com/) |
 
 <!-- table end -->
