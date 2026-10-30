@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe | [Apply](https://www.workatastartup.com/jobs/98722) |
 | Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel | [Apply](https://nango.dev/careers) |
 | Converge (YC S23) Is Hiring a Founding Platform Engineer | [Apply](https://www.runconverge.com/careers/founding-platform-engineer) |
 | 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
@@ -34,6 +35,5 @@
 | SubImage (YC W25) Is Hiring a Founding Engineer in SF | [Apply](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer) |
 | Tasklet (YC P26) Is Hiring a Customer Success Engineer | [Apply](https://tasklet.ai/careers/customer-success-engineer) |
 | Gooseworks (YC W23) Is Hiring – Founding Creative Engineer | [Apply](https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer) |
-| 9 Mothers (YC P26) Is Hiring in Austin, TX | [Apply](https://9mothers.com/careers) |
 
 <!-- table end -->
