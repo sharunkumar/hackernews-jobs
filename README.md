@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Ashby (YC W19) Is Hiring EMs | [Apply](https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn) |
 | Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC | [Apply](https://www.ycombinator.com/companies/sava-trust-company/jobs) |
 | Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus) | [Apply](https://bitmovin.com/careers/8660599002/) |
 | Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe | [Apply](https://www.workatastartup.com/jobs/98722) |
@@ -34,6 +35,5 @@
 | Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering | [Apply](https://www.getzep.com/careers/) |
 | Roame (YC S23) Is Hiring Viral Content Editor | [Apply](https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor) |
 | Opalite Health (YC W26) Is Hiring – Founding GTM | [Apply](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm) |
-| SubImage (YC W25) Is Hiring a Founding Engineer in SF | [Apply](https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer) |
 
 <!-- table end -->
