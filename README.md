@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| UpCodes (YC S17) is hiring SDR's to sell AI compliance software | [Apply](https://up.codes/careers?utm_source=HN) |
 | Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
 | Bild AI (YC W25) Is Hiring Founding Product Engineers | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs) |
 | Ashby (YC W19) Is Hiring EMs | [Apply](https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn) |
@@ -34,6 +35,5 @@
 | Jiga (YC W21) Is Hiring Product Engineer (Remote/US) | [Apply](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) |
 | Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide) | [Apply](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013) |
 | Cua (YC P25) Is Hiring a Founding Technical GTM Lead | [Apply](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead) |
-| Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering | [Apply](https://www.getzep.com/careers/) |
 
 <!-- table end -->
