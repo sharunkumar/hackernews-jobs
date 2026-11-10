@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling | [Apply](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer) |
 | UpCodes (YC S17) is hiring SDR's to sell AI compliance software | [Apply](https://up.codes/careers?utm_source=HN) |
 | Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
 | Bild AI (YC W25) Is Hiring Founding Product Engineers | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs) |
@@ -34,6 +35,5 @@
 | Kyber (YC W23) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer) |
 | Jiga (YC W21) Is Hiring Product Engineer (Remote/US) | [Apply](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) |
 | Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide) | [Apply](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013) |
-| Cua (YC P25) Is Hiring a Founding Technical GTM Lead | [Apply](https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead) |
 
 <!-- table end -->
