@@ -34,6 +34,5 @@
 | Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI | [Apply](https://zscc.ai/careers?job_id=109821) |
 | Kyber (YC W23) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer) |
 | Jiga (YC W21) Is Hiring Product Engineer (Remote/US) | [Apply](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) |
-| Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide) | [Apply](https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013) |
 
 <!-- table end -->
