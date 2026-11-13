@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth | [Apply](https://atg.science/careers) |
 | Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling | [Apply](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer) |
 | UpCodes (YC S17) is hiring SDR's to sell AI compliance software | [Apply](https://up.codes/careers?utm_source=HN) |
 | Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers | [Apply](https://www.ycombinator.com/companies/mbodi-ai/jobs) |
@@ -33,6 +34,5 @@
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
 | Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI | [Apply](https://zscc.ai/careers?job_id=109821) |
 | Kyber (YC W23) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer) |
-| Jiga (YC W21) Is Hiring Product Engineer (Remote/US) | [Apply](https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd) |
 
 <!-- table end -->
