@@ -33,6 +33,5 @@
 | Supabase (YC S20) Is Hiring for OrioleDB | [Apply](https://supabase.link/orioledbjob) |
 | Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
 | Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI | [Apply](https://zscc.ai/careers?job_id=109821) |
-| Kyber (YC W23) Is Hiring a Forward Deployed Engineer | [Apply](https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer) |
 
 <!-- table end -->
