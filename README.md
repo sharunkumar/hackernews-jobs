@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers | [Apply](https://tasklet.ai/careers) |
 | Evidence (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead) |
 | Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth | [Apply](https://atg.science/careers) |
 | Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling | [Apply](https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer) |
@@ -32,6 +33,5 @@
 | Stable (YC W20) Is Hiring Product Engineers | [Apply](https://www.usestable.com/careers/product-engineer) |
 | QuestDB (YC S20) Is Hiring a Sales Engineer | [Apply](https://questdb.com/careers/pre-sales-engineer-north-america/) |
 | Supabase (YC S20) Is Hiring for OrioleDB | [Apply](https://supabase.link/orioledbjob) |
-| Cekura (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us) |
 
 <!-- table end -->
