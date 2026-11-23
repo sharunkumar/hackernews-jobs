@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager) |
 | Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers | [Apply](https://tasklet.ai/careers) |
 | Evidence (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead) |
 | Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth | [Apply](https://atg.science/careers) |
@@ -32,6 +33,5 @@
 | Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer) |
 | Stable (YC W20) Is Hiring Product Engineers | [Apply](https://www.usestable.com/careers/product-engineer) |
 | QuestDB (YC S20) Is Hiring a Sales Engineer | [Apply](https://questdb.com/careers/pre-sales-engineer-north-america/) |
-| Supabase (YC S20) Is Hiring for OrioleDB | [Apply](https://supabase.link/orioledbjob) |
 
 <!-- table end -->
