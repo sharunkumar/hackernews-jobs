@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers/) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager) |
 | Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers | [Apply](https://tasklet.ai/careers) |
 | Evidence (YC S21) Is Hiring | [Apply](https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead) |
@@ -32,6 +33,5 @@
 | Truemetrics (YC S23) Is Hiring a GTM Founder's Associate | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate) |
 | Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer) |
 | Stable (YC W20) Is Hiring Product Engineers | [Apply](https://www.usestable.com/careers/product-engineer) |
-| QuestDB (YC S20) Is Hiring a Sales Engineer | [Apply](https://questdb.com/careers/pre-sales-engineer-north-america/) |
 
 <!-- table end -->
