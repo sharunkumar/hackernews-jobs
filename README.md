@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Hazel (YC W24) Is Hiring a Product Designer | [Apply](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract) |
 | Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/weave-os) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers/) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager) |
@@ -32,6 +33,5 @@
 | RetailReady (YC W24) Is Hiring | [Apply](https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations) |
 | Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) |
 | Truemetrics (YC S23) Is Hiring a GTM Founder's Associate | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate) |
-| Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer) |
 
 <!-- table end -->
