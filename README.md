@@ -4,6 +4,7 @@
 
 | Title | Apply |
 |-------|-----|
+| Weave (YC W25) is hiring ML, AI, product, & design engineers | [Apply](https://jobs.ashbyhq.com/weave-os) |
 | EasyPost (YC S13) Is Hiring | [Apply](https://www.easypost.com/careers/) |
 | CollectWise (YC F24) Is Hiring | [Apply](https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager) |
 | Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers | [Apply](https://tasklet.ai/careers) |
@@ -32,6 +33,5 @@
 | Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote) | [Apply](https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack) |
 | Truemetrics (YC S23) Is Hiring a GTM Founder's Associate | [Apply](https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate) |
 | Bild AI (YC W25) Is Hiring a Founding Product Engineer | [Apply](https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer) |
-| Stable (YC W20) Is Hiring Product Engineers | [Apply](https://www.usestable.com/careers/product-engineer) |
 
 <!-- table end -->
